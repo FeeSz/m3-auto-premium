@@ -1,0 +1,4 @@
+import {cp,mkdir,readFile,writeFile,readdir} from 'node:fs/promises';import {createHash} from 'node:crypto';import path from 'node:path';
+const root='output/block-1/before';await mkdir(root,{recursive:true});
+for(const item of ['src','tests','package.json','package-lock.json','next.config.ts','tsconfig.json','eslint.config.mjs'])await cp(item,path.join(root,item),{recursive:true,errorOnExist:true,force:false});
+const manifest={};async function scan(dir){for(const entry of await readdir(dir,{withFileTypes:true})){const p=path.join(dir,entry.name);if(entry.isDirectory())await scan(p);else manifest[p.replaceAll('\\','/')]=createHash('sha256').update(await readFile(p)).digest('hex');}}await scan('src');await writeFile('output/block-1/baseline-hashes.json',JSON.stringify(manifest,null,2));console.log('Baseline saved:',Object.keys(manifest).length,'source files');

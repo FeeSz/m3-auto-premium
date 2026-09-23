@@ -1,0 +1,477 @@
+[
+  {
+    "vehicleId": "19178342",
+    "field": "listedAt",
+    "message": "Unknown store entry date; left null"
+  },
+  {
+    "vehicleId": "19178342",
+    "field": "doors",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19178342",
+    "field": "description",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19178342",
+    "field": "priority",
+    "message": "Missing; default 0"
+  },
+  {
+    "vehicleId": "19178342",
+    "field": "isModified",
+    "message": "Missing; default false, not proof of original configuration"
+  },
+  {
+    "vehicleId": "19176709",
+    "field": "listedAt",
+    "message": "Unknown store entry date; left null"
+  },
+  {
+    "vehicleId": "19176709",
+    "field": "doors",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19176709",
+    "field": "description",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19176709",
+    "field": "images",
+    "message": "Missing photos; default empty gallery"
+  },
+  {
+    "vehicleId": "19176709",
+    "field": "priority",
+    "message": "Missing; default 0"
+  },
+  {
+    "vehicleId": "19176709",
+    "field": "isModified",
+    "message": "Missing; default false, not proof of original configuration"
+  },
+  {
+    "vehicleId": "19178893",
+    "field": "listedAt",
+    "message": "Unknown store entry date; left null"
+  },
+  {
+    "vehicleId": "19178893",
+    "field": "doors",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19178893",
+    "field": "description",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19178893",
+    "field": "priority",
+    "message": "Missing; default 0"
+  },
+  {
+    "vehicleId": "19178893",
+    "field": "isModified",
+    "message": "Missing; default false, not proof of original configuration"
+  },
+  {
+    "vehicleId": "19239594",
+    "field": "listedAt",
+    "message": "Unknown store entry date; left null"
+  },
+  {
+    "vehicleId": "19239594",
+    "field": "doors",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19239594",
+    "field": "description",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19239594",
+    "field": "priority",
+    "message": "Missing; default 0"
+  },
+  {
+    "vehicleId": "19239594",
+    "field": "isModified",
+    "message": "Missing; default false, not proof of original configuration"
+  },
+  {
+    "vehicleId": "19240215",
+    "field": "listedAt",
+    "message": "Unknown store entry date; left null"
+  },
+  {
+    "vehicleId": "19240215",
+    "field": "transmission",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19240215",
+    "field": "doors",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19240215",
+    "field": "description",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19240215",
+    "field": "images",
+    "message": "Missing photos; default empty gallery"
+  },
+  {
+    "vehicleId": "19240215",
+    "field": "priority",
+    "message": "Missing; default 0"
+  },
+  {
+    "vehicleId": "19240215",
+    "field": "isModified",
+    "message": "Missing; default false, not proof of original configuration"
+  },
+  {
+    "vehicleId": "19178069",
+    "field": "listedAt",
+    "message": "Unknown store entry date; left null"
+  },
+  {
+    "vehicleId": "19178069",
+    "field": "doors",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19178069",
+    "field": "description",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19178069",
+    "field": "priority",
+    "message": "Missing; default 0"
+  },
+  {
+    "vehicleId": "19178069",
+    "field": "isModified",
+    "message": "Missing; default false, not proof of original configuration"
+  },
+  {
+    "vehicleId": "19177677",
+    "field": "listedAt",
+    "message": "Unknown store entry date; left null"
+  },
+  {
+    "vehicleId": "19177677",
+    "field": "fuel",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19177677",
+    "field": "doors",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19177677",
+    "field": "description",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19177677",
+    "field": "images",
+    "message": "Missing photos; default empty gallery"
+  },
+  {
+    "vehicleId": "19177677",
+    "field": "priority",
+    "message": "Missing; default 0"
+  },
+  {
+    "vehicleId": "19177677",
+    "field": "isModified",
+    "message": "Missing; default false, not proof of original configuration"
+  },
+  {
+    "vehicleId": "19238755",
+    "field": "listedAt",
+    "message": "Unknown store entry date; left null"
+  },
+  {
+    "vehicleId": "19238755",
+    "field": "doors",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19238755",
+    "field": "description",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19238755",
+    "field": "priority",
+    "message": "Missing; default 0"
+  },
+  {
+    "vehicleId": "19238755",
+    "field": "isModified",
+    "message": "Missing; default false, not proof of original configuration"
+  },
+  {
+    "vehicleId": "19177074",
+    "field": "listedAt",
+    "message": "Unknown store entry date; left null"
+  },
+  {
+    "vehicleId": "19177074",
+    "field": "doors",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19177074",
+    "field": "description",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19177074",
+    "field": "priority",
+    "message": "Missing; default 0"
+  },
+  {
+    "vehicleId": "19177074",
+    "field": "isModified",
+    "message": "Missing; default false, not proof of original configuration"
+  },
+  {
+    "vehicleId": "19240629",
+    "field": "listedAt",
+    "message": "Unknown store entry date; left null"
+  },
+  {
+    "vehicleId": "19240629",
+    "field": "doors",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19240629",
+    "field": "description",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19240629",
+    "field": "priority",
+    "message": "Missing; default 0"
+  },
+  {
+    "vehicleId": "19240629",
+    "field": "isModified",
+    "message": "Missing; default false, not proof of original configuration"
+  },
+  {
+    "vehicleId": "19242426",
+    "field": "listedAt",
+    "message": "Unknown store entry date; left null"
+  },
+  {
+    "vehicleId": "19242426",
+    "field": "doors",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19242426",
+    "field": "description",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19242426",
+    "field": "priority",
+    "message": "Missing; default 0"
+  },
+  {
+    "vehicleId": "19242426",
+    "field": "isModified",
+    "message": "Missing; default false, not proof of original configuration"
+  },
+  {
+    "vehicleId": "19177349",
+    "field": "listedAt",
+    "message": "Unknown store entry date; left null"
+  },
+  {
+    "vehicleId": "19177349",
+    "field": "doors",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19177349",
+    "field": "description",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19177349",
+    "field": "priority",
+    "message": "Missing; default 0"
+  },
+  {
+    "vehicleId": "19177349",
+    "field": "isModified",
+    "message": "Missing; default false, not proof of original configuration"
+  },
+  {
+    "vehicleId": "19177234",
+    "field": "listedAt",
+    "message": "Unknown store entry date; left null"
+  },
+  {
+    "vehicleId": "19177234",
+    "field": "doors",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19177234",
+    "field": "description",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19177234",
+    "field": "priority",
+    "message": "Missing; default 0"
+  },
+  {
+    "vehicleId": "19177234",
+    "field": "isModified",
+    "message": "Missing; default false, not proof of original configuration"
+  },
+  {
+    "vehicleId": "19239213",
+    "field": "listedAt",
+    "message": "Unknown store entry date; left null"
+  },
+  {
+    "vehicleId": "19239213",
+    "field": "doors",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19239213",
+    "field": "description",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19239213",
+    "field": "priority",
+    "message": "Missing; default 0"
+  },
+  {
+    "vehicleId": "19239213",
+    "field": "isModified",
+    "message": "Missing; default false, not proof of original configuration"
+  },
+  {
+    "vehicleId": "19170611",
+    "field": "listedAt",
+    "message": "Unknown store entry date; left null"
+  },
+  {
+    "vehicleId": "19170611",
+    "field": "doors",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19170611",
+    "field": "description",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19170611",
+    "field": "priority",
+    "message": "Missing; default 0"
+  },
+  {
+    "vehicleId": "19170611",
+    "field": "isModified",
+    "message": "Missing; default false, not proof of original configuration"
+  },
+  {
+    "vehicleId": "19178457",
+    "field": "listedAt",
+    "message": "Unknown store entry date; left null"
+  },
+  {
+    "vehicleId": "19178457",
+    "field": "doors",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19178457",
+    "field": "description",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19178457",
+    "field": "priority",
+    "message": "Missing; default 0"
+  },
+  {
+    "vehicleId": "19178457",
+    "field": "isModified",
+    "message": "Missing; default false, not proof of original configuration"
+  },
+  {
+    "vehicleId": "19175835",
+    "field": "listedAt",
+    "message": "Unknown store entry date; left null"
+  },
+  {
+    "vehicleId": "19175835",
+    "field": "doors",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19175835",
+    "field": "description",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19175835",
+    "field": "priority",
+    "message": "Missing; default 0"
+  },
+  {
+    "vehicleId": "19175835",
+    "field": "isModified",
+    "message": "Missing; default false, not proof of original configuration"
+  },
+  {
+    "vehicleId": "19175240",
+    "field": "listedAt",
+    "message": "Unknown store entry date; left null"
+  },
+  {
+    "vehicleId": "19175240",
+    "field": "doors",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19175240",
+    "field": "description",
+    "message": "Not provided by source; left absent"
+  },
+  {
+    "vehicleId": "19175240",
+    "field": "priority",
+    "message": "Missing; default 0"
+  },
+  {
+    "vehicleId": "19175240",
+    "field": "isModified",
+    "message": "Missing; default false, not proof of original configuration"
+  }
+]

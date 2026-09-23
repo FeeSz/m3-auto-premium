@@ -1,0 +1,113 @@
+[
+  {
+    "id": 19178342,
+    "field": "mileageKm",
+    "structured": 80000,
+    "description": "81.742",
+    "decision": "Use structured field; disclose conflict"
+  },
+  {
+    "id": 19176709,
+    "field": "images",
+    "decision": "Detail gallery empty; use verified listing cover only"
+  },
+  {
+    "id": 19178893,
+    "field": "mileageKm",
+    "structured": 87700,
+    "description": "87.608",
+    "decision": "Use structured field; disclose conflict"
+  },
+  {
+    "id": 19239594,
+    "field": "mileageKm",
+    "structured": 97000,
+    "description": "97.539",
+    "decision": "Use structured field; disclose conflict"
+  },
+  {
+    "id": 19240215,
+    "field": "images",
+    "decision": "Detail gallery empty; use verified listing cover only"
+  },
+  {
+    "id": 19240215,
+    "field": "mileageKm",
+    "structured": 115000,
+    "description": "115.226",
+    "decision": "Use structured field; disclose conflict"
+  },
+  {
+    "id": 19240215,
+    "field": "transmission",
+    "value": "Automático",
+    "decision": "Omit due to URL conflict"
+  },
+  {
+    "id": 19177677,
+    "field": "images",
+    "decision": "Detail gallery empty; use verified listing cover only"
+  },
+  {
+    "id": 19177677,
+    "field": "fuel",
+    "value": "Gasolina",
+    "version": "2.0 HSE TD4 Turbo",
+    "decision": "Omit pending confirmation"
+  },
+  {
+    "type": "duplicate",
+    "retained": 19177677,
+    "excluded": 19177792,
+    "url": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077"
+  },
+  {
+    "id": 19238755,
+    "field": "mileageKm",
+    "structured": 93000,
+    "description": "93.204",
+    "decision": "Use structured field; disclose conflict"
+  },
+  {
+    "id": 19177074,
+    "field": "mileageKm",
+    "structured": 52000,
+    "description": "52.543",
+    "decision": "Use structured field; disclose conflict"
+  },
+  {
+    "id": 19240629,
+    "field": "mileageKm",
+    "structured": 91400,
+    "description": "91.494",
+    "decision": "Use structured field; disclose conflict"
+  },
+  {
+    "id": 19242426,
+    "field": "mileageKm",
+    "structured": 121800,
+    "description": "121.587",
+    "decision": "Use structured field; disclose conflict"
+  },
+  {
+    "id": 19177349,
+    "field": "mileageKm",
+    "structured": 49000,
+    "description": "49.186",
+    "decision": "Use structured field; disclose conflict"
+  },
+  {
+    "id": 19177234,
+    "field": "mileageKm",
+    "structured": 43000,
+    "description": "43.296",
+    "decision": "Use structured field; disclose conflict"
+  },
+  {
+    "id": 19175835,
+    "field": "mileageKm",
+    "structured": 3600,
+    "description": "3.700",
+    "decision": "Use structured field; disclose conflict"
+  }
+]

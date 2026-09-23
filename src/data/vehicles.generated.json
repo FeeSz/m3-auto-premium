@@ -1,0 +1,2843 @@
+{
+  "lastUpdatedAt": "2026-09-18T17:55:13.129Z",
+  "vehicles": [
+    {
+      "id": "19178342",
+      "slug": "volkswagen-fusca-1-3-8v-1973",
+      "make": "Volkswagen",
+      "model": "Fusca",
+      "version": "1.3 8V",
+      "modelYear": 1973,
+      "manufactureYear": 1973,
+      "mileageKm": 80000,
+      "price": 43900,
+      "bodyType": "Hatch",
+      "fuel": "Gasolina",
+      "transmission": "Manual",
+      "color": "Vermelho",
+      "condition": "used",
+      "features": [],
+      "images": [
+        {
+          "src": "/vehicles/volkswagen-fusca-1-3-8v-1973/01.webp",
+          "alt": "Volkswagen Fusca 1973 vermelho — foto 1 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/fusca/1-3-8v-8/1973-vermelho-sao-paulo-sao-paulo-12",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/0f/41/46/volkswagen-fusca-1-3-8v-8-1973-sao-paulo-sp-5df09243-YT.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/volkswagen-fusca-1-3-8v-1973/02.webp",
+          "alt": "Volkswagen Fusca 1973 vermelho — foto 2 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/fusca/1-3-8v-8/1973-vermelho-sao-paulo-sao-paulo-12",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/e2/da/3b/volkswagen-fusca-1-3-8v-8-1973-sao-paulo-sp-5df09243-QX.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/volkswagen-fusca-1-3-8v-1973/03.webp",
+          "alt": "Volkswagen Fusca 1973 vermelho — foto 3 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/fusca/1-3-8v-8/1973-vermelho-sao-paulo-sao-paulo-12",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/50/a3/50/volkswagen-fusca-1-3-8v-8-1973-sao-paulo-sp-5df09243-WJ.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/volkswagen-fusca-1-3-8v-1973/04.webp",
+          "alt": "Volkswagen Fusca 1973 vermelho — foto 4 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/fusca/1-3-8v-8/1973-vermelho-sao-paulo-sao-paulo-12",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/e3/4c/85/volkswagen-fusca-1-3-8v-8-1973-sao-paulo-sp-5df09243-Qq.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/volkswagen-fusca-1-3-8v-1973/05.webp",
+          "alt": "Volkswagen Fusca 1973 vermelho — foto 5 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/fusca/1-3-8v-8/1973-vermelho-sao-paulo-sao-paulo-12",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/af/f6/69/volkswagen-fusca-1-3-8v-8-1973-sao-paulo-sp-5df09243-IR.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/volkswagen-fusca-1-3-8v-1973/06.webp",
+          "alt": "Volkswagen Fusca 1973 vermelho — foto 6 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/fusca/1-3-8v-8/1973-vermelho-sao-paulo-sao-paulo-12",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/53/ca/c8/volkswagen-fusca-1-3-8v-8-1973-sao-paulo-sp-5df09243-4w.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/volkswagen-fusca-1-3-8v-1973/07.webp",
+          "alt": "Volkswagen Fusca 1973 vermelho — foto 7 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/fusca/1-3-8v-8/1973-vermelho-sao-paulo-sao-paulo-12",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/4f/89/aa/volkswagen-fusca-1-3-8v-8-1973-sao-paulo-sp-5df09243-AG.webp",
+          "width": 1440,
+          "height": 1080
+        }
+      ],
+      "coverImage": "/vehicles/volkswagen-fusca-1-3-8v-1973/01.webp",
+      "featured": false,
+      "status": "available",
+      "source": {
+        "provider": "usadosbr",
+        "sourceUrl": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/fusca/1-3-8v-8/1973-vermelho-sao-paulo-sao-paulo-12",
+        "externalId": "19178342",
+        "retrievedAt": "2026-09-18T17:52:52.441Z"
+      },
+      "notes": [
+        "A quilometragem diverge entre a ficha e a descrição do anúncio. Confirme com a M3."
+      ]
+    },
+    {
+      "id": "19176709",
+      "slug": "kia-sportage-2-0-lx-2012",
+      "make": "KIA",
+      "model": "Sportage",
+      "version": "2.0 LX",
+      "modelYear": 2012,
+      "manufactureYear": 2012,
+      "mileageKm": 185000,
+      "price": 68900,
+      "bodyType": "SUV",
+      "fuel": "Flex",
+      "transmission": "Automático",
+      "color": "Preto",
+      "condition": "used",
+      "features": [
+        "Air-Bag",
+        "Alarme",
+        "Ar Condicionado",
+        "Banco de Couro",
+        "Direção Hidráulica",
+        "Farol de Neblina",
+        "Freio ABS",
+        "Roda",
+        "Sensor de Estacionamento",
+        "Som",
+        "Trava Elétrica",
+        "Vidro Elétrico",
+        "Câmera de Ré",
+        "Kit Multimídia",
+        "GPS",
+        "Computador de Bordo",
+        "Controle de Som no Volante",
+        "Controle de velocidade",
+        "Volante com regulagem de altura",
+        "Insulfilm",
+        "Bluetooth"
+      ],
+      "images": [],
+      "coverImage": "/brand/m3-logo.webp",
+      "featured": false,
+      "status": "available",
+      "source": {
+        "provider": "usadosbr",
+        "sourceUrl": "https://www.usadosbr.com/carros-e-utilitarios/kia/sportage/2-0-lx-1/2012-preto-sao-paulo-sao-paulo-7150",
+        "externalId": "19176709",
+        "retrievedAt": "2026-09-18T17:52:55.050Z"
+      },
+      "notes": [
+        "Fotografias indisponíveis na fonte consultada. Solicite imagens atualizadas à M3."
+      ]
+    },
+    {
+      "id": "19178893",
+      "slug": "volkswagen-jetta-2-0-tsi-highline-2014",
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "version": "2.0 TSI Highline",
+      "modelYear": 2014,
+      "manufactureYear": 2014,
+      "mileageKm": 87700,
+      "price": 76900,
+      "bodyType": "Sedã",
+      "fuel": "Flex",
+      "transmission": "Automático",
+      "color": "Branco",
+      "condition": "used",
+      "features": [],
+      "images": [
+        {
+          "src": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/01.webp",
+          "alt": "Volkswagen Jetta 2014 branco — foto 1 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/07/2e/94/volkswagen-jetta-2-0-tsi-highline-2014-sao-paulo-sp-c78406a2-56.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/02.webp",
+          "alt": "Volkswagen Jetta 2014 branco — foto 2 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/55/b8/0e/volkswagen-jetta-2-0-tsi-highline-2014-sao-paulo-sp-c78406a2-Zf.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/03.webp",
+          "alt": "Volkswagen Jetta 2014 branco — foto 3 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/af/09/40/volkswagen-jetta-2-0-tsi-highline-2014-sao-paulo-sp-c78406a2-Ww.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/04.webp",
+          "alt": "Volkswagen Jetta 2014 branco — foto 4 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/d6/b6/e1/volkswagen-jetta-2-0-tsi-highline-2014-sao-paulo-sp-c78406a2-d8.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/05.webp",
+          "alt": "Volkswagen Jetta 2014 branco — foto 5 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/30/7d/76/volkswagen-jetta-2-0-tsi-highline-2014-sao-paulo-sp-c78406a2-pw.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/06.webp",
+          "alt": "Volkswagen Jetta 2014 branco — foto 6 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/68/cd/92/volkswagen-jetta-2-0-tsi-highline-2014-sao-paulo-sp-c78406a2-xe.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/07.webp",
+          "alt": "Volkswagen Jetta 2014 branco — foto 7 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/1c/5c/14/volkswagen-jetta-2-0-tsi-highline-2014-sao-paulo-sp-c78406a2-Gr.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/08.webp",
+          "alt": "Volkswagen Jetta 2014 branco — foto 8 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/4c/36/d8/volkswagen-jetta-2-0-tsi-highline-2014-sao-paulo-sp-c78406a2-iE.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/09.webp",
+          "alt": "Volkswagen Jetta 2014 branco — foto 9 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/1d/43/26/volkswagen-jetta-2-0-tsi-highline-2014-sao-paulo-sp-c78406a2-46.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/10.webp",
+          "alt": "Volkswagen Jetta 2014 branco — foto 10 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/95/17/b5/volkswagen-jetta-2-0-tsi-highline-2014-sao-paulo-sp-c78406a2-ys.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/11.webp",
+          "alt": "Volkswagen Jetta 2014 branco — foto 11 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/63/e3/a1/volkswagen-jetta-2-0-tsi-highline-2014-sao-paulo-sp-c78406a2-86.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/12.webp",
+          "alt": "Volkswagen Jetta 2014 branco — foto 12 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/e7/64/a9/volkswagen-jetta-2-0-tsi-highline-2014-sao-paulo-sp-c78406a2-u1.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/13.webp",
+          "alt": "Volkswagen Jetta 2014 branco — foto 13 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/e2/ce/5a/volkswagen-jetta-2-0-tsi-highline-2014-sao-paulo-sp-c78406a2-KZ.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/14.webp",
+          "alt": "Volkswagen Jetta 2014 branco — foto 14 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/5b/82/21/volkswagen-jetta-2-0-tsi-highline-2014-sao-paulo-sp-c78406a2-UO.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/15.webp",
+          "alt": "Volkswagen Jetta 2014 branco — foto 15 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/dc/44/c3/volkswagen-jetta-2-0-tsi-highline-2014-sao-paulo-sp-c78406a2-Pi.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ],
+      "coverImage": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/15.webp",
+      "featured": false,
+      "status": "available",
+      "source": {
+        "provider": "usadosbr",
+        "sourceUrl": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+        "externalId": "19178893",
+        "retrievedAt": "2026-09-18T17:52:36.355Z"
+      },
+      "notes": [
+        "A quilometragem diverge entre a ficha e a descrição do anúncio. Confirme com a M3."
+      ]
+    },
+    {
+      "id": "19239594",
+      "slug": "renault-duster-2-0-dynamique-2016",
+      "make": "Renault",
+      "model": "Duster",
+      "version": "2.0 Dynamique",
+      "modelYear": 2016,
+      "manufactureYear": 2016,
+      "mileageKm": 97000,
+      "price": 50900,
+      "bodyType": "SUV",
+      "fuel": "Flex",
+      "transmission": "Automático",
+      "color": "Branco",
+      "condition": "used",
+      "features": [],
+      "images": [
+        {
+          "src": "/vehicles/renault-duster-2-0-dynamique-2016/01.webp",
+          "alt": "Renault Duster 2016 branco — foto 1 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/7e/38/fe/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-YH.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/renault-duster-2-0-dynamique-2016/02.webp",
+          "alt": "Renault Duster 2016 branco — foto 2 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/d0/f9/d2/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-u1.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/renault-duster-2-0-dynamique-2016/03.webp",
+          "alt": "Renault Duster 2016 branco — foto 3 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/ab/59/72/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-cc.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/renault-duster-2-0-dynamique-2016/04.webp",
+          "alt": "Renault Duster 2016 branco — foto 4 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/ac/1a/60/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-oR.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/renault-duster-2-0-dynamique-2016/05.webp",
+          "alt": "Renault Duster 2016 branco — foto 5 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/f6/3c/f4/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-6b.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/renault-duster-2-0-dynamique-2016/06.webp",
+          "alt": "Renault Duster 2016 branco — foto 6 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/94/d4/01/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-PU.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/renault-duster-2-0-dynamique-2016/07.webp",
+          "alt": "Renault Duster 2016 branco — foto 7 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/05/76/ef/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-rM.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/renault-duster-2-0-dynamique-2016/08.webp",
+          "alt": "Renault Duster 2016 branco — foto 8 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/a0/e8/52/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-FE.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/renault-duster-2-0-dynamique-2016/09.webp",
+          "alt": "Renault Duster 2016 branco — foto 9 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/13/3b/a6/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-7B.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/renault-duster-2-0-dynamique-2016/10.webp",
+          "alt": "Renault Duster 2016 branco — foto 10 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/16/4f/45/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-Ny.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/renault-duster-2-0-dynamique-2016/11.webp",
+          "alt": "Renault Duster 2016 branco — foto 11 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/21/9c/2e/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-E9.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/renault-duster-2-0-dynamique-2016/12.webp",
+          "alt": "Renault Duster 2016 branco — foto 12 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/e6/3c/38/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-6w.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/renault-duster-2-0-dynamique-2016/13.webp",
+          "alt": "Renault Duster 2016 branco — foto 13 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/63/de/ee/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-DR.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/renault-duster-2-0-dynamique-2016/14.webp",
+          "alt": "Renault Duster 2016 branco — foto 14 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/00/55/2a/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-7I.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/renault-duster-2-0-dynamique-2016/15.webp",
+          "alt": "Renault Duster 2016 branco — foto 15 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/d7/9a/9f/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-fN.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/renault-duster-2-0-dynamique-2016/16.webp",
+          "alt": "Renault Duster 2016 branco — foto 16 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/6d/e6/39/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-NU.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/renault-duster-2-0-dynamique-2016/17.webp",
+          "alt": "Renault Duster 2016 branco — foto 17 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/72/f6/60/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-bV.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/renault-duster-2-0-dynamique-2016/18.webp",
+          "alt": "Renault Duster 2016 branco — foto 18 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/e1/f6/bb/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-9p.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/renault-duster-2-0-dynamique-2016/19.webp",
+          "alt": "Renault Duster 2016 branco — foto 19 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/95/10/90/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-yg.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/renault-duster-2-0-dynamique-2016/20.webp",
+          "alt": "Renault Duster 2016 branco — foto 20 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/ab/db/b1/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-I6.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/renault-duster-2-0-dynamique-2016/21.webp",
+          "alt": "Renault Duster 2016 branco — foto 21 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/25/58/c7/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-gy.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/renault-duster-2-0-dynamique-2016/22.webp",
+          "alt": "Renault Duster 2016 branco — foto 22 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/f8/a6/ae/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-3n.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/renault-duster-2-0-dynamique-2016/23.webp",
+          "alt": "Renault Duster 2016 branco — foto 23 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/a5/dd/da/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-WG.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/renault-duster-2-0-dynamique-2016/24.webp",
+          "alt": "Renault Duster 2016 branco — foto 24 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/88/f0/a0/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-5K.webp",
+          "width": 1440,
+          "height": 1080
+        }
+      ],
+      "coverImage": "/vehicles/renault-duster-2-0-dynamique-2016/21.webp",
+      "featured": false,
+      "status": "available",
+      "source": {
+        "provider": "usadosbr",
+        "sourceUrl": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+        "externalId": "19239594",
+        "retrievedAt": "2026-09-18T17:52:25.603Z"
+      },
+      "notes": [
+        "A quilometragem diverge entre a ficha e a descrição do anúncio. Confirme com a M3."
+      ]
+    },
+    {
+      "id": "19240215",
+      "slug": "chevrolet-spin-1-8-lt-8v-2016",
+      "make": "Chevrolet",
+      "model": "Spin",
+      "version": "1.8 LT 8V",
+      "modelYear": 2016,
+      "manufactureYear": 2016,
+      "mileageKm": 115000,
+      "price": 53900,
+      "bodyType": "Minivan",
+      "fuel": "Flex",
+      "color": "Branco",
+      "condition": "used",
+      "features": [],
+      "images": [],
+      "coverImage": "/brand/m3-logo.webp",
+      "featured": false,
+      "status": "available",
+      "source": {
+        "provider": "usadosbr",
+        "sourceUrl": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/spin/1-8-lt-8v-manual/2016-branco-sao-paulo-sao-paulo-8991",
+        "externalId": "19240215",
+        "retrievedAt": "2026-09-18T17:53:00.420Z"
+      },
+      "notes": [
+        "A quilometragem diverge entre a ficha e a descrição do anúncio. Confirme com a M3.",
+        "Câmbio sujeito à confirmação com a M3.",
+        "Fotografias indisponíveis na fonte consultada. Solicite imagens atualizadas à M3."
+      ]
+    },
+    {
+      "id": "19178069",
+      "slug": "chevrolet-cruze-1-4-turbo-ltz-16v-2018",
+      "make": "Chevrolet",
+      "model": "Cruze",
+      "version": "1.4 Turbo LTZ 16V",
+      "modelYear": 2018,
+      "manufactureYear": 2018,
+      "mileageKm": 65500,
+      "price": 88900,
+      "bodyType": "Sedã",
+      "fuel": "Flex",
+      "transmission": "Automático",
+      "color": "Branco",
+      "condition": "used",
+      "features": [],
+      "images": [
+        {
+          "src": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/01.webp",
+          "alt": "Chevrolet Cruze 2018 branco — foto 1 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/19/25/47/chevrolet-cruze-1-4-turbo-ltz-16v-2018-sao-paulo-sp-898fe3cc-GD.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/02.webp",
+          "alt": "Chevrolet Cruze 2018 branco — foto 2 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/86/1e/99/chevrolet-cruze-1-4-turbo-ltz-16v-2018-sao-paulo-sp-898fe3cc-X9.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/03.webp",
+          "alt": "Chevrolet Cruze 2018 branco — foto 3 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/f3/df/10/chevrolet-cruze-1-4-turbo-ltz-16v-2018-sao-paulo-sp-898fe3cc-Gh.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/04.webp",
+          "alt": "Chevrolet Cruze 2018 branco — foto 4 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/d6/58/14/chevrolet-cruze-1-4-turbo-ltz-16v-2018-sao-paulo-sp-898fe3cc-qp.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/05.webp",
+          "alt": "Chevrolet Cruze 2018 branco — foto 5 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/de/64/8f/chevrolet-cruze-1-4-turbo-ltz-16v-2018-sao-paulo-sp-898fe3cc-53.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/06.webp",
+          "alt": "Chevrolet Cruze 2018 branco — foto 6 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/23/96/de/chevrolet-cruze-1-4-turbo-ltz-16v-2018-sao-paulo-sp-898fe3cc-5S.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/07.webp",
+          "alt": "Chevrolet Cruze 2018 branco — foto 7 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/86/77/c7/chevrolet-cruze-1-4-turbo-ltz-16v-2018-sao-paulo-sp-898fe3cc-La.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/08.webp",
+          "alt": "Chevrolet Cruze 2018 branco — foto 8 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/f1/87/0f/chevrolet-cruze-1-4-turbo-ltz-16v-2018-sao-paulo-sp-898fe3cc-O7.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/09.webp",
+          "alt": "Chevrolet Cruze 2018 branco — foto 9 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/c1/8e/f9/chevrolet-cruze-1-4-turbo-ltz-16v-2018-sao-paulo-sp-898fe3cc-O2.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/10.webp",
+          "alt": "Chevrolet Cruze 2018 branco — foto 10 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/cc/c8/06/chevrolet-cruze-1-4-turbo-ltz-16v-2018-sao-paulo-sp-898fe3cc-Gc.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/11.webp",
+          "alt": "Chevrolet Cruze 2018 branco — foto 11 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/32/e5/00/chevrolet-cruze-1-4-turbo-ltz-16v-2018-sao-paulo-sp-898fe3cc-7I.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/12.webp",
+          "alt": "Chevrolet Cruze 2018 branco — foto 12 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/b6/62/69/chevrolet-cruze-1-4-turbo-ltz-16v-2018-sao-paulo-sp-898fe3cc-Wo.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/13.webp",
+          "alt": "Chevrolet Cruze 2018 branco — foto 13 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/32/54/01/chevrolet-cruze-1-4-turbo-ltz-16v-2018-sao-paulo-sp-898fe3cc-ug.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/14.webp",
+          "alt": "Chevrolet Cruze 2018 branco — foto 14 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/15/83/fd/chevrolet-cruze-1-4-turbo-ltz-16v-2018-sao-paulo-sp-898fe3cc-YO.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/15.webp",
+          "alt": "Chevrolet Cruze 2018 branco — foto 15 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/01/79/19/chevrolet-cruze-1-4-turbo-ltz-16v-2018-sao-paulo-sp-898fe3cc-Tx.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ],
+      "coverImage": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/01.webp",
+      "featured": false,
+      "status": "available",
+      "source": {
+        "provider": "usadosbr",
+        "sourceUrl": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+        "externalId": "19178069",
+        "retrievedAt": "2026-09-18T17:52:33.707Z"
+      },
+      "notes": []
+    },
+    {
+      "id": "19177677",
+      "slug": "land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018",
+      "make": "Land Rover",
+      "model": "Range Rover Evoque",
+      "version": "2.0 HSE TD4 Turbo",
+      "modelYear": 2018,
+      "manufactureYear": 2018,
+      "mileageKm": 86000,
+      "price": 139900,
+      "bodyType": "SUV",
+      "transmission": "Automático",
+      "color": "Cinza",
+      "condition": "used",
+      "features": [],
+      "images": [
+        {
+          "src": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/01.webp",
+          "alt": "Land Rover Range Rover Evoque 2018 cinza — foto 1 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+          "remoteSrc": "https://images.usadosbr.com/manipulatedImages/media/gallery/a4/05/61/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-FN-image-760x570-crop.webp",
+          "width": 760,
+          "height": 570
+        },
+        {
+          "src": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/02.webp",
+          "alt": "Land Rover Range Rover Evoque 2018 cinza — foto 2 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+          "remoteSrc": "https://images.usadosbr.com/manipulatedImages/media/gallery/b0/4f/85/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-Er-image-760x570-crop.webp",
+          "width": 760,
+          "height": 570
+        },
+        {
+          "src": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/03.webp",
+          "alt": "Land Rover Range Rover Evoque 2018 cinza — foto 3 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+          "remoteSrc": "https://images.usadosbr.com/manipulatedImages/media/gallery/c7/ed/5b/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-hi-image-760x570-crop.webp",
+          "width": 760,
+          "height": 570
+        },
+        {
+          "src": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/04.webp",
+          "alt": "Land Rover Range Rover Evoque 2018 cinza — foto 4 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+          "remoteSrc": "https://images.usadosbr.com/manipulatedImages/media/gallery/f2/bd/0c/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-uO-image-760x570-crop.webp",
+          "width": 760,
+          "height": 570
+        },
+        {
+          "src": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/05.webp",
+          "alt": "Land Rover Range Rover Evoque 2018 cinza — foto 5 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+          "remoteSrc": "https://images.usadosbr.com/manipulatedImages/media/gallery/e5/52/27/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-he-image-760x570-crop.webp",
+          "width": 760,
+          "height": 570
+        },
+        {
+          "src": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/06.webp",
+          "alt": "Land Rover Range Rover Evoque 2018 cinza — foto 6 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+          "remoteSrc": "https://images.usadosbr.com/manipulatedImages/media/gallery/88/11/b4/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-L4-image-760x570-crop.webp",
+          "width": 760,
+          "height": 570
+        },
+        {
+          "src": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/07.webp",
+          "alt": "Land Rover Range Rover Evoque 2018 cinza — foto 7 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+          "remoteSrc": "https://images.usadosbr.com/manipulatedImages/media/gallery/21/c7/13/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-T5-image-760x570-crop.webp",
+          "width": 760,
+          "height": 570
+        },
+        {
+          "src": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/08.webp",
+          "alt": "Land Rover Range Rover Evoque 2018 cinza — foto 8 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+          "remoteSrc": "https://images.usadosbr.com/manipulatedImages/media/gallery/a8/78/bc/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-rB-image-760x570-crop.webp",
+          "width": 760,
+          "height": 570
+        },
+        {
+          "src": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/09.webp",
+          "alt": "Land Rover Range Rover Evoque 2018 cinza — foto 9 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+          "remoteSrc": "https://images.usadosbr.com/manipulatedImages/media/gallery/a3/cf/b6/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-2K-image-760x570-crop.webp",
+          "width": 760,
+          "height": 570
+        },
+        {
+          "src": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/10.webp",
+          "alt": "Land Rover Range Rover Evoque 2018 cinza — foto 10 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+          "remoteSrc": "https://images.usadosbr.com/manipulatedImages/media/gallery/c8/0f/69/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-k3-image-760x570-crop.webp",
+          "width": 760,
+          "height": 570
+        },
+        {
+          "src": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/11.webp",
+          "alt": "Land Rover Range Rover Evoque 2018 cinza — foto 11 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+          "remoteSrc": "https://images.usadosbr.com/manipulatedImages/media/gallery/8f/b5/ea/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-rL-image-760x570-crop.webp",
+          "width": 760,
+          "height": 570
+        },
+        {
+          "src": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/12.webp",
+          "alt": "Land Rover Range Rover Evoque 2018 cinza — foto 12 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+          "remoteSrc": "https://images.usadosbr.com/manipulatedImages/media/gallery/8e/25/ea/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-zn-image-760x570-crop.webp",
+          "width": 760,
+          "height": 570
+        },
+        {
+          "src": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/13.webp",
+          "alt": "Land Rover Range Rover Evoque 2018 cinza — foto 13 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+          "remoteSrc": "https://images.usadosbr.com/manipulatedImages/media/gallery/f2/23/76/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-ft-image-760x570-crop.webp",
+          "width": 760,
+          "height": 570
+        },
+        {
+          "src": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/14.webp",
+          "alt": "Land Rover Range Rover Evoque 2018 cinza — foto 14 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+          "remoteSrc": "https://images.usadosbr.com/manipulatedImages/media/gallery/d6/1b/98/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-Pv-image-760x570-crop.webp",
+          "width": 760,
+          "height": 570
+        },
+        {
+          "src": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/15.webp",
+          "alt": "Land Rover Range Rover Evoque 2018 cinza — foto 15 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+          "remoteSrc": "https://images.usadosbr.com/manipulatedImages/media/gallery/f3/1b/b4/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-cK-image-760x570-crop.webp",
+          "width": 760,
+          "height": 570
+        },
+        {
+          "src": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/16.webp",
+          "alt": "Land Rover Range Rover Evoque 2018 cinza — foto 16 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+          "remoteSrc": "https://images.usadosbr.com/manipulatedImages/media/gallery/e8/d3/0a/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-Mm-image-760x570-crop.webp",
+          "width": 760,
+          "height": 570
+        },
+        {
+          "src": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/17.webp",
+          "alt": "Land Rover Range Rover Evoque 2018 cinza — foto 17 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+          "remoteSrc": "https://images.usadosbr.com/manipulatedImages/media/gallery/45/42/b3/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-ze-image-760x570-crop.webp",
+          "width": 760,
+          "height": 570
+        },
+        {
+          "src": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/18.webp",
+          "alt": "Land Rover Range Rover Evoque 2018 cinza — foto 18 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+          "remoteSrc": "https://images.usadosbr.com/manipulatedImages/media/gallery/d0/96/4c/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-Zt-image-760x570-crop.webp",
+          "width": 760,
+          "height": 570
+        },
+        {
+          "src": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/19.webp",
+          "alt": "Land Rover Range Rover Evoque 2018 cinza — foto 19 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+          "remoteSrc": "https://images.usadosbr.com/manipulatedImages/media/gallery/88/b3/60/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-PK-image-760x570-crop.webp",
+          "width": 760,
+          "height": 570
+        },
+        {
+          "src": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/20.webp",
+          "alt": "Land Rover Range Rover Evoque 2018 cinza — foto 20 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+          "remoteSrc": "https://images.usadosbr.com/manipulatedImages/media/gallery/d2/df/49/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-dN-image-760x570-crop.webp",
+          "width": 760,
+          "height": 570
+        }
+      ],
+      "coverImage": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/16.webp",
+      "featured": false,
+      "status": "available",
+      "source": {
+        "provider": "usadosbr",
+        "sourceUrl": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8076",
+        "externalId": "19177677",
+        "retrievedAt": "2026-09-18T17:52:57.738Z"
+      },
+      "notes": [
+        "Combustível e versão sujeitos à confirmação na documentação do veículo.",
+        "Fotografias recuperadas do anúncio duplicado 19177792 da própria M3 no mesmo estoque."
+      ]
+    },
+    {
+      "id": "19238755",
+      "slug": "honda-hr-v-1-8-touring-2018",
+      "make": "Honda",
+      "model": "HR-V",
+      "version": "1.8 Touring",
+      "modelYear": 2018,
+      "manufactureYear": 2018,
+      "mileageKm": 93000,
+      "price": 105900,
+      "bodyType": "SUV",
+      "fuel": "Flex",
+      "transmission": "Automático",
+      "color": "Cinza",
+      "condition": "used",
+      "features": [],
+      "images": [
+        {
+          "src": "/vehicles/honda-hr-v-1-8-touring-2018/01.webp",
+          "alt": "Honda HR-V 2018 cinza — foto 1 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-8-touring-9/2018-cinza-sao-paulo-sao-paulo-8078",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/9a/8c/a8/honda-hr-v-1-8-touring-9-2018-sao-paulo-sp-afb96b32-eH.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/honda-hr-v-1-8-touring-2018/02.webp",
+          "alt": "Honda HR-V 2018 cinza — foto 2 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-8-touring-9/2018-cinza-sao-paulo-sao-paulo-8078",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/9a/7d/86/honda-hr-v-1-8-touring-9-2018-sao-paulo-sp-afb96b32-nW.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/honda-hr-v-1-8-touring-2018/03.webp",
+          "alt": "Honda HR-V 2018 cinza — foto 3 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-8-touring-9/2018-cinza-sao-paulo-sao-paulo-8078",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/4c/1b/f5/honda-hr-v-1-8-touring-9-2018-sao-paulo-sp-afb96b32-TY.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/honda-hr-v-1-8-touring-2018/04.webp",
+          "alt": "Honda HR-V 2018 cinza — foto 4 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-8-touring-9/2018-cinza-sao-paulo-sao-paulo-8078",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/7d/03/40/honda-hr-v-1-8-touring-9-2018-sao-paulo-sp-afb96b32-cU.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/honda-hr-v-1-8-touring-2018/05.webp",
+          "alt": "Honda HR-V 2018 cinza — foto 5 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-8-touring-9/2018-cinza-sao-paulo-sao-paulo-8078",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/3c/7e/4f/honda-hr-v-1-8-touring-9-2018-sao-paulo-sp-afb96b32-i1.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/honda-hr-v-1-8-touring-2018/06.webp",
+          "alt": "Honda HR-V 2018 cinza — foto 6 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-8-touring-9/2018-cinza-sao-paulo-sao-paulo-8078",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/c5/45/51/honda-hr-v-1-8-touring-9-2018-sao-paulo-sp-afb96b32-Ga.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/honda-hr-v-1-8-touring-2018/07.webp",
+          "alt": "Honda HR-V 2018 cinza — foto 7 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-8-touring-9/2018-cinza-sao-paulo-sao-paulo-8078",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/80/91/da/honda-hr-v-1-8-touring-9-2018-sao-paulo-sp-afb96b32-b3.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/honda-hr-v-1-8-touring-2018/08.webp",
+          "alt": "Honda HR-V 2018 cinza — foto 8 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-8-touring-9/2018-cinza-sao-paulo-sao-paulo-8078",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/ca/c8/c1/honda-hr-v-1-8-touring-9-2018-sao-paulo-sp-afb96b32-H4.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/honda-hr-v-1-8-touring-2018/09.webp",
+          "alt": "Honda HR-V 2018 cinza — foto 9 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-8-touring-9/2018-cinza-sao-paulo-sao-paulo-8078",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/2b/01/39/honda-hr-v-1-8-touring-9-2018-sao-paulo-sp-afb96b32-wZ.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/honda-hr-v-1-8-touring-2018/10.webp",
+          "alt": "Honda HR-V 2018 cinza — foto 10 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-8-touring-9/2018-cinza-sao-paulo-sao-paulo-8078",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/8e/b9/dc/honda-hr-v-1-8-touring-9-2018-sao-paulo-sp-afb96b32-2R.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ],
+      "coverImage": "/vehicles/honda-hr-v-1-8-touring-2018/01.webp",
+      "featured": false,
+      "status": "available",
+      "source": {
+        "provider": "usadosbr",
+        "sourceUrl": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-8-touring-9/2018-cinza-sao-paulo-sao-paulo-8078",
+        "externalId": "19238755",
+        "retrievedAt": "2026-09-18T17:52:49.698Z"
+      },
+      "notes": [
+        "A quilometragem diverge entre a ficha e a descrição do anúncio. Confirme com a M3."
+      ]
+    },
+    {
+      "id": "19177074",
+      "slug": "jeep-renegade-1-8-longitude-2019",
+      "make": "Jeep",
+      "model": "Renegade",
+      "version": "1.8 Longitude",
+      "modelYear": 2019,
+      "manufactureYear": 2019,
+      "mileageKm": 52000,
+      "price": 75900,
+      "bodyType": "SUV",
+      "fuel": "Flex",
+      "transmission": "Automático",
+      "color": "Cinza",
+      "condition": "used",
+      "features": [
+        "Air-Bag",
+        "Alarme",
+        "Ar Condicionado",
+        "Banco de Couro",
+        "Freio ABS",
+        "Sensor de Estacionamento",
+        "Trava Elétrica",
+        "Vidro Elétrico",
+        "Câmera de Ré",
+        "Kit Multimídia",
+        "Entrada USB",
+        "Partida remota",
+        "Computador de Bordo",
+        "Controle de Som no Volante",
+        "Controle de velocidade",
+        "Volante com regulagem de altura",
+        "Farol Automático",
+        "Insulfilm",
+        "Bluetooth"
+      ],
+      "images": [
+        {
+          "src": "/vehicles/jeep-renegade-1-8-longitude-2019/01.webp",
+          "alt": "Jeep Renegade 2019 cinza — foto 1 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/e2/66/64/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-Y5.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/jeep-renegade-1-8-longitude-2019/02.webp",
+          "alt": "Jeep Renegade 2019 cinza — foto 2 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/ad/0d/0d/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-Es.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/jeep-renegade-1-8-longitude-2019/03.webp",
+          "alt": "Jeep Renegade 2019 cinza — foto 3 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/94/ad/a2/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-Dm.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/jeep-renegade-1-8-longitude-2019/04.webp",
+          "alt": "Jeep Renegade 2019 cinza — foto 4 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/ad/0d/0d/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-Es.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/jeep-renegade-1-8-longitude-2019/05.webp",
+          "alt": "Jeep Renegade 2019 cinza — foto 5 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/07/f1/88/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-TI.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/jeep-renegade-1-8-longitude-2019/06.webp",
+          "alt": "Jeep Renegade 2019 cinza — foto 6 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/59/4a/03/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-8V.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/jeep-renegade-1-8-longitude-2019/07.webp",
+          "alt": "Jeep Renegade 2019 cinza — foto 7 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/de/ca/da/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-jV.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/jeep-renegade-1-8-longitude-2019/08.webp",
+          "alt": "Jeep Renegade 2019 cinza — foto 8 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/20/c9/8b/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-qh.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/jeep-renegade-1-8-longitude-2019/09.webp",
+          "alt": "Jeep Renegade 2019 cinza — foto 9 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/10/cf/c6/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-ZQ.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/jeep-renegade-1-8-longitude-2019/10.webp",
+          "alt": "Jeep Renegade 2019 cinza — foto 10 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/ca/e0/31/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-Qg.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/jeep-renegade-1-8-longitude-2019/11.webp",
+          "alt": "Jeep Renegade 2019 cinza — foto 11 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/6c/8b/68/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-Q4.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/jeep-renegade-1-8-longitude-2019/12.webp",
+          "alt": "Jeep Renegade 2019 cinza — foto 12 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/98/ab/c2/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-Xj.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/jeep-renegade-1-8-longitude-2019/13.webp",
+          "alt": "Jeep Renegade 2019 cinza — foto 13 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/d3/ee/83/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-eU.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/jeep-renegade-1-8-longitude-2019/14.webp",
+          "alt": "Jeep Renegade 2019 cinza — foto 14 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/af/98/fa/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-sR.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/jeep-renegade-1-8-longitude-2019/15.webp",
+          "alt": "Jeep Renegade 2019 cinza — foto 15 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/16/d5/5c/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-rs.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/jeep-renegade-1-8-longitude-2019/16.webp",
+          "alt": "Jeep Renegade 2019 cinza — foto 16 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/aa/bd/a6/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-VU.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/jeep-renegade-1-8-longitude-2019/17.webp",
+          "alt": "Jeep Renegade 2019 cinza — foto 17 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/71/32/f8/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-RJ.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/jeep-renegade-1-8-longitude-2019/18.webp",
+          "alt": "Jeep Renegade 2019 cinza — foto 18 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/f2/03/1c/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-HR.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/jeep-renegade-1-8-longitude-2019/19.webp",
+          "alt": "Jeep Renegade 2019 cinza — foto 19 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/d2/a8/51/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-LY.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/jeep-renegade-1-8-longitude-2019/20.webp",
+          "alt": "Jeep Renegade 2019 cinza — foto 20 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/96/ff/c3/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-Nb.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/jeep-renegade-1-8-longitude-2019/21.webp",
+          "alt": "Jeep Renegade 2019 cinza — foto 21 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/ce/2e/69/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-ti.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/jeep-renegade-1-8-longitude-2019/22.webp",
+          "alt": "Jeep Renegade 2019 cinza — foto 22 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/85/d8/d7/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-CJ.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ],
+      "coverImage": "/vehicles/jeep-renegade-1-8-longitude-2019/01.webp",
+      "featured": false,
+      "status": "available",
+      "source": {
+        "provider": "usadosbr",
+        "sourceUrl": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+        "externalId": "19177074",
+        "retrievedAt": "2026-09-18T17:52:14.736Z"
+      },
+      "notes": [
+        "A quilometragem diverge entre a ficha e a descrição do anúncio. Confirme com a M3."
+      ]
+    },
+    {
+      "id": "19240629",
+      "slug": "hyundai-creta-1-6-pulse-2019",
+      "make": "Hyundai",
+      "model": "Creta",
+      "version": "1.6 Pulse",
+      "modelYear": 2019,
+      "manufactureYear": 2019,
+      "mileageKm": 91400,
+      "price": 87900,
+      "bodyType": "SUV",
+      "fuel": "Flex",
+      "transmission": "Automático",
+      "color": "Prata",
+      "condition": "used",
+      "features": [],
+      "images": [
+        {
+          "src": "/vehicles/hyundai-creta-1-6-pulse-2019/01.webp",
+          "alt": "Hyundai Creta 2019 prata — foto 1 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/creta/1-6-pulse/2019-prata-sao-paulo-sao-paulo-17047",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/57/0f/15/hyundai-creta-1-6-pulse-2019-sao-paulo-sp-88924040-OA.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/hyundai-creta-1-6-pulse-2019/02.webp",
+          "alt": "Hyundai Creta 2019 prata — foto 2 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/creta/1-6-pulse/2019-prata-sao-paulo-sao-paulo-17047",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/ac/72/c4/hyundai-creta-1-6-pulse-2019-sao-paulo-sp-88924040-cQ.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/hyundai-creta-1-6-pulse-2019/03.webp",
+          "alt": "Hyundai Creta 2019 prata — foto 3 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/creta/1-6-pulse/2019-prata-sao-paulo-sao-paulo-17047",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/5d/8a/4a/hyundai-creta-1-6-pulse-2019-sao-paulo-sp-88924040-qk.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/hyundai-creta-1-6-pulse-2019/04.webp",
+          "alt": "Hyundai Creta 2019 prata — foto 4 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/creta/1-6-pulse/2019-prata-sao-paulo-sao-paulo-17047",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/d7/e5/ea/hyundai-creta-1-6-pulse-2019-sao-paulo-sp-88924040-6Z.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/hyundai-creta-1-6-pulse-2019/05.webp",
+          "alt": "Hyundai Creta 2019 prata — foto 5 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/creta/1-6-pulse/2019-prata-sao-paulo-sao-paulo-17047",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/5c/b9/11/hyundai-creta-1-6-pulse-2019-sao-paulo-sp-88924040-FC.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/hyundai-creta-1-6-pulse-2019/06.webp",
+          "alt": "Hyundai Creta 2019 prata — foto 6 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/creta/1-6-pulse/2019-prata-sao-paulo-sao-paulo-17047",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/58/20/73/hyundai-creta-1-6-pulse-2019-sao-paulo-sp-88924040-XM.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/hyundai-creta-1-6-pulse-2019/07.webp",
+          "alt": "Hyundai Creta 2019 prata — foto 7 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/creta/1-6-pulse/2019-prata-sao-paulo-sao-paulo-17047",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/3d/12/9b/hyundai-creta-1-6-pulse-2019-sao-paulo-sp-88924040-pN.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/hyundai-creta-1-6-pulse-2019/08.webp",
+          "alt": "Hyundai Creta 2019 prata — foto 8 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/creta/1-6-pulse/2019-prata-sao-paulo-sao-paulo-17047",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/d5/fc/24/hyundai-creta-1-6-pulse-2019-sao-paulo-sp-88924040-gy.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/hyundai-creta-1-6-pulse-2019/09.webp",
+          "alt": "Hyundai Creta 2019 prata — foto 9 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/creta/1-6-pulse/2019-prata-sao-paulo-sao-paulo-17047",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/9e/8e/4d/hyundai-creta-1-6-pulse-2019-sao-paulo-sp-88924040-hJ.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/hyundai-creta-1-6-pulse-2019/10.webp",
+          "alt": "Hyundai Creta 2019 prata — foto 10 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/creta/1-6-pulse/2019-prata-sao-paulo-sao-paulo-17047",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/40/fa/f2/hyundai-creta-1-6-pulse-2019-sao-paulo-sp-88924040-n9.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/hyundai-creta-1-6-pulse-2019/11.webp",
+          "alt": "Hyundai Creta 2019 prata — foto 11 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/creta/1-6-pulse/2019-prata-sao-paulo-sao-paulo-17047",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/4e/ad/8b/hyundai-creta-1-6-pulse-2019-sao-paulo-sp-88924040-np.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/hyundai-creta-1-6-pulse-2019/12.webp",
+          "alt": "Hyundai Creta 2019 prata — foto 12 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/creta/1-6-pulse/2019-prata-sao-paulo-sao-paulo-17047",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/73/46/dd/hyundai-creta-1-6-pulse-2019-sao-paulo-sp-88924040-R4.webp",
+          "width": 1440,
+          "height": 1080
+        }
+      ],
+      "coverImage": "/vehicles/hyundai-creta-1-6-pulse-2019/01.webp",
+      "featured": false,
+      "status": "available",
+      "source": {
+        "provider": "usadosbr",
+        "sourceUrl": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/creta/1-6-pulse/2019-prata-sao-paulo-sao-paulo-17047",
+        "externalId": "19240629",
+        "retrievedAt": "2026-09-18T17:52:47.075Z"
+      },
+      "notes": [
+        "A quilometragem diverge entre a ficha e a descrição do anúncio. Confirme com a M3."
+      ]
+    },
+    {
+      "id": "19242426",
+      "slug": "chery-tiggo-2-1-5-16v-act-2020",
+      "make": "Chery",
+      "model": "Tiggo 2",
+      "version": "1.5 16V ACT",
+      "modelYear": 2020,
+      "manufactureYear": 2020,
+      "mileageKm": 121800,
+      "price": 69900,
+      "bodyType": "SUV",
+      "fuel": "Flex",
+      "transmission": "Automático",
+      "color": "Preto",
+      "condition": "used",
+      "features": [],
+      "images": [
+        {
+          "src": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/01.webp",
+          "alt": "Chery Tiggo 2 2020 preto — foto 1 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/a1/65/d7/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-og.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/02.webp",
+          "alt": "Chery Tiggo 2 2020 preto — foto 2 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/7d/c6/70/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-Ge.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/03.webp",
+          "alt": "Chery Tiggo 2 2020 preto — foto 3 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/13/e2/95/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-RG.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/04.webp",
+          "alt": "Chery Tiggo 2 2020 preto — foto 4 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/dc/1b/d2/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-5m.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/05.webp",
+          "alt": "Chery Tiggo 2 2020 preto — foto 5 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/ee/c1/68/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-p6.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/06.webp",
+          "alt": "Chery Tiggo 2 2020 preto — foto 6 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/e5/46/28/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-8e.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/07.webp",
+          "alt": "Chery Tiggo 2 2020 preto — foto 7 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/6c/46/40/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-KO.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/08.webp",
+          "alt": "Chery Tiggo 2 2020 preto — foto 8 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/6e/92/13/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-i3.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/09.webp",
+          "alt": "Chery Tiggo 2 2020 preto — foto 9 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/04/26/36/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-vQ.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/10.webp",
+          "alt": "Chery Tiggo 2 2020 preto — foto 10 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/65/50/2f/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-Uw.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/11.webp",
+          "alt": "Chery Tiggo 2 2020 preto — foto 11 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/85/bf/71/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-ma.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/12.webp",
+          "alt": "Chery Tiggo 2 2020 preto — foto 12 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/ef/6f/3f/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-we.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/13.webp",
+          "alt": "Chery Tiggo 2 2020 preto — foto 13 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/89/cb/e5/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-TU.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/14.webp",
+          "alt": "Chery Tiggo 2 2020 preto — foto 14 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/a5/7e/53/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-Y4.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/15.webp",
+          "alt": "Chery Tiggo 2 2020 preto — foto 15 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/3e/38/c6/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-b7.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/16.webp",
+          "alt": "Chery Tiggo 2 2020 preto — foto 16 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/52/c6/89/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-1g.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/17.webp",
+          "alt": "Chery Tiggo 2 2020 preto — foto 17 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/61/b3/88/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-sR.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/18.webp",
+          "alt": "Chery Tiggo 2 2020 preto — foto 18 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/f0/ad/cb/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-bg.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/19.webp",
+          "alt": "Chery Tiggo 2 2020 preto — foto 19 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/5e/6b/ec/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-UX.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/20.webp",
+          "alt": "Chery Tiggo 2 2020 preto — foto 20 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/31/9d/04/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-lw.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/21.webp",
+          "alt": "Chery Tiggo 2 2020 preto — foto 21 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/fa/d5/b5/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-37.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/22.webp",
+          "alt": "Chery Tiggo 2 2020 preto — foto 22 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/88/8f/11/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-QX.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ],
+      "coverImage": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/01.webp",
+      "featured": false,
+      "status": "available",
+      "source": {
+        "provider": "usadosbr",
+        "sourceUrl": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+        "externalId": "19242426",
+        "retrievedAt": "2026-09-18T17:52:22.769Z"
+      },
+      "notes": [
+        "A quilometragem diverge entre a ficha e a descrição do anúncio. Confirme com a M3."
+      ]
+    },
+    {
+      "id": "19177349",
+      "slug": "honda-hr-v-1-5-di-i-vtec-exl-2023",
+      "make": "Honda",
+      "model": "HR-V",
+      "version": "1.5 DI I-Vtec EXL",
+      "modelYear": 2023,
+      "manufactureYear": 2023,
+      "mileageKm": 49000,
+      "price": 143900,
+      "bodyType": "SUV",
+      "fuel": "Flex",
+      "transmission": "Automático",
+      "color": "Cinza",
+      "condition": "used",
+      "features": [],
+      "images": [
+        {
+          "src": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/01.webp",
+          "alt": "Honda HR-V 2023 cinza — foto 1 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/f3/3e/2e/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-ij.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/02.webp",
+          "alt": "Honda HR-V 2023 cinza — foto 2 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/6a/f0/ef/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-lQ.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/03.webp",
+          "alt": "Honda HR-V 2023 cinza — foto 3 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/e6/5f/e1/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-0i.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/04.webp",
+          "alt": "Honda HR-V 2023 cinza — foto 4 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/e9/fd/25/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-kv.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/05.webp",
+          "alt": "Honda HR-V 2023 cinza — foto 5 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/01/e7/5e/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-we.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/06.webp",
+          "alt": "Honda HR-V 2023 cinza — foto 6 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/67/f1/a1/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-Al.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/07.webp",
+          "alt": "Honda HR-V 2023 cinza — foto 7 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/8d/9c/e8/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-tx.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/08.webp",
+          "alt": "Honda HR-V 2023 cinza — foto 8 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/7c/7a/3f/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-jk.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/09.webp",
+          "alt": "Honda HR-V 2023 cinza — foto 9 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/b2/4e/7d/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-5V.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/10.webp",
+          "alt": "Honda HR-V 2023 cinza — foto 10 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/c5/8d/a6/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-JJ.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/11.webp",
+          "alt": "Honda HR-V 2023 cinza — foto 11 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/db/67/5f/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-mo.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/12.webp",
+          "alt": "Honda HR-V 2023 cinza — foto 12 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/8d/14/1b/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-sN.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/13.webp",
+          "alt": "Honda HR-V 2023 cinza — foto 13 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/bb/2e/3e/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-0w.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/14.webp",
+          "alt": "Honda HR-V 2023 cinza — foto 14 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/c1/27/b5/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-py.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/15.webp",
+          "alt": "Honda HR-V 2023 cinza — foto 15 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/e5/1d/a3/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-Q7.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/16.webp",
+          "alt": "Honda HR-V 2023 cinza — foto 16 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/e3/dc/ee/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-A4.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/17.webp",
+          "alt": "Honda HR-V 2023 cinza — foto 17 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/e8/c2/4f/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-IC.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/18.webp",
+          "alt": "Honda HR-V 2023 cinza — foto 18 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/41/64/81/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-23.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/19.webp",
+          "alt": "Honda HR-V 2023 cinza — foto 19 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/f9/a3/68/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-UM.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/20.webp",
+          "alt": "Honda HR-V 2023 cinza — foto 20 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/f1/e7/f4/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-8P.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/21.webp",
+          "alt": "Honda HR-V 2023 cinza — foto 21 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/a6/f8/6d/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-vy.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ],
+      "coverImage": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/01.webp",
+      "featured": true,
+      "status": "available",
+      "source": {
+        "provider": "usadosbr",
+        "sourceUrl": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+        "externalId": "19177349",
+        "retrievedAt": "2026-09-18T17:52:11.882Z"
+      },
+      "notes": [
+        "A quilometragem diverge entre a ficha e a descrição do anúncio. Confirme com a M3."
+      ]
+    },
+    {
+      "id": "19177234",
+      "slug": "audi-q3-2-0-tfsi-performance-quattro-2024",
+      "make": "Audi",
+      "model": "Q3",
+      "version": "2.0 TFSI Performance Quattro",
+      "modelYear": 2024,
+      "manufactureYear": 2024,
+      "mileageKm": 43000,
+      "price": 249900,
+      "bodyType": "SUV",
+      "fuel": "Gasolina",
+      "transmission": "Automático",
+      "color": "Cinza",
+      "condition": "used",
+      "features": [
+        "Air-Bag",
+        "Alarme",
+        "Ar Condicionado",
+        "Banco de Couro",
+        "Farol de Neblina",
+        "Freio ABS",
+        "Limp e/ou Desemb",
+        "Retrovisor Elétrico",
+        "Roda",
+        "Sensor de Estacionamento",
+        "Som",
+        "Teto Solar",
+        "Trava Elétrica",
+        "Vidro Elétrico",
+        "Piloto Automático",
+        "Câmera de Ré",
+        "Kit Multimídia",
+        "Farol de Xenon",
+        "Ar Condicionado Digital",
+        "Sistema Start/Stop",
+        "Sensor de chuva",
+        "Abertura elétrica do porta malas",
+        "Controle eletrônico de estabilidade",
+        "Teto Solar Panorâmico",
+        "Paddle Shift",
+        "Banco dianteiro com ajuste elétrico de altura",
+        "Entrada USB",
+        "Air-Bag lateral",
+        "Farol de Led",
+        "GPS",
+        "Retrovisor fotocrômico",
+        "Apoio central de braço",
+        "Banco com regulagem de altura",
+        "Computador de Bordo",
+        "Controle de Som no Volante",
+        "Controle de Tração",
+        "Encosto de cabeça traseiro",
+        "Volante com regulagem de altura",
+        "Insulfilm",
+        "Bluetooth"
+      ],
+      "images": [
+        {
+          "src": "/vehicles/audi-q3-2-0-tfsi-performance-quattro-2024/01.webp",
+          "alt": "Audi Q3 2024 cinza — foto 1 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/audi/q3/2-0-tfsi-performance-quattro/2024-cinza-sao-paulo-sao-paulo-66896",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/34/21/31/audi-q3-2-0-tfsi-performance-quattro-2024-sao-paulo-sp-a3aed809-Jl.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/audi-q3-2-0-tfsi-performance-quattro-2024/02.webp",
+          "alt": "Audi Q3 2024 cinza — foto 2 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/audi/q3/2-0-tfsi-performance-quattro/2024-cinza-sao-paulo-sao-paulo-66896",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/92/55/ae/audi-q3-2-0-tfsi-performance-quattro-2024-sao-paulo-sp-a3aed809-AE.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/audi-q3-2-0-tfsi-performance-quattro-2024/03.webp",
+          "alt": "Audi Q3 2024 cinza — foto 3 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/audi/q3/2-0-tfsi-performance-quattro/2024-cinza-sao-paulo-sao-paulo-66896",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/0d/c7/a1/audi-q3-2-0-tfsi-performance-quattro-2024-sao-paulo-sp-a3aed809-vi.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/audi-q3-2-0-tfsi-performance-quattro-2024/04.webp",
+          "alt": "Audi Q3 2024 cinza — foto 4 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/audi/q3/2-0-tfsi-performance-quattro/2024-cinza-sao-paulo-sao-paulo-66896",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/ca/0c/a8/audi-q3-2-0-tfsi-performance-quattro-2024-sao-paulo-sp-a3aed809-i6.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/audi-q3-2-0-tfsi-performance-quattro-2024/05.webp",
+          "alt": "Audi Q3 2024 cinza — foto 5 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/audi/q3/2-0-tfsi-performance-quattro/2024-cinza-sao-paulo-sao-paulo-66896",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/32/31/36/audi-q3-2-0-tfsi-performance-quattro-2024-sao-paulo-sp-a3aed809-2O.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/audi-q3-2-0-tfsi-performance-quattro-2024/06.webp",
+          "alt": "Audi Q3 2024 cinza — foto 6 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/audi/q3/2-0-tfsi-performance-quattro/2024-cinza-sao-paulo-sao-paulo-66896",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/77/92/18/audi-q3-2-0-tfsi-performance-quattro-2024-sao-paulo-sp-a3aed809-tm.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/audi-q3-2-0-tfsi-performance-quattro-2024/07.webp",
+          "alt": "Audi Q3 2024 cinza — foto 7 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/audi/q3/2-0-tfsi-performance-quattro/2024-cinza-sao-paulo-sao-paulo-66896",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/50/7b/0d/audi-q3-2-0-tfsi-performance-quattro-2024-sao-paulo-sp-a3aed809-Ks.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/audi-q3-2-0-tfsi-performance-quattro-2024/08.webp",
+          "alt": "Audi Q3 2024 cinza — foto 8 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/audi/q3/2-0-tfsi-performance-quattro/2024-cinza-sao-paulo-sao-paulo-66896",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/72/7e/0a/audi-q3-2-0-tfsi-performance-quattro-2024-sao-paulo-sp-a3aed809-HG.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/audi-q3-2-0-tfsi-performance-quattro-2024/09.webp",
+          "alt": "Audi Q3 2024 cinza — foto 9 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/audi/q3/2-0-tfsi-performance-quattro/2024-cinza-sao-paulo-sao-paulo-66896",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/47/dc/c4/audi-q3-2-0-tfsi-performance-quattro-2024-sao-paulo-sp-a3aed809-Yg.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/audi-q3-2-0-tfsi-performance-quattro-2024/10.webp",
+          "alt": "Audi Q3 2024 cinza — foto 10 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/audi/q3/2-0-tfsi-performance-quattro/2024-cinza-sao-paulo-sao-paulo-66896",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/d4/79/ef/audi-q3-2-0-tfsi-performance-quattro-2024-sao-paulo-sp-a3aed809-s4.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/audi-q3-2-0-tfsi-performance-quattro-2024/11.webp",
+          "alt": "Audi Q3 2024 cinza — foto 11 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/audi/q3/2-0-tfsi-performance-quattro/2024-cinza-sao-paulo-sao-paulo-66896",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/c1/cb/88/audi-q3-2-0-tfsi-performance-quattro-2024-sao-paulo-sp-a3aed809-l5.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/audi-q3-2-0-tfsi-performance-quattro-2024/12.webp",
+          "alt": "Audi Q3 2024 cinza — foto 12 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/audi/q3/2-0-tfsi-performance-quattro/2024-cinza-sao-paulo-sao-paulo-66896",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/7d/3d/9f/audi-q3-2-0-tfsi-performance-quattro-2024-sao-paulo-sp-a3aed809-j4.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/audi-q3-2-0-tfsi-performance-quattro-2024/13.webp",
+          "alt": "Audi Q3 2024 cinza — foto 13 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/audi/q3/2-0-tfsi-performance-quattro/2024-cinza-sao-paulo-sao-paulo-66896",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/d0/56/a2/audi-q3-2-0-tfsi-performance-quattro-2024-sao-paulo-sp-a3aed809-Vi.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/audi-q3-2-0-tfsi-performance-quattro-2024/14.webp",
+          "alt": "Audi Q3 2024 cinza — foto 14 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/audi/q3/2-0-tfsi-performance-quattro/2024-cinza-sao-paulo-sao-paulo-66896",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/9e/bd/67/audi-q3-2-0-tfsi-performance-quattro-2024-sao-paulo-sp-a3aed809-8C.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ],
+      "coverImage": "/vehicles/audi-q3-2-0-tfsi-performance-quattro-2024/01.webp",
+      "featured": false,
+      "status": "available",
+      "source": {
+        "provider": "usadosbr",
+        "sourceUrl": "https://www.usadosbr.com/carros-e-utilitarios/audi/q3/2-0-tfsi-performance-quattro/2024-cinza-sao-paulo-sao-paulo-66896",
+        "externalId": "19177234",
+        "retrievedAt": "2026-09-18T17:52:39.080Z"
+      },
+      "notes": [
+        "A quilometragem diverge entre a ficha e a descrição do anúncio. Confirme com a M3."
+      ]
+    },
+    {
+      "id": "19239213",
+      "slug": "hyundai-hb20s-1-0-comfort-plus-2024",
+      "make": "Hyundai",
+      "model": "HB20S",
+      "version": "1.0 Comfort Plus",
+      "modelYear": 2024,
+      "manufactureYear": 2024,
+      "mileageKm": 47000,
+      "price": 79900,
+      "bodyType": "Sedã",
+      "fuel": "Flex",
+      "transmission": "Automático",
+      "color": "Prata",
+      "condition": "used",
+      "features": [],
+      "images": [
+        {
+          "src": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/01.webp",
+          "alt": "Hyundai HB20S 2024 prata — foto 1 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/21/5a/a9/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-yL.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/02.webp",
+          "alt": "Hyundai HB20S 2024 prata — foto 2 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/df/80/58/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-r5.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/03.webp",
+          "alt": "Hyundai HB20S 2024 prata — foto 3 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/2a/05/fa/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-YT.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/04.webp",
+          "alt": "Hyundai HB20S 2024 prata — foto 4 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/74/01/18/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-5n.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/05.webp",
+          "alt": "Hyundai HB20S 2024 prata — foto 5 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/4d/4f/30/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-IK.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/06.webp",
+          "alt": "Hyundai HB20S 2024 prata — foto 6 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/a3/cd/0a/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-Vu.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/07.webp",
+          "alt": "Hyundai HB20S 2024 prata — foto 7 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/59/c6/fa/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-xy.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/08.webp",
+          "alt": "Hyundai HB20S 2024 prata — foto 8 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/f7/24/c3/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-vS.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/09.webp",
+          "alt": "Hyundai HB20S 2024 prata — foto 9 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/ef/2c/aa/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-vh.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/10.webp",
+          "alt": "Hyundai HB20S 2024 prata — foto 10 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/0e/13/36/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-BF.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/11.webp",
+          "alt": "Hyundai HB20S 2024 prata — foto 11 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/e0/ff/4e/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-3g.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/12.webp",
+          "alt": "Hyundai HB20S 2024 prata — foto 12 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/30/46/8e/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-Jy.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/13.webp",
+          "alt": "Hyundai HB20S 2024 prata — foto 13 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/09/8c/ac/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-5D.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/14.webp",
+          "alt": "Hyundai HB20S 2024 prata — foto 14 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/d7/2d/ac/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-Pa.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/15.webp",
+          "alt": "Hyundai HB20S 2024 prata — foto 15 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/d2/45/c3/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-nf.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/16.webp",
+          "alt": "Hyundai HB20S 2024 prata — foto 16 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/27/86/2b/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-9C.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/17.webp",
+          "alt": "Hyundai HB20S 2024 prata — foto 17 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/dc/8d/b2/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-Yh.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/18.webp",
+          "alt": "Hyundai HB20S 2024 prata — foto 18 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/00/d0/23/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-CQ.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/19.webp",
+          "alt": "Hyundai HB20S 2024 prata — foto 19 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/18/e1/9c/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-02.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/20.webp",
+          "alt": "Hyundai HB20S 2024 prata — foto 20 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/96/30/ab/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-1d.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/21.webp",
+          "alt": "Hyundai HB20S 2024 prata — foto 21 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/b7/4c/ac/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-in.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/22.webp",
+          "alt": "Hyundai HB20S 2024 prata — foto 22 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/7d/15/7b/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-IW.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/23.webp",
+          "alt": "Hyundai HB20S 2024 prata — foto 23 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/3a/f7/88/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-sc.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ],
+      "coverImage": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/01.webp",
+      "featured": false,
+      "status": "available",
+      "source": {
+        "provider": "usadosbr",
+        "sourceUrl": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+        "externalId": "19239213",
+        "retrievedAt": "2026-09-18T17:52:20.106Z"
+      },
+      "notes": []
+    },
+    {
+      "id": "19170611",
+      "slug": "volkswagen-taos-1-4-250-tsi-highline-2025",
+      "make": "Volkswagen",
+      "model": "Taos",
+      "version": "1.4 250 TSI Highline",
+      "modelYear": 2025,
+      "manufactureYear": 2025,
+      "mileageKm": 16000,
+      "price": 178900,
+      "bodyType": "SUV",
+      "fuel": "Flex",
+      "transmission": "Automático",
+      "color": "Branco",
+      "condition": "used",
+      "features": [
+        "Air-Bag",
+        "Alarme",
+        "Ar Condicionado",
+        "Banco de Couro",
+        "Farol de Neblina",
+        "Freio ABS",
+        "Limp e/ou Desemb",
+        "Retrovisor Elétrico",
+        "Roda",
+        "Sensor de Estacionamento",
+        "Som",
+        "Teto Solar",
+        "Trava Elétrica",
+        "Vidro Elétrico",
+        "Piloto Automático",
+        "Câmera de Ré",
+        "Kit Multimídia",
+        "Direção Elétrica",
+        "Farol de Xenon",
+        "Ar Condicionado Digital",
+        "Assistente de partida em rampa",
+        "Sistema Start/Stop",
+        "Sensor de chuva",
+        "Abertura elétrica do porta malas",
+        "Teto Solar Panorâmico",
+        "Paddle Shift",
+        "Banco dianteiro com ajuste elétrico de altura",
+        "Air-Bag lateral",
+        "Farol de Led",
+        "Park Assist",
+        "GPS",
+        "Ar quente",
+        "4x2",
+        "Banco com regulagem de altura",
+        "Computador de Bordo",
+        "Controle de Som no Volante",
+        "Controle de velocidade",
+        "Encosto de cabeça traseiro",
+        "Volante com regulagem de altura",
+        "Insulfilm",
+        "Bluetooth"
+      ],
+      "images": [
+        {
+          "src": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/01.webp",
+          "alt": "Volkswagen Taos 2025 branco — foto 1 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/92/01/5b/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-lc.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/02.webp",
+          "alt": "Volkswagen Taos 2025 branco — foto 2 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/6c/45/14/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-QJ.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/03.webp",
+          "alt": "Volkswagen Taos 2025 branco — foto 3 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/4b/28/9c/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-fv.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/04.webp",
+          "alt": "Volkswagen Taos 2025 branco — foto 4 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/f2/b5/b7/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-Cw.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/05.webp",
+          "alt": "Volkswagen Taos 2025 branco — foto 5 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/c2/49/9c/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-pL.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/06.webp",
+          "alt": "Volkswagen Taos 2025 branco — foto 6 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/c4/ff/88/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-Tk.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/07.webp",
+          "alt": "Volkswagen Taos 2025 branco — foto 7 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/95/cd/79/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-QK.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/08.webp",
+          "alt": "Volkswagen Taos 2025 branco — foto 8 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/ef/86/56/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-MQ.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/09.webp",
+          "alt": "Volkswagen Taos 2025 branco — foto 9 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/5c/89/f7/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-VO.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/10.webp",
+          "alt": "Volkswagen Taos 2025 branco — foto 10 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/a7/20/9f/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-jM.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/11.webp",
+          "alt": "Volkswagen Taos 2025 branco — foto 11 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/9d/b1/76/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-o8.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/12.webp",
+          "alt": "Volkswagen Taos 2025 branco — foto 12 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/ad/34/ca/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-JB.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/13.webp",
+          "alt": "Volkswagen Taos 2025 branco — foto 13 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/0a/75/36/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-Jn.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/14.webp",
+          "alt": "Volkswagen Taos 2025 branco — foto 14 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/fc/8f/5a/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-rv.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/15.webp",
+          "alt": "Volkswagen Taos 2025 branco — foto 15 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/8f/e1/5a/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-2K.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/16.webp",
+          "alt": "Volkswagen Taos 2025 branco — foto 16 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/4c/25/d0/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-Vr.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/17.webp",
+          "alt": "Volkswagen Taos 2025 branco — foto 17 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/17/87/d8/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-Zy.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/18.webp",
+          "alt": "Volkswagen Taos 2025 branco — foto 18 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/e2/22/d1/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-7c.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ],
+      "coverImage": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/15.webp",
+      "featured": false,
+      "status": "available",
+      "source": {
+        "provider": "usadosbr",
+        "sourceUrl": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+        "externalId": "19170611",
+        "retrievedAt": "2026-09-18T17:52:28.221Z"
+      },
+      "notes": []
+    },
+    {
+      "id": "19178457",
+      "slug": "volkswagen-nivus-1-0-200-tsi-highline-2025",
+      "make": "Volkswagen",
+      "model": "Nivus",
+      "version": "1.0 200 TSI Highline",
+      "modelYear": 2025,
+      "manufactureYear": 2025,
+      "mileageKm": 16000,
+      "price": 134900,
+      "bodyType": "SUV",
+      "fuel": "Flex",
+      "transmission": "Automático",
+      "color": "Preto",
+      "condition": "used",
+      "features": [],
+      "images": [
+        {
+          "src": "/vehicles/volkswagen-nivus-1-0-200-tsi-highline-2025/01.webp",
+          "alt": "Volkswagen Nivus 2025 preto — foto 1 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/nivus/1-0-200-tsi-highline-2/2025-preto-sao-paulo-sao-paulo-82188",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/c3/12/19/volkswagen-nivus-1-0-200-tsi-highline-2-2025-sao-paulo-sp-400b48db-Jj.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/volkswagen-nivus-1-0-200-tsi-highline-2025/02.webp",
+          "alt": "Volkswagen Nivus 2025 preto — foto 2 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/nivus/1-0-200-tsi-highline-2/2025-preto-sao-paulo-sao-paulo-82188",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/e4/10/8b/volkswagen-nivus-1-0-200-tsi-highline-2-2025-sao-paulo-sp-400b48db-Zv.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/volkswagen-nivus-1-0-200-tsi-highline-2025/03.webp",
+          "alt": "Volkswagen Nivus 2025 preto — foto 3 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/nivus/1-0-200-tsi-highline-2/2025-preto-sao-paulo-sao-paulo-82188",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/a3/b4/0c/volkswagen-nivus-1-0-200-tsi-highline-2-2025-sao-paulo-sp-400b48db-pZ.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/volkswagen-nivus-1-0-200-tsi-highline-2025/04.webp",
+          "alt": "Volkswagen Nivus 2025 preto — foto 4 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/nivus/1-0-200-tsi-highline-2/2025-preto-sao-paulo-sao-paulo-82188",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/1f/20/1e/volkswagen-nivus-1-0-200-tsi-highline-2-2025-sao-paulo-sp-400b48db-wv.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/volkswagen-nivus-1-0-200-tsi-highline-2025/05.webp",
+          "alt": "Volkswagen Nivus 2025 preto — foto 5 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/nivus/1-0-200-tsi-highline-2/2025-preto-sao-paulo-sao-paulo-82188",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/0b/37/9d/volkswagen-nivus-1-0-200-tsi-highline-2-2025-sao-paulo-sp-400b48db-xp.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/volkswagen-nivus-1-0-200-tsi-highline-2025/06.webp",
+          "alt": "Volkswagen Nivus 2025 preto — foto 6 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/nivus/1-0-200-tsi-highline-2/2025-preto-sao-paulo-sao-paulo-82188",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/86/73/94/volkswagen-nivus-1-0-200-tsi-highline-2-2025-sao-paulo-sp-400b48db-pH.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/volkswagen-nivus-1-0-200-tsi-highline-2025/07.webp",
+          "alt": "Volkswagen Nivus 2025 preto — foto 7 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/nivus/1-0-200-tsi-highline-2/2025-preto-sao-paulo-sao-paulo-82188",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/ee/be/e5/volkswagen-nivus-1-0-200-tsi-highline-2-2025-sao-paulo-sp-400b48db-AZ.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/volkswagen-nivus-1-0-200-tsi-highline-2025/08.webp",
+          "alt": "Volkswagen Nivus 2025 preto — foto 8 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/nivus/1-0-200-tsi-highline-2/2025-preto-sao-paulo-sao-paulo-82188",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/58/aa/31/volkswagen-nivus-1-0-200-tsi-highline-2-2025-sao-paulo-sp-400b48db-4A.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/volkswagen-nivus-1-0-200-tsi-highline-2025/09.webp",
+          "alt": "Volkswagen Nivus 2025 preto — foto 9 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/nivus/1-0-200-tsi-highline-2/2025-preto-sao-paulo-sao-paulo-82188",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/69/ad/84/volkswagen-nivus-1-0-200-tsi-highline-2-2025-sao-paulo-sp-400b48db-UX.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/volkswagen-nivus-1-0-200-tsi-highline-2025/10.webp",
+          "alt": "Volkswagen Nivus 2025 preto — foto 10 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/nivus/1-0-200-tsi-highline-2/2025-preto-sao-paulo-sao-paulo-82188",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/8f/57/09/volkswagen-nivus-1-0-200-tsi-highline-2-2025-sao-paulo-sp-400b48db-GD.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/volkswagen-nivus-1-0-200-tsi-highline-2025/11.webp",
+          "alt": "Volkswagen Nivus 2025 preto — foto 11 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/nivus/1-0-200-tsi-highline-2/2025-preto-sao-paulo-sao-paulo-82188",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/c4/91/3d/volkswagen-nivus-1-0-200-tsi-highline-2-2025-sao-paulo-sp-400b48db-bk.webp",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "src": "/vehicles/volkswagen-nivus-1-0-200-tsi-highline-2025/12.webp",
+          "alt": "Volkswagen Nivus 2025 preto — foto 12 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/nivus/1-0-200-tsi-highline-2/2025-preto-sao-paulo-sao-paulo-82188",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/02/63/e3/volkswagen-nivus-1-0-200-tsi-highline-2-2025-sao-paulo-sp-400b48db-iT.webp",
+          "width": 1440,
+          "height": 1080
+        }
+      ],
+      "coverImage": "/vehicles/volkswagen-nivus-1-0-200-tsi-highline-2025/01.webp",
+      "featured": true,
+      "status": "available",
+      "source": {
+        "provider": "usadosbr",
+        "sourceUrl": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/nivus/1-0-200-tsi-highline-2/2025-preto-sao-paulo-sao-paulo-82188",
+        "externalId": "19178457",
+        "retrievedAt": "2026-09-18T17:52:44.506Z"
+      },
+      "notes": []
+    },
+    {
+      "id": "19175835",
+      "slug": "volkswagen-tera-1-0-170-tsi-high-2026",
+      "make": "Volkswagen",
+      "model": "Tera",
+      "version": "1.0 170 TSI High",
+      "modelYear": 2026,
+      "manufactureYear": 2026,
+      "mileageKm": 3600,
+      "price": 137900,
+      "bodyType": "Hatch",
+      "fuel": "Flex",
+      "transmission": "Automático",
+      "color": "Cinza",
+      "condition": "used",
+      "features": [
+        "Alarme",
+        "Ar Condicionado",
+        "Banco de Couro",
+        "Retrovisor Elétrico",
+        "Som",
+        "Trava Elétrica",
+        "Vidro Elétrico",
+        "Piloto Automático",
+        "Câmera de Ré",
+        "Kit Multimídia",
+        "Direção Elétrica",
+        "Farol de Xenon",
+        "Ar Condicionado Digital",
+        "Sensor de chuva",
+        "Paddle Shift",
+        "Entrada USB",
+        "Farol de Led",
+        "Partida remota",
+        "Banco com regulagem de altura",
+        "Computador de Bordo",
+        "Controle de Som no Volante",
+        "Controle de velocidade",
+        "Insulfilm",
+        "Bluetooth"
+      ],
+      "images": [
+        {
+          "src": "/vehicles/volkswagen-tera-1-0-170-tsi-high-2026/14.webp",
+          "alt": "Volkswagen Tera High 2026 cinza — vista frontal de três quartos",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/tera/1-0-170-tsi-high/2026-cinza-sao-paulo-sao-paulo-24700",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/3b/1a/ff/volkswagen-tera-1-0-170-tsi-high-2026-sao-paulo-sp-5dcb99c6-Bw.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-tera-1-0-170-tsi-high-2026/01.webp",
+          "alt": "Volkswagen Tera 2026 cinza — foto 1 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/tera/1-0-170-tsi-high/2026-cinza-sao-paulo-sao-paulo-24700",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/fc/be/4d/volkswagen-tera-1-0-170-tsi-high-2026-sao-paulo-sp-5dcb99c6-Yr.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-tera-1-0-170-tsi-high-2026/02.webp",
+          "alt": "Volkswagen Tera 2026 cinza — foto 2 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/tera/1-0-170-tsi-high/2026-cinza-sao-paulo-sao-paulo-24700",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/2a/52/ac/volkswagen-tera-1-0-170-tsi-high-2026-sao-paulo-sp-5dcb99c6-Ba.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-tera-1-0-170-tsi-high-2026/03.webp",
+          "alt": "Volkswagen Tera 2026 cinza — foto 3 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/tera/1-0-170-tsi-high/2026-cinza-sao-paulo-sao-paulo-24700",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/39/39/9f/volkswagen-tera-1-0-170-tsi-high-2026-sao-paulo-sp-5dcb99c6-8s.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-tera-1-0-170-tsi-high-2026/04.webp",
+          "alt": "Volkswagen Tera 2026 cinza — foto 4 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/tera/1-0-170-tsi-high/2026-cinza-sao-paulo-sao-paulo-24700",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/e7/c2/c4/volkswagen-tera-1-0-170-tsi-high-2026-sao-paulo-sp-5dcb99c6-De.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-tera-1-0-170-tsi-high-2026/05.webp",
+          "alt": "Volkswagen Tera 2026 cinza — foto 5 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/tera/1-0-170-tsi-high/2026-cinza-sao-paulo-sao-paulo-24700",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/67/5b/21/volkswagen-tera-1-0-170-tsi-high-2026-sao-paulo-sp-5dcb99c6-LU.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-tera-1-0-170-tsi-high-2026/06.webp",
+          "alt": "Volkswagen Tera 2026 cinza — foto 6 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/tera/1-0-170-tsi-high/2026-cinza-sao-paulo-sao-paulo-24700",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/3b/f6/bf/volkswagen-tera-1-0-170-tsi-high-2026-sao-paulo-sp-5dcb99c6-mD.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-tera-1-0-170-tsi-high-2026/07.webp",
+          "alt": "Volkswagen Tera 2026 cinza — foto 7 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/tera/1-0-170-tsi-high/2026-cinza-sao-paulo-sao-paulo-24700",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/25/03/25/volkswagen-tera-1-0-170-tsi-high-2026-sao-paulo-sp-5dcb99c6-kY.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-tera-1-0-170-tsi-high-2026/08.webp",
+          "alt": "Volkswagen Tera 2026 cinza — foto 8 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/tera/1-0-170-tsi-high/2026-cinza-sao-paulo-sao-paulo-24700",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/13/f0/31/volkswagen-tera-1-0-170-tsi-high-2026-sao-paulo-sp-5dcb99c6-WO.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-tera-1-0-170-tsi-high-2026/09.webp",
+          "alt": "Volkswagen Tera 2026 cinza — foto 9 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/tera/1-0-170-tsi-high/2026-cinza-sao-paulo-sao-paulo-24700",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/61/d5/93/volkswagen-tera-1-0-170-tsi-high-2026-sao-paulo-sp-5dcb99c6-4B.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-tera-1-0-170-tsi-high-2026/10.webp",
+          "alt": "Volkswagen Tera 2026 cinza — foto 10 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/tera/1-0-170-tsi-high/2026-cinza-sao-paulo-sao-paulo-24700",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/00/84/16/volkswagen-tera-1-0-170-tsi-high-2026-sao-paulo-sp-5dcb99c6-lX.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-tera-1-0-170-tsi-high-2026/11.webp",
+          "alt": "Volkswagen Tera 2026 cinza — foto 11 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/tera/1-0-170-tsi-high/2026-cinza-sao-paulo-sao-paulo-24700",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/c4/ef/c5/volkswagen-tera-1-0-170-tsi-high-2026-sao-paulo-sp-5dcb99c6-30.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-tera-1-0-170-tsi-high-2026/12.webp",
+          "alt": "Volkswagen Tera 2026 cinza — foto 12 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/tera/1-0-170-tsi-high/2026-cinza-sao-paulo-sao-paulo-24700",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/56/7d/cd/volkswagen-tera-1-0-170-tsi-high-2026-sao-paulo-sp-5dcb99c6-p0.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/volkswagen-tera-1-0-170-tsi-high-2026/13.webp",
+          "alt": "Volkswagen Tera 2026 cinza — foto 13 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/tera/1-0-170-tsi-high/2026-cinza-sao-paulo-sao-paulo-24700",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/e0/34/2c/volkswagen-tera-1-0-170-tsi-high-2026-sao-paulo-sp-5dcb99c6-1m.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ],
+      "coverImage": "/vehicles/volkswagen-tera-1-0-170-tsi-high-2026/14.webp",
+      "featured": true,
+      "status": "available",
+      "source": {
+        "provider": "usadosbr",
+        "sourceUrl": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/tera/1-0-170-tsi-high/2026-cinza-sao-paulo-sao-paulo-24700",
+        "externalId": "19175835",
+        "retrievedAt": "2026-09-18T17:52:41.856Z"
+      },
+      "notes": [
+        "A quilometragem diverge entre a ficha e a descrição do anúncio. Confirme com a M3."
+      ]
+    },
+    {
+      "id": "19175240",
+      "slug": "fiat-strada-cd-1-0-turbo-200-ultra-2027",
+      "make": "Fiat",
+      "model": "Strada",
+      "version": "CD 1.0 Turbo 200 Ultra",
+      "modelYear": 2027,
+      "manufactureYear": 2026,
+      "mileageKm": 917,
+      "price": 141900,
+      "bodyType": "Picape C. Dupla",
+      "fuel": "Flex",
+      "transmission": "Automático",
+      "color": "Branco",
+      "condition": "used",
+      "features": [
+        "Air-Bag",
+        "Alarme",
+        "Ar Condicionado",
+        "Banco de Couro",
+        "Freio ABS",
+        "Retrovisor Elétrico",
+        "Roda",
+        "Sensor de Estacionamento",
+        "Som",
+        "Trava Elétrica",
+        "Vidro Elétrico",
+        "Piloto Automático",
+        "Câmera de Ré",
+        "Kit Multimídia",
+        "Direção Elétrica",
+        "Farol de Xenon",
+        "Ar Condicionado Digital",
+        "Assistente de partida em rampa",
+        "Paddle Shift",
+        "Farol de Led",
+        "Park Assist",
+        "Partida remota",
+        "Banco com regulagem de altura",
+        "Computador de Bordo",
+        "Controle de Som no Volante",
+        "Volante com regulagem de altura",
+        "Insulfilm",
+        "Bluetooth"
+      ],
+      "images": [
+        {
+          "src": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/01.webp",
+          "alt": "Fiat Strada 2027 branco — foto 1 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/b9/fe/fb/fiat-strada-cd-1-0-turbo-200-ultra-2027-sao-paulo-sp-7fbd5026-jv.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/02.webp",
+          "alt": "Fiat Strada 2027 branco — foto 2 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/5a/07/e1/fiat-strada-cd-1-0-turbo-200-ultra-2027-sao-paulo-sp-7fbd5026-3g.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/03.webp",
+          "alt": "Fiat Strada 2027 branco — foto 3 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/d1/da/31/fiat-strada-cd-1-0-turbo-200-ultra-2027-sao-paulo-sp-7fbd5026-Jn.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/04.webp",
+          "alt": "Fiat Strada 2027 branco — foto 4 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/60/29/10/fiat-strada-cd-1-0-turbo-200-ultra-2027-sao-paulo-sp-7fbd5026-k0.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/05.webp",
+          "alt": "Fiat Strada 2027 branco — foto 5 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/0f/9f/f9/fiat-strada-cd-1-0-turbo-200-ultra-2027-sao-paulo-sp-7fbd5026-3Z.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/06.webp",
+          "alt": "Fiat Strada 2027 branco — foto 6 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/4f/05/c5/fiat-strada-cd-1-0-turbo-200-ultra-2027-sao-paulo-sp-7fbd5026-zm.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/07.webp",
+          "alt": "Fiat Strada 2027 branco — foto 7 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/be/1d/a8/fiat-strada-cd-1-0-turbo-200-ultra-2027-sao-paulo-sp-7fbd5026-eV.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/08.webp",
+          "alt": "Fiat Strada 2027 branco — foto 8 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/6a/9c/93/fiat-strada-cd-1-0-turbo-200-ultra-2027-sao-paulo-sp-7fbd5026-dO.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/09.webp",
+          "alt": "Fiat Strada 2027 branco — foto 9 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/f2/34/93/fiat-strada-cd-1-0-turbo-200-ultra-2027-sao-paulo-sp-7fbd5026-Wg.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/10.webp",
+          "alt": "Fiat Strada 2027 branco — foto 10 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/3b/43/42/fiat-strada-cd-1-0-turbo-200-ultra-2027-sao-paulo-sp-7fbd5026-wX.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/11.webp",
+          "alt": "Fiat Strada 2027 branco — foto 11 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/d2/a3/1b/fiat-strada-cd-1-0-turbo-200-ultra-2027-sao-paulo-sp-7fbd5026-Cx.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/12.webp",
+          "alt": "Fiat Strada 2027 branco — foto 12 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/b2/8d/79/fiat-strada-cd-1-0-turbo-200-ultra-2027-sao-paulo-sp-7fbd5026-Qj.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/13.webp",
+          "alt": "Fiat Strada 2027 branco — foto 13 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/ac/fd/ea/fiat-strada-cd-1-0-turbo-200-ultra-2027-sao-paulo-sp-7fbd5026-P4.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/14.webp",
+          "alt": "Fiat Strada 2027 branco — foto 14 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/0d/60/bb/fiat-strada-cd-1-0-turbo-200-ultra-2027-sao-paulo-sp-7fbd5026-iH.webp",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/15.webp",
+          "alt": "Fiat Strada 2027 branco — foto 15 do anúncio",
+          "source": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+          "remoteSrc": "https://images.usadosbr.com/media/gallery/60/a4/5a/fiat-strada-cd-1-0-turbo-200-ultra-2027-sao-paulo-sp-7fbd5026-Yc.webp",
+          "width": 1280,
+          "height": 960
+        }
+      ],
+      "coverImage": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/01.webp",
+      "featured": false,
+      "status": "available",
+      "source": {
+        "provider": "usadosbr",
+        "sourceUrl": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+        "externalId": "19175240",
+        "retrievedAt": "2026-09-18T17:52:30.982Z"
+      },
+      "notes": []
+    }
+  ]
+}

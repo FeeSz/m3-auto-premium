@@ -1,0 +1,1586 @@
+[
+  {
+    "local": "/vehicles/volkswagen-fusca-1-3-8v-1973/01.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/0f/41/46/volkswagen-fusca-1-3-8v-8-1973-sao-paulo-sp-5df09243-YT.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/fusca/1-3-8v-8/1973-vermelho-sao-paulo-sao-paulo-12",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-fusca-1-3-8v-1973/02.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/e2/da/3b/volkswagen-fusca-1-3-8v-8-1973-sao-paulo-sp-5df09243-QX.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/fusca/1-3-8v-8/1973-vermelho-sao-paulo-sao-paulo-12",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-fusca-1-3-8v-1973/03.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/50/a3/50/volkswagen-fusca-1-3-8v-8-1973-sao-paulo-sp-5df09243-WJ.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/fusca/1-3-8v-8/1973-vermelho-sao-paulo-sao-paulo-12",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-fusca-1-3-8v-1973/04.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/e3/4c/85/volkswagen-fusca-1-3-8v-8-1973-sao-paulo-sp-5df09243-Qq.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/fusca/1-3-8v-8/1973-vermelho-sao-paulo-sao-paulo-12",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-fusca-1-3-8v-1973/05.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/af/f6/69/volkswagen-fusca-1-3-8v-8-1973-sao-paulo-sp-5df09243-IR.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/fusca/1-3-8v-8/1973-vermelho-sao-paulo-sao-paulo-12",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-fusca-1-3-8v-1973/06.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/53/ca/c8/volkswagen-fusca-1-3-8v-8-1973-sao-paulo-sp-5df09243-4w.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/fusca/1-3-8v-8/1973-vermelho-sao-paulo-sao-paulo-12",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-fusca-1-3-8v-1973/07.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/4f/89/aa/volkswagen-fusca-1-3-8v-8-1973-sao-paulo-sp-5df09243-AG.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/fusca/1-3-8v-8/1973-vermelho-sao-paulo-sao-paulo-12",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/01.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/07/2e/94/volkswagen-jetta-2-0-tsi-highline-2014-sao-paulo-sp-c78406a2-56.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/02.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/55/b8/0e/volkswagen-jetta-2-0-tsi-highline-2014-sao-paulo-sp-c78406a2-Zf.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/03.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/af/09/40/volkswagen-jetta-2-0-tsi-highline-2014-sao-paulo-sp-c78406a2-Ww.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/04.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/d6/b6/e1/volkswagen-jetta-2-0-tsi-highline-2014-sao-paulo-sp-c78406a2-d8.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/05.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/30/7d/76/volkswagen-jetta-2-0-tsi-highline-2014-sao-paulo-sp-c78406a2-pw.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/06.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/68/cd/92/volkswagen-jetta-2-0-tsi-highline-2014-sao-paulo-sp-c78406a2-xe.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/07.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/1c/5c/14/volkswagen-jetta-2-0-tsi-highline-2014-sao-paulo-sp-c78406a2-Gr.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/08.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/4c/36/d8/volkswagen-jetta-2-0-tsi-highline-2014-sao-paulo-sp-c78406a2-iE.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/09.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/1d/43/26/volkswagen-jetta-2-0-tsi-highline-2014-sao-paulo-sp-c78406a2-46.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/10.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/95/17/b5/volkswagen-jetta-2-0-tsi-highline-2014-sao-paulo-sp-c78406a2-ys.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/11.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/63/e3/a1/volkswagen-jetta-2-0-tsi-highline-2014-sao-paulo-sp-c78406a2-86.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/12.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/e7/64/a9/volkswagen-jetta-2-0-tsi-highline-2014-sao-paulo-sp-c78406a2-u1.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/13.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/e2/ce/5a/volkswagen-jetta-2-0-tsi-highline-2014-sao-paulo-sp-c78406a2-KZ.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/14.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/5b/82/21/volkswagen-jetta-2-0-tsi-highline-2014-sao-paulo-sp-c78406a2-UO.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-jetta-2-0-tsi-highline-2014/15.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/dc/44/c3/volkswagen-jetta-2-0-tsi-highline-2014-sao-paulo-sp-c78406a2-Pi.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/jetta/2-0-tsi-highline/2014-branco-sao-paulo-sao-paulo-8742",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/renault-duster-2-0-dynamique-2016/01.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/7e/38/fe/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-YH.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/renault-duster-2-0-dynamique-2016/02.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/d0/f9/d2/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-u1.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/renault-duster-2-0-dynamique-2016/03.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/ab/59/72/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-cc.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/renault-duster-2-0-dynamique-2016/04.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/ac/1a/60/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-oR.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/renault-duster-2-0-dynamique-2016/05.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/f6/3c/f4/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-6b.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/renault-duster-2-0-dynamique-2016/06.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/94/d4/01/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-PU.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/renault-duster-2-0-dynamique-2016/07.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/05/76/ef/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-rM.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/renault-duster-2-0-dynamique-2016/08.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/a0/e8/52/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-FE.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/renault-duster-2-0-dynamique-2016/09.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/13/3b/a6/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-7B.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/renault-duster-2-0-dynamique-2016/10.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/16/4f/45/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-Ny.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/renault-duster-2-0-dynamique-2016/11.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/21/9c/2e/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-E9.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/renault-duster-2-0-dynamique-2016/12.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/e6/3c/38/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-6w.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/renault-duster-2-0-dynamique-2016/13.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/63/de/ee/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-DR.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/renault-duster-2-0-dynamique-2016/14.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/00/55/2a/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-7I.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/renault-duster-2-0-dynamique-2016/15.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/d7/9a/9f/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-fN.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/renault-duster-2-0-dynamique-2016/16.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/6d/e6/39/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-NU.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/renault-duster-2-0-dynamique-2016/17.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/72/f6/60/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-bV.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/renault-duster-2-0-dynamique-2016/18.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/e1/f6/bb/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-9p.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/renault-duster-2-0-dynamique-2016/19.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/95/10/90/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-yg.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/renault-duster-2-0-dynamique-2016/20.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/ab/db/b1/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-I6.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/renault-duster-2-0-dynamique-2016/21.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/25/58/c7/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-gy.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/renault-duster-2-0-dynamique-2016/22.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/f8/a6/ae/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-3n.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/renault-duster-2-0-dynamique-2016/23.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/a5/dd/da/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-WG.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/renault-duster-2-0-dynamique-2016/24.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/88/f0/a0/renault-duster-2-0-dynamique-2016-sao-paulo-sp-3c0c9231-5K.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/renault/duster/2-0-dynamique/2016-branco-sao-paulo-sao-paulo-8990",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/01.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/19/25/47/chevrolet-cruze-1-4-turbo-ltz-16v-2018-sao-paulo-sp-898fe3cc-GD.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/02.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/86/1e/99/chevrolet-cruze-1-4-turbo-ltz-16v-2018-sao-paulo-sp-898fe3cc-X9.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/03.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/f3/df/10/chevrolet-cruze-1-4-turbo-ltz-16v-2018-sao-paulo-sp-898fe3cc-Gh.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/04.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/d6/58/14/chevrolet-cruze-1-4-turbo-ltz-16v-2018-sao-paulo-sp-898fe3cc-qp.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/05.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/de/64/8f/chevrolet-cruze-1-4-turbo-ltz-16v-2018-sao-paulo-sp-898fe3cc-53.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/06.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/23/96/de/chevrolet-cruze-1-4-turbo-ltz-16v-2018-sao-paulo-sp-898fe3cc-5S.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/07.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/86/77/c7/chevrolet-cruze-1-4-turbo-ltz-16v-2018-sao-paulo-sp-898fe3cc-La.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/08.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/f1/87/0f/chevrolet-cruze-1-4-turbo-ltz-16v-2018-sao-paulo-sp-898fe3cc-O7.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/09.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/c1/8e/f9/chevrolet-cruze-1-4-turbo-ltz-16v-2018-sao-paulo-sp-898fe3cc-O2.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/10.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/cc/c8/06/chevrolet-cruze-1-4-turbo-ltz-16v-2018-sao-paulo-sp-898fe3cc-Gc.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/11.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/32/e5/00/chevrolet-cruze-1-4-turbo-ltz-16v-2018-sao-paulo-sp-898fe3cc-7I.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/12.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/b6/62/69/chevrolet-cruze-1-4-turbo-ltz-16v-2018-sao-paulo-sp-898fe3cc-Wo.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/13.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/32/54/01/chevrolet-cruze-1-4-turbo-ltz-16v-2018-sao-paulo-sp-898fe3cc-ug.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/14.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/15/83/fd/chevrolet-cruze-1-4-turbo-ltz-16v-2018-sao-paulo-sp-898fe3cc-YO.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chevrolet-cruze-1-4-turbo-ltz-16v-2018/15.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/01/79/19/chevrolet-cruze-1-4-turbo-ltz-16v-2018-sao-paulo-sp-898fe3cc-Tx.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chevrolet/cruze/1-4-turbo-ltz-16v/2018-branco-sao-paulo-sao-paulo-15452",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-8-touring-2018/01.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/9a/8c/a8/honda-hr-v-1-8-touring-9-2018-sao-paulo-sp-afb96b32-eH.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-8-touring-9/2018-cinza-sao-paulo-sao-paulo-8078",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-8-touring-2018/02.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/9a/7d/86/honda-hr-v-1-8-touring-9-2018-sao-paulo-sp-afb96b32-nW.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-8-touring-9/2018-cinza-sao-paulo-sao-paulo-8078",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-8-touring-2018/03.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/4c/1b/f5/honda-hr-v-1-8-touring-9-2018-sao-paulo-sp-afb96b32-TY.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-8-touring-9/2018-cinza-sao-paulo-sao-paulo-8078",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-8-touring-2018/04.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/7d/03/40/honda-hr-v-1-8-touring-9-2018-sao-paulo-sp-afb96b32-cU.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-8-touring-9/2018-cinza-sao-paulo-sao-paulo-8078",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-8-touring-2018/05.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/3c/7e/4f/honda-hr-v-1-8-touring-9-2018-sao-paulo-sp-afb96b32-i1.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-8-touring-9/2018-cinza-sao-paulo-sao-paulo-8078",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-8-touring-2018/06.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/c5/45/51/honda-hr-v-1-8-touring-9-2018-sao-paulo-sp-afb96b32-Ga.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-8-touring-9/2018-cinza-sao-paulo-sao-paulo-8078",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-8-touring-2018/07.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/80/91/da/honda-hr-v-1-8-touring-9-2018-sao-paulo-sp-afb96b32-b3.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-8-touring-9/2018-cinza-sao-paulo-sao-paulo-8078",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-8-touring-2018/08.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/ca/c8/c1/honda-hr-v-1-8-touring-9-2018-sao-paulo-sp-afb96b32-H4.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-8-touring-9/2018-cinza-sao-paulo-sao-paulo-8078",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-8-touring-2018/09.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/2b/01/39/honda-hr-v-1-8-touring-9-2018-sao-paulo-sp-afb96b32-wZ.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-8-touring-9/2018-cinza-sao-paulo-sao-paulo-8078",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-8-touring-2018/10.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/8e/b9/dc/honda-hr-v-1-8-touring-9-2018-sao-paulo-sp-afb96b32-2R.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-8-touring-9/2018-cinza-sao-paulo-sao-paulo-8078",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/jeep-renegade-1-8-longitude-2019/01.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/e2/66/64/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-Y5.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/jeep-renegade-1-8-longitude-2019/02.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/ad/0d/0d/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-Es.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/jeep-renegade-1-8-longitude-2019/03.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/94/ad/a2/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-Dm.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/jeep-renegade-1-8-longitude-2019/04.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/ad/0d/0d/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-Es.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/jeep-renegade-1-8-longitude-2019/05.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/07/f1/88/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-TI.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/jeep-renegade-1-8-longitude-2019/06.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/59/4a/03/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-8V.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/jeep-renegade-1-8-longitude-2019/07.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/de/ca/da/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-jV.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/jeep-renegade-1-8-longitude-2019/08.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/20/c9/8b/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-qh.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/jeep-renegade-1-8-longitude-2019/09.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/10/cf/c6/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-ZQ.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/jeep-renegade-1-8-longitude-2019/10.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/ca/e0/31/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-Qg.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/jeep-renegade-1-8-longitude-2019/11.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/6c/8b/68/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-Q4.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/jeep-renegade-1-8-longitude-2019/12.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/98/ab/c2/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-Xj.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/jeep-renegade-1-8-longitude-2019/13.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/d3/ee/83/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-eU.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/jeep-renegade-1-8-longitude-2019/14.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/af/98/fa/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-sR.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/jeep-renegade-1-8-longitude-2019/15.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/16/d5/5c/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-rs.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/jeep-renegade-1-8-longitude-2019/16.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/aa/bd/a6/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-VU.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/jeep-renegade-1-8-longitude-2019/17.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/71/32/f8/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-RJ.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/jeep-renegade-1-8-longitude-2019/18.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/f2/03/1c/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-HR.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/jeep-renegade-1-8-longitude-2019/19.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/d2/a8/51/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-LY.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/jeep-renegade-1-8-longitude-2019/20.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/96/ff/c3/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-Nb.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/jeep-renegade-1-8-longitude-2019/21.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/ce/2e/69/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-ti.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/jeep-renegade-1-8-longitude-2019/22.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/85/d8/d7/jeep-renegade-1-8-longitude-2019-sao-paulo-sp-e851237a-CJ.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/jeep/renegade/1-8-longitude/2019-cinza-sao-paulo-sao-paulo-11612",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-creta-1-6-pulse-2019/01.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/57/0f/15/hyundai-creta-1-6-pulse-2019-sao-paulo-sp-88924040-OA.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/creta/1-6-pulse/2019-prata-sao-paulo-sao-paulo-17047",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-creta-1-6-pulse-2019/02.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/ac/72/c4/hyundai-creta-1-6-pulse-2019-sao-paulo-sp-88924040-cQ.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/creta/1-6-pulse/2019-prata-sao-paulo-sao-paulo-17047",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-creta-1-6-pulse-2019/03.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/5d/8a/4a/hyundai-creta-1-6-pulse-2019-sao-paulo-sp-88924040-qk.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/creta/1-6-pulse/2019-prata-sao-paulo-sao-paulo-17047",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-creta-1-6-pulse-2019/04.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/d7/e5/ea/hyundai-creta-1-6-pulse-2019-sao-paulo-sp-88924040-6Z.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/creta/1-6-pulse/2019-prata-sao-paulo-sao-paulo-17047",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-creta-1-6-pulse-2019/05.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/5c/b9/11/hyundai-creta-1-6-pulse-2019-sao-paulo-sp-88924040-FC.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/creta/1-6-pulse/2019-prata-sao-paulo-sao-paulo-17047",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-creta-1-6-pulse-2019/06.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/58/20/73/hyundai-creta-1-6-pulse-2019-sao-paulo-sp-88924040-XM.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/creta/1-6-pulse/2019-prata-sao-paulo-sao-paulo-17047",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-creta-1-6-pulse-2019/07.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/3d/12/9b/hyundai-creta-1-6-pulse-2019-sao-paulo-sp-88924040-pN.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/creta/1-6-pulse/2019-prata-sao-paulo-sao-paulo-17047",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-creta-1-6-pulse-2019/08.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/d5/fc/24/hyundai-creta-1-6-pulse-2019-sao-paulo-sp-88924040-gy.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/creta/1-6-pulse/2019-prata-sao-paulo-sao-paulo-17047",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-creta-1-6-pulse-2019/09.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/9e/8e/4d/hyundai-creta-1-6-pulse-2019-sao-paulo-sp-88924040-hJ.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/creta/1-6-pulse/2019-prata-sao-paulo-sao-paulo-17047",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-creta-1-6-pulse-2019/10.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/40/fa/f2/hyundai-creta-1-6-pulse-2019-sao-paulo-sp-88924040-n9.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/creta/1-6-pulse/2019-prata-sao-paulo-sao-paulo-17047",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-creta-1-6-pulse-2019/11.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/4e/ad/8b/hyundai-creta-1-6-pulse-2019-sao-paulo-sp-88924040-np.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/creta/1-6-pulse/2019-prata-sao-paulo-sao-paulo-17047",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-creta-1-6-pulse-2019/12.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/73/46/dd/hyundai-creta-1-6-pulse-2019-sao-paulo-sp-88924040-R4.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/creta/1-6-pulse/2019-prata-sao-paulo-sao-paulo-17047",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/01.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/a1/65/d7/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-og.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/02.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/7d/c6/70/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-Ge.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/03.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/13/e2/95/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-RG.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/04.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/dc/1b/d2/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-5m.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/05.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/ee/c1/68/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-p6.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/06.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/e5/46/28/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-8e.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/07.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/6c/46/40/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-KO.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/08.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/6e/92/13/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-i3.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/09.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/04/26/36/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-vQ.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/10.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/65/50/2f/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-Uw.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/11.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/85/bf/71/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-ma.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/12.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/ef/6f/3f/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-we.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/13.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/89/cb/e5/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-TU.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/14.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/a5/7e/53/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-Y4.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/15.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/3e/38/c6/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-b7.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/16.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/52/c6/89/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-1g.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/17.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/61/b3/88/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-sR.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/18.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/f0/ad/cb/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-bg.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/19.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/5e/6b/ec/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-UX.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/20.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/31/9d/04/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-lw.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/21.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/fa/d5/b5/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-37.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/chery-tiggo-2-1-5-16v-act-2020/22.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/88/8f/11/chery-tiggo-2-1-5-16v-act-2020-sao-paulo-sp-deaf7b80-QX.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/chery/tiggo-2/1-5-16v-act/2020-preto-sao-paulo-sao-paulo-15759",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/01.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/f3/3e/2e/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-ij.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/02.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/6a/f0/ef/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-lQ.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/03.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/e6/5f/e1/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-0i.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/04.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/e9/fd/25/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-kv.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/05.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/01/e7/5e/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-we.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/06.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/67/f1/a1/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-Al.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/07.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/8d/9c/e8/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-tx.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/08.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/7c/7a/3f/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-jk.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/09.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/b2/4e/7d/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-5V.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/10.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/c5/8d/a6/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-JJ.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/11.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/db/67/5f/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-mo.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/12.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/8d/14/1b/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-sN.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/13.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/bb/2e/3e/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-0w.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/14.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/c1/27/b5/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-py.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/15.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/e5/1d/a3/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-Q7.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/16.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/e3/dc/ee/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-A4.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/17.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/e8/c2/4f/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-IC.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/18.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/41/64/81/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-23.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/19.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/f9/a3/68/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-UM.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/20.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/f1/e7/f4/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-8P.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/honda-hr-v-1-5-di-i-vtec-exl-2023/21.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/a6/f8/6d/honda-hr-v-1-5-di-i-vtec-exl-2023-sao-paulo-sp-63ea19ce-vy.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/honda/hr-v/1-5-di-i-vtec-exl/2023-cinza-sao-paulo-sao-paulo-48023",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/audi-q3-2-0-tfsi-performance-quattro-2024/01.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/34/21/31/audi-q3-2-0-tfsi-performance-quattro-2024-sao-paulo-sp-a3aed809-Jl.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/audi/q3/2-0-tfsi-performance-quattro/2024-cinza-sao-paulo-sao-paulo-66896",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/audi-q3-2-0-tfsi-performance-quattro-2024/02.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/92/55/ae/audi-q3-2-0-tfsi-performance-quattro-2024-sao-paulo-sp-a3aed809-AE.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/audi/q3/2-0-tfsi-performance-quattro/2024-cinza-sao-paulo-sao-paulo-66896",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/audi-q3-2-0-tfsi-performance-quattro-2024/03.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/0d/c7/a1/audi-q3-2-0-tfsi-performance-quattro-2024-sao-paulo-sp-a3aed809-vi.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/audi/q3/2-0-tfsi-performance-quattro/2024-cinza-sao-paulo-sao-paulo-66896",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/audi-q3-2-0-tfsi-performance-quattro-2024/04.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/ca/0c/a8/audi-q3-2-0-tfsi-performance-quattro-2024-sao-paulo-sp-a3aed809-i6.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/audi/q3/2-0-tfsi-performance-quattro/2024-cinza-sao-paulo-sao-paulo-66896",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/audi-q3-2-0-tfsi-performance-quattro-2024/05.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/32/31/36/audi-q3-2-0-tfsi-performance-quattro-2024-sao-paulo-sp-a3aed809-2O.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/audi/q3/2-0-tfsi-performance-quattro/2024-cinza-sao-paulo-sao-paulo-66896",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/audi-q3-2-0-tfsi-performance-quattro-2024/06.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/77/92/18/audi-q3-2-0-tfsi-performance-quattro-2024-sao-paulo-sp-a3aed809-tm.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/audi/q3/2-0-tfsi-performance-quattro/2024-cinza-sao-paulo-sao-paulo-66896",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/audi-q3-2-0-tfsi-performance-quattro-2024/07.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/50/7b/0d/audi-q3-2-0-tfsi-performance-quattro-2024-sao-paulo-sp-a3aed809-Ks.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/audi/q3/2-0-tfsi-performance-quattro/2024-cinza-sao-paulo-sao-paulo-66896",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/audi-q3-2-0-tfsi-performance-quattro-2024/08.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/72/7e/0a/audi-q3-2-0-tfsi-performance-quattro-2024-sao-paulo-sp-a3aed809-HG.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/audi/q3/2-0-tfsi-performance-quattro/2024-cinza-sao-paulo-sao-paulo-66896",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/audi-q3-2-0-tfsi-performance-quattro-2024/09.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/47/dc/c4/audi-q3-2-0-tfsi-performance-quattro-2024-sao-paulo-sp-a3aed809-Yg.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/audi/q3/2-0-tfsi-performance-quattro/2024-cinza-sao-paulo-sao-paulo-66896",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/audi-q3-2-0-tfsi-performance-quattro-2024/10.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/d4/79/ef/audi-q3-2-0-tfsi-performance-quattro-2024-sao-paulo-sp-a3aed809-s4.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/audi/q3/2-0-tfsi-performance-quattro/2024-cinza-sao-paulo-sao-paulo-66896",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/audi-q3-2-0-tfsi-performance-quattro-2024/11.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/c1/cb/88/audi-q3-2-0-tfsi-performance-quattro-2024-sao-paulo-sp-a3aed809-l5.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/audi/q3/2-0-tfsi-performance-quattro/2024-cinza-sao-paulo-sao-paulo-66896",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/audi-q3-2-0-tfsi-performance-quattro-2024/12.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/7d/3d/9f/audi-q3-2-0-tfsi-performance-quattro-2024-sao-paulo-sp-a3aed809-j4.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/audi/q3/2-0-tfsi-performance-quattro/2024-cinza-sao-paulo-sao-paulo-66896",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/audi-q3-2-0-tfsi-performance-quattro-2024/13.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/d0/56/a2/audi-q3-2-0-tfsi-performance-quattro-2024-sao-paulo-sp-a3aed809-Vi.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/audi/q3/2-0-tfsi-performance-quattro/2024-cinza-sao-paulo-sao-paulo-66896",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/audi-q3-2-0-tfsi-performance-quattro-2024/14.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/9e/bd/67/audi-q3-2-0-tfsi-performance-quattro-2024-sao-paulo-sp-a3aed809-8C.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/audi/q3/2-0-tfsi-performance-quattro/2024-cinza-sao-paulo-sao-paulo-66896",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/01.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/21/5a/a9/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-yL.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/02.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/df/80/58/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-r5.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/03.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/2a/05/fa/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-YT.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/04.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/74/01/18/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-5n.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/05.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/4d/4f/30/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-IK.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/06.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/a3/cd/0a/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-Vu.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/07.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/59/c6/fa/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-xy.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/08.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/f7/24/c3/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-vS.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/09.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/ef/2c/aa/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-vh.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/10.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/0e/13/36/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-BF.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/11.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/e0/ff/4e/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-3g.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/12.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/30/46/8e/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-Jy.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/13.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/09/8c/ac/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-5D.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/14.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/d7/2d/ac/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-Pa.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/15.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/d2/45/c3/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-nf.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/16.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/27/86/2b/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-9C.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/17.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/dc/8d/b2/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-Yh.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/18.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/00/d0/23/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-CQ.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/19.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/18/e1/9c/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-02.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/20.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/96/30/ab/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-1d.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/21.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/b7/4c/ac/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-in.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/22.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/7d/15/7b/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-IW.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/hyundai-hb20s-1-0-comfort-plus-2024/23.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/3a/f7/88/hyundai-hb20s-1-0-comfort-plus-1-2024-sao-paulo-sp-81b1c94f-sc.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/hyundai/hb20s/1-0-comfort-plus-1/2024-prata-sao-paulo-sao-paulo-62310",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/01.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/92/01/5b/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-lc.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/02.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/6c/45/14/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-QJ.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/03.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/4b/28/9c/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-fv.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/04.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/f2/b5/b7/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-Cw.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/05.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/c2/49/9c/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-pL.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/06.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/c4/ff/88/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-Tk.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/07.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/95/cd/79/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-QK.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/08.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/ef/86/56/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-MQ.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/09.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/5c/89/f7/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-VO.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/10.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/a7/20/9f/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-jM.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/11.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/9d/b1/76/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-o8.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/12.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/ad/34/ca/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-JB.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/13.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/0a/75/36/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-Jn.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/14.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/fc/8f/5a/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-rv.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/15.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/8f/e1/5a/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-2K.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/16.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/4c/25/d0/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-Vr.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/17.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/17/87/d8/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-Zy.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-taos-1-4-250-tsi-highline-2025/18.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/e2/22/d1/volkswagen-taos-1-4-250-tsi-highline-1-2025-sao-paulo-sp-09e782a3-7c.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/taos/1-4-250-tsi-highline-1/2025-branco-sao-paulo-sao-paulo-192091",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-nivus-1-0-200-tsi-highline-2025/01.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/c3/12/19/volkswagen-nivus-1-0-200-tsi-highline-2-2025-sao-paulo-sp-400b48db-Jj.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/nivus/1-0-200-tsi-highline-2/2025-preto-sao-paulo-sao-paulo-82188",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-nivus-1-0-200-tsi-highline-2025/02.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/e4/10/8b/volkswagen-nivus-1-0-200-tsi-highline-2-2025-sao-paulo-sp-400b48db-Zv.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/nivus/1-0-200-tsi-highline-2/2025-preto-sao-paulo-sao-paulo-82188",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-nivus-1-0-200-tsi-highline-2025/03.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/a3/b4/0c/volkswagen-nivus-1-0-200-tsi-highline-2-2025-sao-paulo-sp-400b48db-pZ.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/nivus/1-0-200-tsi-highline-2/2025-preto-sao-paulo-sao-paulo-82188",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-nivus-1-0-200-tsi-highline-2025/04.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/1f/20/1e/volkswagen-nivus-1-0-200-tsi-highline-2-2025-sao-paulo-sp-400b48db-wv.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/nivus/1-0-200-tsi-highline-2/2025-preto-sao-paulo-sao-paulo-82188",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-nivus-1-0-200-tsi-highline-2025/05.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/0b/37/9d/volkswagen-nivus-1-0-200-tsi-highline-2-2025-sao-paulo-sp-400b48db-xp.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/nivus/1-0-200-tsi-highline-2/2025-preto-sao-paulo-sao-paulo-82188",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-nivus-1-0-200-tsi-highline-2025/06.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/86/73/94/volkswagen-nivus-1-0-200-tsi-highline-2-2025-sao-paulo-sp-400b48db-pH.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/nivus/1-0-200-tsi-highline-2/2025-preto-sao-paulo-sao-paulo-82188",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-nivus-1-0-200-tsi-highline-2025/07.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/ee/be/e5/volkswagen-nivus-1-0-200-tsi-highline-2-2025-sao-paulo-sp-400b48db-AZ.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/nivus/1-0-200-tsi-highline-2/2025-preto-sao-paulo-sao-paulo-82188",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-nivus-1-0-200-tsi-highline-2025/08.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/58/aa/31/volkswagen-nivus-1-0-200-tsi-highline-2-2025-sao-paulo-sp-400b48db-4A.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/nivus/1-0-200-tsi-highline-2/2025-preto-sao-paulo-sao-paulo-82188",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-nivus-1-0-200-tsi-highline-2025/09.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/69/ad/84/volkswagen-nivus-1-0-200-tsi-highline-2-2025-sao-paulo-sp-400b48db-UX.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/nivus/1-0-200-tsi-highline-2/2025-preto-sao-paulo-sao-paulo-82188",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-nivus-1-0-200-tsi-highline-2025/10.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/8f/57/09/volkswagen-nivus-1-0-200-tsi-highline-2-2025-sao-paulo-sp-400b48db-GD.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/nivus/1-0-200-tsi-highline-2/2025-preto-sao-paulo-sao-paulo-82188",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-nivus-1-0-200-tsi-highline-2025/11.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/c4/91/3d/volkswagen-nivus-1-0-200-tsi-highline-2-2025-sao-paulo-sp-400b48db-bk.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/nivus/1-0-200-tsi-highline-2/2025-preto-sao-paulo-sao-paulo-82188",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-nivus-1-0-200-tsi-highline-2025/12.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/02/63/e3/volkswagen-nivus-1-0-200-tsi-highline-2-2025-sao-paulo-sp-400b48db-iT.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/nivus/1-0-200-tsi-highline-2/2025-preto-sao-paulo-sao-paulo-82188",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-tera-1-0-170-tsi-high-2026/01.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/fc/be/4d/volkswagen-tera-1-0-170-tsi-high-2026-sao-paulo-sp-5dcb99c6-Yr.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/tera/1-0-170-tsi-high/2026-cinza-sao-paulo-sao-paulo-24700",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-tera-1-0-170-tsi-high-2026/02.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/2a/52/ac/volkswagen-tera-1-0-170-tsi-high-2026-sao-paulo-sp-5dcb99c6-Ba.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/tera/1-0-170-tsi-high/2026-cinza-sao-paulo-sao-paulo-24700",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-tera-1-0-170-tsi-high-2026/03.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/39/39/9f/volkswagen-tera-1-0-170-tsi-high-2026-sao-paulo-sp-5dcb99c6-8s.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/tera/1-0-170-tsi-high/2026-cinza-sao-paulo-sao-paulo-24700",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-tera-1-0-170-tsi-high-2026/04.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/e7/c2/c4/volkswagen-tera-1-0-170-tsi-high-2026-sao-paulo-sp-5dcb99c6-De.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/tera/1-0-170-tsi-high/2026-cinza-sao-paulo-sao-paulo-24700",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-tera-1-0-170-tsi-high-2026/05.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/67/5b/21/volkswagen-tera-1-0-170-tsi-high-2026-sao-paulo-sp-5dcb99c6-LU.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/tera/1-0-170-tsi-high/2026-cinza-sao-paulo-sao-paulo-24700",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-tera-1-0-170-tsi-high-2026/06.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/3b/f6/bf/volkswagen-tera-1-0-170-tsi-high-2026-sao-paulo-sp-5dcb99c6-mD.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/tera/1-0-170-tsi-high/2026-cinza-sao-paulo-sao-paulo-24700",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-tera-1-0-170-tsi-high-2026/07.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/25/03/25/volkswagen-tera-1-0-170-tsi-high-2026-sao-paulo-sp-5dcb99c6-kY.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/tera/1-0-170-tsi-high/2026-cinza-sao-paulo-sao-paulo-24700",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-tera-1-0-170-tsi-high-2026/08.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/13/f0/31/volkswagen-tera-1-0-170-tsi-high-2026-sao-paulo-sp-5dcb99c6-WO.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/tera/1-0-170-tsi-high/2026-cinza-sao-paulo-sao-paulo-24700",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-tera-1-0-170-tsi-high-2026/09.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/61/d5/93/volkswagen-tera-1-0-170-tsi-high-2026-sao-paulo-sp-5dcb99c6-4B.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/tera/1-0-170-tsi-high/2026-cinza-sao-paulo-sao-paulo-24700",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-tera-1-0-170-tsi-high-2026/10.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/00/84/16/volkswagen-tera-1-0-170-tsi-high-2026-sao-paulo-sp-5dcb99c6-lX.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/tera/1-0-170-tsi-high/2026-cinza-sao-paulo-sao-paulo-24700",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-tera-1-0-170-tsi-high-2026/11.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/c4/ef/c5/volkswagen-tera-1-0-170-tsi-high-2026-sao-paulo-sp-5dcb99c6-30.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/tera/1-0-170-tsi-high/2026-cinza-sao-paulo-sao-paulo-24700",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-tera-1-0-170-tsi-high-2026/12.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/56/7d/cd/volkswagen-tera-1-0-170-tsi-high-2026-sao-paulo-sp-5dcb99c6-p0.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/tera/1-0-170-tsi-high/2026-cinza-sao-paulo-sao-paulo-24700",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-tera-1-0-170-tsi-high-2026/13.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/e0/34/2c/volkswagen-tera-1-0-170-tsi-high-2026-sao-paulo-sp-5dcb99c6-1m.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/tera/1-0-170-tsi-high/2026-cinza-sao-paulo-sao-paulo-24700",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/volkswagen-tera-1-0-170-tsi-high-2026/14.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/3b/1a/ff/volkswagen-tera-1-0-170-tsi-high-2026-sao-paulo-sp-5dcb99c6-Bw.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/volkswagen/tera/1-0-170-tsi-high/2026-cinza-sao-paulo-sao-paulo-24700",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/01.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/b9/fe/fb/fiat-strada-cd-1-0-turbo-200-ultra-2027-sao-paulo-sp-7fbd5026-jv.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/02.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/5a/07/e1/fiat-strada-cd-1-0-turbo-200-ultra-2027-sao-paulo-sp-7fbd5026-3g.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/03.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/d1/da/31/fiat-strada-cd-1-0-turbo-200-ultra-2027-sao-paulo-sp-7fbd5026-Jn.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/04.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/60/29/10/fiat-strada-cd-1-0-turbo-200-ultra-2027-sao-paulo-sp-7fbd5026-k0.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/05.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/0f/9f/f9/fiat-strada-cd-1-0-turbo-200-ultra-2027-sao-paulo-sp-7fbd5026-3Z.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/06.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/4f/05/c5/fiat-strada-cd-1-0-turbo-200-ultra-2027-sao-paulo-sp-7fbd5026-zm.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/07.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/be/1d/a8/fiat-strada-cd-1-0-turbo-200-ultra-2027-sao-paulo-sp-7fbd5026-eV.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/08.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/6a/9c/93/fiat-strada-cd-1-0-turbo-200-ultra-2027-sao-paulo-sp-7fbd5026-dO.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/09.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/f2/34/93/fiat-strada-cd-1-0-turbo-200-ultra-2027-sao-paulo-sp-7fbd5026-Wg.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/10.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/3b/43/42/fiat-strada-cd-1-0-turbo-200-ultra-2027-sao-paulo-sp-7fbd5026-wX.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/11.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/d2/a3/1b/fiat-strada-cd-1-0-turbo-200-ultra-2027-sao-paulo-sp-7fbd5026-Cx.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/12.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/b2/8d/79/fiat-strada-cd-1-0-turbo-200-ultra-2027-sao-paulo-sp-7fbd5026-Qj.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/13.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/ac/fd/ea/fiat-strada-cd-1-0-turbo-200-ultra-2027-sao-paulo-sp-7fbd5026-P4.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/14.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/0d/60/bb/fiat-strada-cd-1-0-turbo-200-ultra-2027-sao-paulo-sp-7fbd5026-iH.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/fiat-strada-cd-1-0-turbo-200-ultra-2027/15.webp",
+    "remote": "https://images.usadosbr.com/media/gallery/60/a4/5a/fiat-strada-cd-1-0-turbo-200-ultra-2027-sao-paulo-sp-7fbd5026-Yc.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/fiat/strada/cd-1-0-turbo-200-ultra/2027-branco-sao-paulo-sao-paulo-168",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/01.webp",
+    "remote": "https://images.usadosbr.com/manipulatedImages/media/gallery/a4/05/61/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-FN-image-760x570-crop.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/02.webp",
+    "remote": "https://images.usadosbr.com/manipulatedImages/media/gallery/b0/4f/85/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-Er-image-760x570-crop.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/03.webp",
+    "remote": "https://images.usadosbr.com/manipulatedImages/media/gallery/c7/ed/5b/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-hi-image-760x570-crop.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/04.webp",
+    "remote": "https://images.usadosbr.com/manipulatedImages/media/gallery/f2/bd/0c/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-uO-image-760x570-crop.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/05.webp",
+    "remote": "https://images.usadosbr.com/manipulatedImages/media/gallery/e5/52/27/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-he-image-760x570-crop.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/06.webp",
+    "remote": "https://images.usadosbr.com/manipulatedImages/media/gallery/88/11/b4/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-L4-image-760x570-crop.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/07.webp",
+    "remote": "https://images.usadosbr.com/manipulatedImages/media/gallery/21/c7/13/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-T5-image-760x570-crop.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/08.webp",
+    "remote": "https://images.usadosbr.com/manipulatedImages/media/gallery/a8/78/bc/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-rB-image-760x570-crop.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/09.webp",
+    "remote": "https://images.usadosbr.com/manipulatedImages/media/gallery/a3/cf/b6/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-2K-image-760x570-crop.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/10.webp",
+    "remote": "https://images.usadosbr.com/manipulatedImages/media/gallery/c8/0f/69/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-k3-image-760x570-crop.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/11.webp",
+    "remote": "https://images.usadosbr.com/manipulatedImages/media/gallery/8f/b5/ea/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-rL-image-760x570-crop.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/12.webp",
+    "remote": "https://images.usadosbr.com/manipulatedImages/media/gallery/8e/25/ea/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-zn-image-760x570-crop.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/13.webp",
+    "remote": "https://images.usadosbr.com/manipulatedImages/media/gallery/f2/23/76/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-ft-image-760x570-crop.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/14.webp",
+    "remote": "https://images.usadosbr.com/manipulatedImages/media/gallery/d6/1b/98/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-Pv-image-760x570-crop.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/15.webp",
+    "remote": "https://images.usadosbr.com/manipulatedImages/media/gallery/f3/1b/b4/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-cK-image-760x570-crop.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/16.webp",
+    "remote": "https://images.usadosbr.com/manipulatedImages/media/gallery/e8/d3/0a/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-Mm-image-760x570-crop.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/17.webp",
+    "remote": "https://images.usadosbr.com/manipulatedImages/media/gallery/45/42/b3/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-ze-image-760x570-crop.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/18.webp",
+    "remote": "https://images.usadosbr.com/manipulatedImages/media/gallery/d0/96/4c/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-Zt-image-760x570-crop.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/19.webp",
+    "remote": "https://images.usadosbr.com/manipulatedImages/media/gallery/88/b3/60/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-PK-image-760x570-crop.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+    "usage": "development; publication authorization pending"
+  },
+  {
+    "local": "/vehicles/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018/20.webp",
+    "remote": "https://images.usadosbr.com/manipulatedImages/media/gallery/d2/df/49/land-rover-range-rover-evoque-2-0-hse-td4-turbo-2018-sao-paulo-sp-e0d22adf-dN-image-760x570-crop.webp",
+    "source": "https://www.usadosbr.com/carros-e-utilitarios/land-rover/range-rover-evoque/2-0-hse-td4-turbo/2018-cinza-sao-paulo-sao-paulo-8077",
+    "usage": "development; publication authorization pending"
+  }
+]
