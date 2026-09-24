@@ -51,16 +51,22 @@ export default async function Page({
     `Tenho interesse no ${name} ${v.version} ${v.modelYear} anunciado pela M3 Auto Premium.`,
   );
   const specs = [
-    ["Ano fabricação/modelo", v.manufactureYear + "/" + v.modelYear],
-    ["Quilometragem", number(v.mileageKm) + " km"],
-    ["Marca", v.make],
-    ["Modelo", v.model],
-    ["Versão", v.version],
-    ["Categoria", v.bodyType],
-    ["Combustível", v.fuel],
-    ["Câmbio", v.transmission],
-    ["Cor", v.color],
-  ].filter(([, value]) => value);
+    {
+      label: "Ano fabricação/modelo",
+      value: v.manufactureYear + "/" + v.modelYear,
+    },
+    {
+      label: "Quilometragem",
+      value: number(v.mileageKm) + " km",
+    },
+    { label: "Marca", value: v.make },
+    { label: "Modelo", value: v.model },
+    { label: "Versão", value: v.version },
+    { label: "Categoria", value: v.bodyType },
+    { label: "Combustível", value: v.fuel },
+    { label: "Câmbio", value: v.transmission },
+    { label: "Cor", value: v.color },
+  ].filter((spec) => spec.value);
   const schema = {
     "@context": "https://schema.org",
     "@type": "Car",
@@ -146,37 +152,94 @@ export default async function Page({
           <div className="vehicle-details-content">
             <p className="eyebrow">INFORMAÇÕES DO ANÚNCIO</p>
             <h2>Conheça os detalhes.</h2>
-            <dl className="spec-grid">
-              {specs.map(([label, value]) => (
-                <div key={label}>
-                  <dt>{label}</dt>
-                  <dd>{value}</dd>
-                </div>
-              ))}
-            </dl>
-            {v.features.length > 0 && (
-              <>
-                <h3>Equipamentos informados</h3>
-                <ul className="features-list">
-                  {v.features.map((f) => (
-                    <li key={f}>{f}</li>
+            <div className="vehicle-information">
+              <details className="vehicle-information-section" open>
+                <summary>
+                  <span>Especificações</span>
+                  <span
+                    className="vehicle-information-toggle"
+                    aria-hidden="true"
+                  />
+                </summary>
+                <dl className="vehicle-specification-list">
+                  {specs.map(({ label, value }, index) => (
+                    <div key={label}>
+                      <span
+                        className="vehicle-specification-index"
+                        aria-hidden="true"
+                      >
+                        {String(index + 1).padStart(2, "0")}
+                      </span>
+                      <div>
+                        <dt>{label}</dt>
+                        <dd>{value}</dd>
+                      </div>
+                    </div>
                   ))}
-                </ul>
-              </>
-            )}
-            <p>{v.description}</p>
-            <p className="inventory-disclaimer">
-              Fonte:{" "}
-              <a href={v.source.sourceUrl} target="_blank" rel="noreferrer">
-                anúncio da M3 no Usadosbr ↗
-              </a>
-              . Consultado em{" "}
-              {new Date(v.source.retrievedAt).toLocaleDateString("pt-BR", {
-                timeZone: "America/Sao_Paulo",
-              })}
-              . Confira os equipamentos e a documentação pessoalmente.
-            </p>
-            <CTA href="/financiamento">Consultar financiamento</CTA>
+                </dl>
+              </details>
+
+              {v.features.length > 0 && (
+                <details className="vehicle-information-section">
+                  <summary>
+                    <span>Equipamentos</span>
+                    <span
+                      className="vehicle-information-toggle"
+                      aria-hidden="true"
+                    />
+                  </summary>
+                  <ul className="vehicle-feature-list">
+                    {v.features.map((feature, index) => (
+                      <li key={feature}>
+                        <span aria-hidden="true">
+                          {String(index + 1).padStart(2, "0")}
+                        </span>
+                        <strong>{feature}</strong>
+                      </li>
+                    ))}
+                  </ul>
+                </details>
+              )}
+
+              <details className="vehicle-information-section">
+                <summary>
+                  <span>Descrição e procedência</span>
+                  <span
+                    className="vehicle-information-toggle"
+                    aria-hidden="true"
+                  />
+                </summary>
+                <div className="vehicle-description">
+                  <div className="vehicle-description-copy">
+                    <span>Sobre este veículo</span>
+                    <p>{v.description}</p>
+                  </div>
+                  <aside className="vehicle-origin-note">
+                    <div>
+                      <span>Procedência do anúncio</span>
+                      <strong>Informações verificáveis</strong>
+                      <p className="inventory-disclaimer">
+                        Dados publicados pela M3 Auto Premium com base no
+                        anúncio de origem. Confirme disponibilidade,
+                        equipamentos e documentação antes da compra.
+                      </p>
+                      <a
+                        className="vehicle-source-link"
+                        href={v.source.sourceUrl}
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        Ver anúncio de origem ↗
+                      </a>
+                    </div>
+                  </aside>
+                </div>
+              </details>
+            </div>
+
+            <div className="vehicle-details-action">
+              <CTA href="/financiamento">Consultar financiamento</CTA>
+            </div>
           </div>
         </section>
         <section className="container">
@@ -197,16 +260,18 @@ export default async function Page({
           />
         </section>
       </div>
-      <aside className="vehicle-mobile-actions" aria-label="AÃ§Ãµes do anÃºncio">
+      <aside
+        className="vehicle-mobile-actions"
+        aria-label="AÃ§Ãµes do anÃºncio"
+      >
         <Link href="/financiamento">Financiar</Link>
-        <a href={dealership.phoneHref} aria-label="Ligar para a M3 Auto Premium">
+        <a
+          href={dealership.phoneHref}
+          aria-label="Ligar para a M3 Auto Premium"
+        >
           <Phone size={21} aria-hidden="true" />
         </a>
-        <a
-          href={mobileInterestUrl}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a href={mobileInterestUrl} target="_blank" rel="noopener noreferrer">
           <MessageCircle size={19} aria-hidden="true" />
           WhatsApp
         </a>

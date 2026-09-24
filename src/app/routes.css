@@ -190,6 +190,281 @@
 .vehicle-details-content {
   width: 100%;
 }
+.vehicle-details-content > h2 {
+  margin-bottom: 46px;
+}
+.vehicle-information {
+  border-top: 1px solid var(--border);
+  interpolate-size: allow-keywords;
+}
+.vehicle-information-section {
+  border-bottom: 1px solid var(--border);
+}
+@supports selector(.vehicle-information-section::details-content) {
+  .vehicle-information-section::details-content {
+    block-size: 0;
+    overflow: hidden;
+    opacity: 0;
+    transform: translateY(-8px);
+    transition:
+      block-size 420ms cubic-bezier(0.22, 1, 0.36, 1),
+      content-visibility 420ms allow-discrete,
+      opacity 240ms ease,
+      transform 320ms cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .vehicle-information-section[open]::details-content {
+    block-size: auto;
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@supports not selector(.vehicle-information-section::details-content) {
+  .vehicle-information-section[open] > :not(summary) {
+    animation: vehicle-information-reveal 320ms cubic-bezier(0.22, 1, 0.36, 1)
+      both;
+  }
+}
+@keyframes vehicle-information-reveal {
+  from {
+    opacity: 0;
+    transform: translateY(-8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.vehicle-information-section summary {
+  min-height: 76px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  cursor: pointer;
+  list-style: none;
+  font-size: 20px;
+  font-weight: 560;
+  letter-spacing: -0.02em;
+  transition: color 180ms ease;
+}
+.vehicle-information-section summary::-webkit-details-marker {
+  display: none;
+}
+.vehicle-information-section summary:hover {
+  color: var(--brand-blue);
+}
+.vehicle-information-section summary:focus-visible {
+  outline: 2px solid var(--brand-blue);
+  outline-offset: 4px;
+}
+.vehicle-information-toggle {
+  position: relative;
+  width: 22px;
+  height: 22px;
+  flex: 0 0 22px;
+}
+.vehicle-information-toggle::before,
+.vehicle-information-toggle::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 16px;
+  height: 1.5px;
+  border-radius: 999px;
+  background: currentColor;
+  transform: translate(-50%, -50%);
+  transition: transform 220ms ease;
+}
+.vehicle-information-toggle::after {
+  transform: translate(-50%, -50%) rotate(90deg);
+}
+.vehicle-information-section[open] .vehicle-information-toggle::after {
+  transform: translate(-50%, -50%) rotate(0deg);
+}
+.vehicle-specification-list {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0;
+  margin: 0;
+  padding: 0 0 28px;
+  border-top: 1px solid var(--border);
+}
+.vehicle-specification-list > div {
+  min-width: 0;
+  min-height: 122px;
+  display: grid;
+  grid-template-columns: 34px minmax(0, 1fr);
+  align-content: center;
+  gap: 18px;
+  padding: 24px 28px;
+  border-right: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  transition: background-color 180ms ease;
+}
+.vehicle-specification-list > div:nth-child(3n) {
+  border-right: 0;
+}
+.vehicle-specification-list > div:hover {
+  background: rgba(255, 255, 255, 0.52);
+}
+.vehicle-specification-index {
+  position: relative;
+  padding-top: 12px;
+  color: var(--brand-metal-light);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+}
+.vehicle-specification-index::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 22px;
+  height: 3px;
+  background: linear-gradient(
+    110deg,
+    var(--brand-red) 0 32%,
+    var(--brand-blue) 33% 65%,
+    var(--brand-cyan) 66%
+  );
+}
+.vehicle-specification-list > div > div {
+  min-width: 0;
+}
+.vehicle-specification-list dt,
+.vehicle-specification-list dd {
+  line-height: 1.45;
+}
+.vehicle-specification-list dt {
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.vehicle-specification-list dd {
+  margin: 7px 0 0;
+  overflow-wrap: anywhere;
+  color: var(--brand-graphite);
+  font-size: 19px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+.vehicle-feature-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0 52px;
+  margin: 0;
+  padding: 0 0 28px;
+  border-top: 1px solid var(--border);
+  list-style: none;
+}
+.vehicle-feature-list li {
+  min-width: 0;
+  min-height: 62px;
+  display: grid;
+  grid-template-columns: 38px minmax(0, 1fr);
+  align-items: center;
+  gap: 16px;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--border);
+  color: var(--brand-graphite);
+  font-size: 14px;
+  line-height: 1.45;
+}
+.vehicle-feature-list li > span {
+  color: var(--brand-metal-light);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+}
+.vehicle-feature-list li > strong {
+  font-weight: 540;
+}
+.vehicle-description {
+  display: grid;
+  grid-template-columns: minmax(0, 1.35fr) minmax(300px, 0.65fr);
+  gap: 0;
+  padding: 0 0 30px;
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+}
+.vehicle-description-copy {
+  padding: 34px 48px 34px 0;
+}
+.vehicle-description-copy > span,
+.vehicle-origin-note > div > span {
+  position: relative;
+  display: block;
+  margin-bottom: 18px;
+  padding-left: 32px;
+  color: var(--brand-metal-light);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+.vehicle-description-copy > span::before,
+.vehicle-origin-note > div > span::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 22px;
+  height: 3px;
+  background: linear-gradient(
+    110deg,
+    var(--brand-red) 0 32%,
+    var(--brand-blue) 33% 65%,
+    var(--brand-cyan) 66%
+  );
+  transform: translateY(-50%);
+}
+.vehicle-description-copy > p {
+  max-width: 760px;
+  margin: 0;
+  color: var(--brand-graphite);
+  font-size: 17px;
+  line-height: 1.7;
+}
+.vehicle-origin-note {
+  padding: 34px 0 34px 48px;
+  border-left: 1px solid var(--border);
+  color: var(--brand-graphite);
+}
+.vehicle-origin-note strong {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 14px;
+}
+.vehicle-origin-note .inventory-disclaimer {
+  margin: 0 0 14px;
+  font-size: 12px;
+  line-height: 1.6;
+}
+.vehicle-source-link {
+  color: var(--brand-blue);
+  font-size: 13px;
+  font-weight: 650;
+  text-decoration: underline;
+  text-decoration-color: transparent;
+  text-underline-offset: 4px;
+  transition: text-decoration-color 180ms ease;
+}
+.vehicle-source-link:hover {
+  text-decoration-color: currentColor;
+}
+.vehicle-details-action {
+  margin-top: 32px;
+}
+@media (prefers-reduced-motion: reduce) {
+  .vehicle-information-section::details-content {
+    transition: none;
+  }
+  .vehicle-information-section[open] > :not(summary) {
+    animation: none;
+  }
+}
 .vehicle-gallery {
   min-width: 0;
   position: sticky;
@@ -231,20 +506,36 @@
   animation: gallery-exit-previous 560ms cubic-bezier(0.22, 1, 0.36, 1) both;
 }
 @keyframes gallery-enter-next {
-  from { transform: translateX(100%); }
-  to { transform: translateX(0); }
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(0);
+  }
 }
 @keyframes gallery-exit-next {
-  from { transform: translateX(0); }
-  to { transform: translateX(-100%); }
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
 }
 @keyframes gallery-enter-previous {
-  from { transform: translateX(-100%); }
-  to { transform: translateX(0); }
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0);
+  }
 }
 @keyframes gallery-exit-previous {
-  from { transform: translateX(0); }
-  to { transform: translateX(100%); }
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(100%);
+  }
 }
 .gallery-prev,
 .gallery-next {
@@ -261,7 +552,9 @@
   box-shadow: 0 5px 18px rgba(17, 17, 17, 0.12);
   opacity: 0.72;
   backdrop-filter: blur(10px);
-  transition: opacity 180ms ease, transform 180ms ease;
+  transition:
+    opacity 180ms ease,
+    transform 180ms ease;
 }
 .gallery-main .gallery-prev,
 .gallery-main .gallery-next {
@@ -308,7 +601,9 @@
   border-radius: 999px;
   background: rgba(255, 255, 255, 0.68);
   box-shadow: 0 1px 5px rgba(0, 0, 0, 0.22);
-  transition: width 220ms ease, background-color 220ms ease;
+  transition:
+    width 220ms ease,
+    background-color 220ms ease;
 }
 .gallery-dots span[data-active="true"] {
   width: 18px;
@@ -904,6 +1199,69 @@
   .vehicle-details-content > h2 {
     display: none;
   }
+  .vehicle-information-section summary {
+    min-height: 66px;
+    font-size: 18px;
+  }
+  .vehicle-specification-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0;
+    padding: 0 0 18px;
+  }
+  .vehicle-specification-list > div {
+    min-height: 118px;
+    grid-template-columns: 1fr;
+    gap: 8px;
+    padding: 18px 14px;
+    border-right: 1px solid var(--border);
+  }
+  .vehicle-specification-list > div:nth-child(3n) {
+    border-right: 1px solid var(--border);
+  }
+  .vehicle-specification-list > div:nth-child(2n) {
+    border-right: 0;
+  }
+  .vehicle-specification-index {
+    padding-top: 10px;
+  }
+  .vehicle-specification-list dt {
+    font-size: 11px;
+  }
+  .vehicle-specification-list dd {
+    font-size: 14px;
+  }
+  .vehicle-feature-list {
+    grid-template-columns: 1fr;
+    gap: 0;
+    padding-bottom: 18px;
+  }
+  .vehicle-feature-list li {
+    min-height: 58px;
+    grid-template-columns: 34px minmax(0, 1fr);
+    gap: 12px;
+    padding: 12px 0;
+    font-size: 13px;
+  }
+  .vehicle-description {
+    grid-template-columns: 1fr;
+    padding-bottom: 24px;
+    border-bottom: 0;
+  }
+  .vehicle-description-copy {
+    padding: 26px 0;
+  }
+  .vehicle-description-copy > p {
+    font-size: 15px;
+    line-height: 1.65;
+  }
+  .vehicle-origin-note {
+    padding: 26px 0;
+    border-top: 1px solid var(--border);
+    border-left: 0;
+  }
+  .vehicle-details-action {
+    margin-top: 26px;
+  }
   body:has(.vehicle-mobile-actions) .section-stack {
     padding-top: 24px;
   }
@@ -951,7 +1309,9 @@
     display: grid;
     grid-template-columns: minmax(92px, 0.8fr) 56px minmax(126px, 1.25fr);
     gap: 8px;
-    padding: 10px max(12px, env(safe-area-inset-right)) calc(10px + env(safe-area-inset-bottom)) max(12px, env(safe-area-inset-left));
+    padding: 10px max(12px, env(safe-area-inset-right))
+      calc(10px + env(safe-area-inset-bottom))
+      max(12px, env(safe-area-inset-left));
     border-top: 1px solid var(--border);
     background: rgba(255, 255, 255, 0.96);
     box-shadow: 0 -12px 30px rgba(21, 24, 32, 0.1);
