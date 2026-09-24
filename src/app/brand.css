@@ -1163,7 +1163,8 @@ main {
 
 .m3-location {
   position: relative;
-  width: 100vw;
+  width: 100%;
+  max-width: 100%;
   min-height: 780px;
   overflow: hidden;
   background: rgb(242, 242, 242);
