@@ -94,13 +94,6 @@ export default async function Page({
         }}
       />
       <section className="container vehicle-intro">
-        {galleryImages.length > 0 && (
-          <VehicleGallery
-            images={galleryImages}
-            name={name}
-            className="vehicle-gallery-mobile"
-          />
-        )}
         <div className="vehicle-intro-copy">
           <p className="eyebrow">
             <Link href="/estoque">Estoque</Link> / {v.make}
@@ -111,7 +104,6 @@ export default async function Page({
           </p>
           <div className="vehicle-price-row">
             <h2>{money(v.price)}</h2>
-            <Link href="/financiamento">Ver parcelas</Link>
           </div>
           <p>Anunciado no estoque · consulte disponibilidade</p>
           <CTA
@@ -128,6 +120,9 @@ export default async function Page({
           >
             Tenho interesse
           </CTA>
+          <CTA className="vehicle-finance-cta" href="/financiamento">
+            Consultar financiamento
+          </CTA>
           {v.notes.map((n) => (
             <p className="data-note" key={n}>
               {n}
@@ -135,24 +130,20 @@ export default async function Page({
           ))}
         </div>
         <div className="vehicle-intro-image">
-          <Photo src={v.coverImage} alt={v.images[0]?.alt || name} priority />
+          {galleryImages.length > 0 ? (
+            <VehicleGallery
+              images={galleryImages}
+              name={name}
+              className="vehicle-gallery-primary"
+            />
+          ) : (
+            <Photo src={v.coverImage} alt={v.images[0]?.alt || name} priority />
+          )}
         </div>
       </section>
       <div className="section-stack">
         <section className="container vehicle-details">
-          {galleryImages.length ? (
-            <VehicleGallery
-              images={galleryImages}
-              name={name}
-              className="vehicle-gallery-desktop"
-            />
-          ) : (
-            <div className="empty-state">
-              <h3>Fotos em atualização</h3>
-              <p>Peça as imagens deste veículo à M3 pelo WhatsApp.</p>
-            </div>
-          )}
-          <div>
+          <div className="vehicle-details-content">
             <p className="eyebrow">INFORMAÇÕES DO ANÚNCIO</p>
             <h2>Conheça os detalhes.</h2>
             <dl className="spec-grid">
