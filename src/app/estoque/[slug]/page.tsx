@@ -1,11 +1,18 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { MessageCircle, Phone } from "lucide-react";
+import {
+  CalendarDays,
+  CameraOff,
+  Gauge,
+  MapPin,
+  MessageCircle,
+  Phone,
+} from "lucide-react";
 import { toVehicleView, vehicleName, money, number } from "@/lib/vehicles";
 import { getVehicles, getVehicleBySlug } from "@/data/vehicles";
 import { whatsappUrl, dealership } from "@/lib/dealership";
 import { pageMetadata } from "@/lib/metadata";
-import { CTA, Photo, SectionHeading } from "@/components/m3/primitives";
+import { CTA, SectionHeading } from "@/components/m3/primitives";
 import { VehicleGallery } from "@/components/m3/vehicle-gallery";
 import { VehicleGrid } from "@/components/m3/vehicle-card";
 export const generateStaticParams = async () =>
@@ -43,10 +50,16 @@ export default async function Page({
   if (!v) notFound();
   const vehicles = (await getVehicles()).map(toVehicleView);
   const name = vehicleName(v);
-  const galleryImages = [
-    v.coverImage,
-    ...v.gallery.filter((image) => image !== v.coverImage),
-  ];
+  const galleryImages = Array.from(
+    new Set(
+      [v.coverImage, ...v.gallery].filter(
+        (image) => image && image !== "/brand/m3-logo.webp",
+      ),
+    ),
+  );
+  const photoRequestUrl = whatsappUrl(
+    `Olá! Gostaria de receber fotos atualizadas do ${name} ${v.version} ${v.modelYear} anunciado no site da M3 Auto Premium.`,
+  );
   const mobileInterestUrl = whatsappUrl(
     `Tenho interesse no ${name} ${v.version} ${v.modelYear} anunciado pela M3 Auto Premium.`,
   );
@@ -99,15 +112,71 @@ export default async function Page({
           __html: JSON.stringify(schema).replace(/</g, "\u003c"),
         }}
       />
-      <section className="container vehicle-intro">
-        <div className="vehicle-intro-copy">
+      <section className="vehicle-showcase">
+        <div className="vehicle-intro-image">
+          {galleryImages.length > 0 ? (
+            <VehicleGallery
+              images={galleryImages}
+              name={name}
+              className="vehicle-gallery-primary"
+            />
+          ) : (
+            <div className="vehicle-gallery-empty" role="status">
+              <div className="vehicle-gallery-empty-mark" aria-hidden="true">
+                <CameraOff size={28} strokeWidth={1.45} />
+              </div>
+              <div className="vehicle-gallery-empty-copy">
+                <span>Fotos em atualização</span>
+                <h2>As imagens deste veículo ainda não estão disponíveis.</h2>
+                <p>Solicite as fotos atuais diretamente à equipe da M3.</p>
+              </div>
+              <a
+                href={photoRequestUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Solicitar fotos
+                <MessageCircle size={18} aria-hidden="true" />
+              </a>
+            </div>
+          )}
+        </div>
+        <div className="container vehicle-intro">
+        <article className="vehicle-intro-copy">
           <p className="eyebrow">
             <Link href="/estoque">Estoque</Link> / {v.make}
           </p>
           <h1>{name}</h1>
-          <p>
-            {v.version} · {v.modelYear} · {number(v.mileageKm)} km
-          </p>
+          <p className="vehicle-version">{v.version}</p>
+          <dl className="vehicle-key-facts">
+            <div>
+              <dt><MapPin size={17} aria-hidden="true" /> Localização</dt>
+              <dd>{dealership.city} - {dealership.state}</dd>
+            </div>
+            <div>
+              <dt><CalendarDays size={17} aria-hidden="true" /> Ano</dt>
+              <dd>{v.manufactureYear}/{v.modelYear}</dd>
+            </div>
+            <div>
+              <dt><Gauge size={17} aria-hidden="true" /> Quilometragem</dt>
+              <dd>{number(v.mileageKm)} km</dd>
+            </div>
+            <div>
+              <dt>Câmbio</dt>
+              <dd>{v.transmission}</dd>
+            </div>
+            <div>
+              <dt>Combustível</dt>
+              <dd>{v.fuel}</dd>
+            </div>
+            <div>
+              <dt>Cor</dt>
+              <dd>{v.color}</dd>
+            </div>
+          </dl>
+        </article>
+        <aside className="vehicle-offer-panel" aria-label="Condições do veículo">
+          <span>Valor anunciado</span>
           <div className="vehicle-price-row">
             <h2>{money(v.price)}</h2>
           </div>
@@ -127,33 +196,24 @@ export default async function Page({
             Tenho interesse
           </CTA>
           <CTA className="vehicle-finance-cta" href="/financiamento">
-            Consultar financiamento
+            Simular financiamento
           </CTA>
           {v.notes.map((n) => (
             <p className="data-note" key={n}>
               {n}
             </p>
           ))}
-        </div>
-        <div className="vehicle-intro-image">
-          {galleryImages.length > 0 ? (
-            <VehicleGallery
-              images={galleryImages}
-              name={name}
-              className="vehicle-gallery-primary"
-            />
-          ) : (
-            <Photo src={v.coverImage} alt={v.images[0]?.alt || name} priority />
-          )}
+        </aside>
         </div>
       </section>
       <div className="section-stack">
-        <section className="container vehicle-details">
+        <section
+          className="container vehicle-details"
+          aria-label="Detalhes do veículo"
+        >
           <div className="vehicle-details-content">
-            <p className="eyebrow">INFORMAÇÕES DO ANÚNCIO</p>
-            <h2>Conheça os detalhes.</h2>
             <div className="vehicle-information">
-              <details className="vehicle-information-section" open>
+              <details className="vehicle-information-section">
                 <summary>
                   <span>Especificações</span>
                   <span

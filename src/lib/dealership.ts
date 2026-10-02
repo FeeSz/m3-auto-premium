@@ -22,6 +22,15 @@ export const whatsappUrl = (
   message = "Olá! Gostaria de conversar com a M3 Auto Premium.",
 ) => `https://wa.me/${dealership.whatsapp}?text=${encodeURIComponent(message)}`;
 export const mapsUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(dealership.name + " " + dealership.address)}`;
+export const socialLinks = [
+  {
+    label: "Facebook",
+    href: "https://www.facebook.com/profile.php?id=61575494190894",
+    network: "facebook",
+  },
+  { label: "Instagram", href: dealership.instagram, network: "instagram" },
+  { label: "WhatsApp", href: whatsappUrl(), network: "whatsapp" },
+] as const;
 export const media = {
   hero: "/reference/QT1UEFL8QJPutAvTj9StqpyLY.webp",
   inspection: "/reference/ePT9kuMpmdFFmnCqOllNvONQys.webp",

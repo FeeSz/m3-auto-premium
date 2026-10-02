@@ -2,6 +2,13 @@
 import { useRef, useState } from "react";
 import Link from "next/link";
 import { ArrowRight } from "lucide-react";
+import {
+  Select as UiSelect,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@/components/ui/select";
 import { whatsappUrl, dealership } from "@/lib/dealership";
 import { prepareLead } from "@/lib/lead";
 type Kind = "contact" | "trade" | "finance";
@@ -13,7 +20,8 @@ function formatFieldValue(value: string, format?: FieldFormat) {
     const digits = value.replace(/\D/g, "").slice(0, 11);
     if (digits.length <= 2) return digits ? `(${digits}` : "";
     if (digits.length <= 6) return `(${digits.slice(0, 2)}) ${digits.slice(2)}`;
-    if (digits.length <= 10) return `(${digits.slice(0, 2)}) ${digits.slice(2, 6)}-${digits.slice(6)}`;
+    if (digits.length <= 10)
+      return `(${digits.slice(0, 2)}) ${digits.slice(2, 6)}-${digits.slice(6)}`;
     return `(${digits.slice(0, 2)}) ${digits.slice(2, 7)}-${digits.slice(7)}`;
   }
   if (format === "currency") {
@@ -21,7 +29,9 @@ function formatFieldValue(value: string, format?: FieldFormat) {
     return digits ? `R$ ${Number(digits).toLocaleString("pt-BR")}` : "";
   }
   if (format === "name") {
-    return value.replace(/(^|\s)(\p{L})/gu, (match) => match.toLocaleUpperCase("pt-BR"));
+    return value.replace(/(^|\s)(\p{L})/gu, (match) =>
+      match.toLocaleUpperCase("pt-BR"),
+    );
   }
   return value;
 }
@@ -67,9 +77,15 @@ function Field({
                   ? "tel"
                   : "off"
         }
-        inputMode={format === "currency" || format === "phone" ? "numeric" : undefined}
+        inputMode={
+          format === "currency" || format === "phone" ? "numeric" : undefined
+        }
         onInput={(event) => {
-          if (format) event.currentTarget.value = formatFieldValue(event.currentTarget.value, format);
+          if (format)
+            event.currentTarget.value = formatFieldValue(
+              event.currentTarget.value,
+              format,
+            );
         }}
         {...(type === "tel"
           ? {
@@ -80,7 +96,7 @@ function Field({
     </label>
   );
 }
-function Select({
+function FormSelect({
   label,
   options,
   required = true,
@@ -89,18 +105,23 @@ function Select({
   options: string[];
   required?: boolean;
 }) {
+  const labelId = `field-${label.toLocaleLowerCase("pt-BR").replace(/[^a-z0-9]+/g, "-")}`;
   return (
-    <label className="field">
-      {label}
-      <select name={label} required={required} defaultValue="">
-        <option value="" disabled>
-          Selecione…
-        </option>
-        {options.map((o) => (
-          <option key={o}>{o}</option>
-        ))}
-      </select>
-    </label>
+    <div className="field field-select">
+      <span id={labelId}>{label}</span>
+      <UiSelect name={label} required={required}>
+        <SelectTrigger aria-labelledby={labelId}>
+          <SelectValue placeholder="Selecione…" />
+        </SelectTrigger>
+        <SelectContent>
+          {options.map((option) => (
+            <SelectItem key={option} value={option}>
+              {option}
+            </SelectItem>
+          ))}
+        </SelectContent>
+      </UiSelect>
+    </div>
   );
 }
 export function LeadForm({
@@ -182,7 +203,7 @@ export function LeadForm({
       <div className="form-grid">
         <Field label="Nome" placeholder="Seu nome" format="name" />
         {kind === "contact" ? (
-          <Select
+          <FormSelect
             label="Interesse"
             options={[
               "Comprar um veículo",
@@ -193,7 +214,9 @@ export function LeadForm({
             ]}
           />
         ) : (
-          kind === "trade" && <Field label="Sobrenome" placeholder="Seu sobrenome" />
+          kind === "trade" && (
+            <Field label="Sobrenome" placeholder="Seu sobrenome" />
+          )
         )}
         <Field
           label="E-mail"
@@ -201,7 +224,12 @@ export function LeadForm({
           placeholder="Seu e-mail"
           required={false}
         />
-        <Field label="Telefone" type="tel" placeholder="(11) 99999-9999" format="phone" />
+        <Field
+          label="Telefone"
+          type="tel"
+          placeholder="(11) 99999-9999"
+          format="phone"
+        />
         {kind === "trade" && (
           <>
             <Field label="Marca" placeholder="Marca do veículo" />
@@ -221,7 +249,7 @@ export function LeadForm({
               max={2000000}
               placeholder="Em km"
             />
-            <Select
+            <FormSelect
               label="Condição"
               options={[
                 "Excelente",
@@ -242,22 +270,41 @@ export function LeadForm({
                 defaultValue=""
                 onChange={(event) => {
                   const option = event.currentTarget.selectedOptions[0];
-                  const priceField = event.currentTarget.form?.elements.namedItem("Valor do veículo (R$)");
-                  if (priceField instanceof HTMLInputElement && option?.dataset.price) {
-                    priceField.value = formatFieldValue(option.dataset.price, "currency");
-                    priceField.dispatchEvent(new Event("input", { bubbles: true }));
+                  const priceField =
+                    event.currentTarget.form?.elements.namedItem(
+                      "Valor do veículo (R$)",
+                    );
+                  if (
+                    priceField instanceof HTMLInputElement &&
+                    option?.dataset.price
+                  ) {
+                    priceField.value = formatFieldValue(
+                      option.dataset.price,
+                      "currency",
+                    );
+                    priceField.dispatchEvent(
+                      new Event("input", { bubbles: true }),
+                    );
                   }
                 }}
               >
-                <option value="" disabled>Selecione no estoque…</option>
+                <option value="" disabled>
+                  Selecione no estoque…
+                </option>
                 {financeVehicles.map((vehicle) => (
-                  <option key={vehicle.label} value={vehicle.label} data-price={vehicle.price}>
+                  <option
+                    key={vehicle.label}
+                    value={vehicle.label}
+                    data-price={vehicle.price}
+                  >
                     {vehicle.label}
                   </option>
                 ))}
                 <option>Ainda não decidi</option>
               </select>
-              <span className="field-helper">Ao selecionar, o valor anunciado é preenchido automaticamente.</span>
+              <span className="field-helper">
+                Ao selecionar, o valor anunciado é preenchido automaticamente.
+              </span>
             </label>
             <Field
               label="Valor do veículo (R$)"
@@ -270,7 +317,7 @@ export function LeadForm({
               required={false}
               format="currency"
             />
-            <Select
+            <FormSelect
               label="Prazo desejado"
               options={[
                 "12 meses",
@@ -291,7 +338,7 @@ export function LeadForm({
               name="Mensagem"
               placeholder="Conte como podemos ajudar"
               maxLength={1200}
-              rows={kind === "contact" ? 9 : 5}
+              rows={5}
             />
           </label>
         )}
@@ -313,11 +360,17 @@ export function LeadForm({
         disabled={busy}
         aria-busy={busy}
       >
-        {busy ? "Preparando…" : kind === "finance" ? "Continuar simulação" : "Revisar e continuar"} <ArrowRight size={19} />
+        {busy
+          ? "Preparando…"
+          : kind === "finance"
+            ? "Continuar simulação"
+            : "Revisar e continuar"}{" "}
+        <ArrowRight size={19} />
       </button>
       {kind === "finance" && (
         <p className="form-note">
-          Simulação sem compromisso. Condições sujeitas à análise da instituição financeira.
+          Simulação sem compromisso. Condições sujeitas à análise da instituição
+          financeira.
         </p>
       )}
       {draft && (

@@ -1,5 +1,6 @@
 "use client";
 import Image from "next/image";
+import { CameraOff } from "lucide-react";
 import { useState } from "react";
 export function Photo({
   src,
@@ -15,12 +16,23 @@ export function Photo({
   sizes?: string;
 }) {
   const [failed, setFailed] = useState(false);
+  if (failed) {
+    return (
+      <div
+        className={`photo photo-unavailable ${className}`}
+        role="img"
+        aria-label="Fotografia indisponível. Consulte a M3."
+      >
+        <CameraOff size={24} strokeWidth={1.6} aria-hidden="true" />
+        <span>Imagem indisponível</span>
+      </div>
+    );
+  }
   return (
     <div className={"photo " + className}>
       <Image
-        src={failed ? "/brand/m3-logo.webp" : src}
-        alt={failed ? "Fotografia indisponível. Consulte a M3." : alt}
-        className={failed ? "photo-fallback" : undefined}
+        src={src}
+        alt={alt}
         fill
         sizes={sizes}
         preload={priority}

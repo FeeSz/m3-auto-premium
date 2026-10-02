@@ -9,7 +9,7 @@ import { whatsappUrl } from "@/lib/dealership";
 const slides = [
   {
     eyebrow: "EXPERIÊNCIA M3",
-    title: "Pronto para sentir o seu próximo veículo?",
+    title: "Conheça de perto. Decida ao volante.",
     copy: "Agende um test drive particular e conheça cada detalhe antes de decidir.",
     label: "Agendar test drive",
     href: whatsappUrl(

@@ -807,6 +807,12 @@ main {
 .footer-top p {
   margin: 24px 0;
 }
+.footer-navigation {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 28px;
+}
 .footer-top nav {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
