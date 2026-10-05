@@ -16,6 +16,7 @@ import { VehicleGrid } from "./vehicle-card";
 import { FAQ } from "./faq";
 import { HomeHero } from "./home-hero";
 import { ExperienceCarousel } from "./experience-carousel";
+import { LocationMap } from "./map";
 
 const services = [
   {
@@ -132,20 +133,7 @@ export async function Home() {
               </a>
             </div>
           </div>
-          <div className="location-map">
-            <div className="location-map-frame">
-              <iframe
-                src="https://maps.google.com/maps?q=M3+Auto+Premium,+Rua+Manoel+de+Castilho,+404,+Itaim+Paulista,+S%C3%A3o+Paulo%2FSP&z=15&output=embed"
-                title="Mapa da M3 Auto Premium — Rua Manoel de Castilho, 404"
-                referrerPolicy="no-referrer-when-downgrade"
-                tabIndex={-1}
-                aria-hidden="true"
-              />
-            </div>
-            <span className="location-map-pin" aria-hidden="true">
-              <MapPin size={34} strokeWidth={1.8} fill="currentColor" />
-            </span>
-          </div>
+          <LocationMap />
         </section>
         <FAQ />
       </div>
