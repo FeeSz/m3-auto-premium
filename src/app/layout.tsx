@@ -37,7 +37,9 @@ export default function RootLayout({
     <html lang="pt-BR" data-scroll-behavior="smooth">
       <body>
         <Header />
-        <main id="main">{children}</main>
+        <main id="main" tabIndex={-1}>
+          {children}
+        </main>
         <Footer />
         <RevealObserver />
         <script
