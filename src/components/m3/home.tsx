@@ -11,7 +11,7 @@ import {
 import { SectionHeading } from "./primitives";
 import { dealership, mapsUrl } from "@/lib/dealership";
 import { toVehicleView } from "@/lib/vehicles";
-import { getVehicles } from "@/data/vehicles";
+import { getPublicVehicles } from "@/data/vehicles";
 import { VehicleGrid } from "./vehicle-card";
 import { FAQ } from "./faq";
 import { HomeHero } from "./home-hero";
@@ -78,7 +78,7 @@ export function Services() {
 }
 
 export async function Home() {
-  const vehicles = (await getVehicles()).map(toVehicleView);
+  const vehicles = (await getPublicVehicles()).map(toVehicleView);
   return (
     <>
       <HomeHero />

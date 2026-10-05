@@ -10,9 +10,14 @@ import {
 } from "../src/domain/vehicle-parser.ts";
 import {
   getVehicles,
+  getPublicVehicles,
   getVehicleBySlug,
   getVehicleDataDiagnostics,
 } from "../src/data/vehicles.ts";
+import {
+  isPublicVehicle,
+  vehicleOfferAvailability,
+} from "../src/domain/vehicle-publication.ts";
 import {
   addVehicle,
   editVehicle,
@@ -68,6 +73,24 @@ test("Slug access, not found and defensive copies", async () => {
   const again = await getVehicles();
   assert.notEqual(again[0].price, 1);
   assert.ok(!again[0].images.includes("/tampered.webp"));
+});
+test("Publication rules hide sold vehicles and expose accurate offer status", async () => {
+  assert.equal(isPublicVehicle({ status: "available" }), true);
+  assert.equal(isPublicVehicle({ status: "reserved" }), true);
+  assert.equal(isPublicVehicle({ status: "sold" }), false);
+  assert.equal(
+    vehicleOfferAvailability("available"),
+    "https://schema.org/InStock",
+  );
+  assert.equal(
+    vehicleOfferAvailability("reserved"),
+    "https://schema.org/LimitedAvailability",
+  );
+  assert.equal(
+    vehicleOfferAvailability("sold"),
+    "https://schema.org/OutOfStock",
+  );
+  assert.ok((await getPublicVehicles()).every(isPublicVehicle));
 });
 test("Safe defaults never invent listing date, modifications or past prices", () => {
   const diagnostics = [];

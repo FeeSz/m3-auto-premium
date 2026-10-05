@@ -3,15 +3,18 @@
 import { ImageResponse } from "next/og";
 import { readFile } from "node:fs/promises";
 import { join } from "node:path";
-import { getVehicles } from "@/data/vehicles";
+import { getPublicVehicles } from "@/data/vehicles";
 import sharp from "sharp";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 export default async function Image() {
-  const heroVehicle = (await getVehicles()).find(
-    (v) => v.model === "HR-V" && v.year === 2023,
-  )!;
-  const coverImage = heroVehicle.coverImage!;
+  const vehicles = await getPublicVehicles();
+  const heroVehicle =
+    vehicles.find(
+      (vehicle) =>
+        vehicle.model === "HR-V" && vehicle.year === 2023 && vehicle.coverImage,
+    ) ?? vehicles.find((vehicle) => vehicle.coverImage);
+  const coverImage = heroVehicle?.coverImage ?? "/brand/m3-logo-original.png";
   const logo =
     "data:image/png;base64," +
     (

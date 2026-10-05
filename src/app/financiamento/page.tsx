@@ -3,7 +3,7 @@ import { ArrowDown } from "lucide-react";
 import { CTA } from "@/components/m3/primitives";
 import { FinanceSimulator } from "@/components/m3/finance-simulator";
 import { FAQ } from "@/components/m3/faq";
-import { getVehicles } from "@/data/vehicles";
+import { getPublicVehicles } from "@/data/vehicles";
 import { pageMetadata } from "@/lib/metadata";
 
 export const metadata = pageMetadata(
@@ -32,8 +32,7 @@ const questions = [
 ] as const;
 
 export default async function Page() {
-  const financeVehicles = (await getVehicles())
-    .filter((vehicle) => vehicle.status !== "sold")
+  const financeVehicles = (await getPublicVehicles())
     .map((vehicle) => ({
       slug: vehicle.slug,
       label: `${vehicle.make} ${vehicle.model}${vehicle.version ? ` ${vehicle.version}` : ""} · ${vehicle.year}`,

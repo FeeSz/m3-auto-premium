@@ -4,6 +4,7 @@ import {
   type VehicleDiagnostic,
 } from "../domain/vehicle-parser.ts";
 import type { Vehicle } from "../domain/vehicle.ts";
+import { isPublicVehicle } from "../domain/vehicle-publication.ts";
 const { vehicles: normalized, diagnostics } = parseVehicleInventory(
   snapshot.vehicles,
 );
@@ -21,6 +22,16 @@ export async function getVehicles(): Promise<Vehicle[]> {
 }
 export async function getVehicleBySlug(slug: string): Promise<Vehicle | null> {
   return (await getVehicles()).find((vehicle) => vehicle.slug === slug) ?? null;
+}
+export async function getPublicVehicles(): Promise<Vehicle[]> {
+  return (await getVehicles()).filter(isPublicVehicle);
+}
+export async function getPublicVehicleBySlug(
+  slug: string,
+): Promise<Vehicle | null> {
+  return (
+    (await getPublicVehicles()).find((vehicle) => vehicle.slug === slug) ?? null
+  );
 }
 export function getVehicleDataDiagnostics(): VehicleDiagnostic[] {
   return structuredClone(diagnostics);

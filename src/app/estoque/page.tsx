@@ -1,5 +1,5 @@
 import { toVehicleView } from "@/lib/vehicles";
-import { getVehicles } from "@/data/vehicles";
+import { getPublicVehicles } from "@/data/vehicles";
 import { Inventory } from "@/components/m3/inventory";
 import { pageMetadata } from "@/lib/metadata";
 export const metadata = pageMetadata(
@@ -8,7 +8,7 @@ export const metadata = pageMetadata(
   "/estoque",
 );
 export default async function Page() {
-  const vehicles = (await getVehicles()).map(toVehicleView);
+  const vehicles = (await getPublicVehicles()).map(toVehicleView);
   return (
     <>
       <div className="container inventory-heading">

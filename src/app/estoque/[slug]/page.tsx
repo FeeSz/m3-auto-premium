@@ -9,14 +9,19 @@ import {
   Phone,
 } from "lucide-react";
 import { toVehicleView, vehicleName, money, number } from "@/lib/vehicles";
-import { getVehicles, getVehicleBySlug } from "@/data/vehicles";
+import {
+  getPublicVehicles,
+  getPublicVehicleBySlug,
+  getVehicleBySlug,
+} from "@/data/vehicles";
+import { vehicleOfferAvailability } from "@/domain/vehicle-publication";
 import { whatsappUrl, dealership } from "@/lib/dealership";
 import { pageMetadata } from "@/lib/metadata";
 import { CTA, SectionHeading } from "@/components/m3/primitives";
 import { VehicleGallery } from "@/components/m3/vehicle-gallery";
 import { VehicleGrid } from "@/components/m3/vehicle-card";
 export const generateStaticParams = async () =>
-  (await getVehicles()).map((v) => ({ slug: v.slug }));
+  (await getPublicVehicles()).map((v) => ({ slug: v.slug }));
 export async function generateMetadata({
   params,
 }: {
@@ -24,6 +29,11 @@ export async function generateMetadata({
 }) {
   const { slug } = await params;
   const record = await getVehicleBySlug(slug);
+  if (!record || record.status === "sold")
+    return {
+      title: record ? "Veículo indisponível" : "Veículo não encontrado",
+      robots: { index: false, follow: false },
+    };
   const v = record ? toVehicleView(record) : null;
   return v
     ? pageMetadata(
@@ -45,10 +55,10 @@ export default async function Page({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
-  const record = await getVehicleBySlug(slug);
+  const record = await getPublicVehicleBySlug(slug);
   const v = record ? toVehicleView(record) : null;
   if (!v) notFound();
-  const vehicles = (await getVehicles()).map(toVehicleView);
+  const vehicles = (await getPublicVehicles()).map(toVehicleView);
   const name = vehicleName(v);
   const galleryImages = Array.from(
     new Set(
@@ -97,7 +107,7 @@ export default async function Page({
       "@type": "Offer",
       price: v.price,
       priceCurrency: "BRL",
-      availability: "https://schema.org/InStock",
+      availability: vehicleOfferAvailability(v.status),
       seller: { "@type": "AutoDealer", name: dealership.name },
       ...(dealership.siteUrl
         ? { url: dealership.siteUrl + "/estoque/" + v.slug }
@@ -142,68 +152,81 @@ export default async function Page({
           )}
         </div>
         <div className="container vehicle-intro">
-        <article className="vehicle-intro-copy">
-          <p className="eyebrow">
-            <Link href="/estoque">Estoque</Link> / {v.make}
-          </p>
-          <h1>{name}</h1>
-          <p className="vehicle-version">{v.version}</p>
-          <dl className="vehicle-key-facts">
-            <div>
-              <dt><MapPin size={17} aria-hidden="true" /> Localização</dt>
-              <dd>{dealership.city} - {dealership.state}</dd>
-            </div>
-            <div>
-              <dt><CalendarDays size={17} aria-hidden="true" /> Ano</dt>
-              <dd>{v.manufactureYear}/{v.modelYear}</dd>
-            </div>
-            <div>
-              <dt><Gauge size={17} aria-hidden="true" /> Quilometragem</dt>
-              <dd>{number(v.mileageKm)} km</dd>
-            </div>
-            <div>
-              <dt>Câmbio</dt>
-              <dd>{v.transmission}</dd>
-            </div>
-            <div>
-              <dt>Combustível</dt>
-              <dd>{v.fuel}</dd>
-            </div>
-            <div>
-              <dt>Cor</dt>
-              <dd>{v.color}</dd>
-            </div>
-          </dl>
-        </article>
-        <aside className="vehicle-offer-panel" aria-label="Condições do veículo">
-          <span>Valor anunciado</span>
-          <div className="vehicle-price-row">
-            <h2>{money(v.price)}</h2>
-          </div>
-          <p>Anunciado no estoque · consulte disponibilidade</p>
-          <CTA
-            className="vehicle-interest-cta"
-            href={whatsappUrl(
-              "Olá! Tenho interesse no " +
-                name +
-                " " +
-                v.version +
-                " " +
-                v.modelYear +
-                " anunciado no site da M3 Auto Premium. Gostaria de confirmar disponibilidade e saber mais.",
-            )}
-          >
-            Tenho interesse
-          </CTA>
-          <CTA className="vehicle-finance-cta" href="/financiamento">
-            Simular financiamento
-          </CTA>
-          {v.notes.map((n) => (
-            <p className="data-note" key={n}>
-              {n}
+          <article className="vehicle-intro-copy">
+            <p className="eyebrow">
+              <Link href="/estoque">Estoque</Link> / {v.make}
             </p>
-          ))}
-        </aside>
+            <h1>{name}</h1>
+            <p className="vehicle-version">{v.version}</p>
+            <dl className="vehicle-key-facts">
+              <div>
+                <dt>
+                  <MapPin size={17} aria-hidden="true" /> Localização
+                </dt>
+                <dd>
+                  {dealership.city} - {dealership.state}
+                </dd>
+              </div>
+              <div>
+                <dt>
+                  <CalendarDays size={17} aria-hidden="true" /> Ano
+                </dt>
+                <dd>
+                  {v.manufactureYear}/{v.modelYear}
+                </dd>
+              </div>
+              <div>
+                <dt>
+                  <Gauge size={17} aria-hidden="true" /> Quilometragem
+                </dt>
+                <dd>{number(v.mileageKm)} km</dd>
+              </div>
+              <div>
+                <dt>Câmbio</dt>
+                <dd>{v.transmission}</dd>
+              </div>
+              <div>
+                <dt>Combustível</dt>
+                <dd>{v.fuel}</dd>
+              </div>
+              <div>
+                <dt>Cor</dt>
+                <dd>{v.color}</dd>
+              </div>
+            </dl>
+          </article>
+          <aside
+            className="vehicle-offer-panel"
+            aria-label="Condições do veículo"
+          >
+            <span>Valor anunciado</span>
+            <div className="vehicle-price-row">
+              <h2>{money(v.price)}</h2>
+            </div>
+            <p>Anunciado no estoque · consulte disponibilidade</p>
+            <CTA
+              className="vehicle-interest-cta"
+              href={whatsappUrl(
+                "Olá! Tenho interesse no " +
+                  name +
+                  " " +
+                  v.version +
+                  " " +
+                  v.modelYear +
+                  " anunciado no site da M3 Auto Premium. Gostaria de confirmar disponibilidade e saber mais.",
+              )}
+            >
+              Tenho interesse
+            </CTA>
+            <CTA className="vehicle-finance-cta" href="/financiamento">
+              Simular financiamento
+            </CTA>
+            {v.notes.map((n) => (
+              <p className="data-note" key={n}>
+                {n}
+              </p>
+            ))}
+          </aside>
         </div>
       </section>
       <div className="section-stack">

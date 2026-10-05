@@ -1,10 +1,10 @@
 import type { MetadataRoute } from "next";
 import { dealership } from "@/lib/dealership";
-import { getVehicles } from "@/data/vehicles";
+import { getPublicVehicles } from "@/data/vehicles";
 import { getArticles } from "@/lib/articles";
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const [vehicles, articles] = await Promise.all([
-    getVehicles(),
+    getPublicVehicles(),
     getArticles(),
   ]);
   if (!dealership.siteUrl) return [];
