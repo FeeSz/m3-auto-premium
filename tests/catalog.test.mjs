@@ -263,6 +263,24 @@ test("Empty recovery offers only the next real price while retaining other filte
   assert.equal(suggestedPriceCeiling(rows, { ...f, make: "Missing" }), null);
   assert.equal(suggestedPriceCeiling(rows, { ...f, maxPrice: 80000 }), null);
 });
+test("Completely empty and filter-empty inventories remain stable", () => {
+  assert.deepEqual(selectCatalog([], emptyCatalogFilters()), []);
+  assert.deepEqual(catalogOptions([], "Missing"), {
+    make: [],
+    model: [],
+    body: [],
+    transmission: [],
+    fuel: [],
+    year: null,
+    maxMileage: null,
+    price: null,
+    configuration: false,
+  });
+  assert.deepEqual(
+    selectCatalog(rows, { ...emptyCatalogFilters(), q: "not-in-inventory" }),
+    [],
+  );
+});
 test("Pagination starts at 24, preserves original and counts filter groups only", () => {
   const all = Array.from({ length: 49 }, (_, i) => i);
   assert.equal(catalogPage(all).items.length, 24);

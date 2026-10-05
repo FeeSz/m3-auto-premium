@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { dealership } from "./dealership";
+import { dealership } from "./dealership.ts";
 export function pageMetadata(
   title: string,
   description: string,

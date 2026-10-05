@@ -2,6 +2,7 @@ import type { MetadataRoute } from "next";
 import { dealership } from "@/lib/dealership";
 import { getPublicVehicles } from "@/data/vehicles";
 import { getArticles } from "@/lib/articles";
+import { publicVehiclePaths } from "@/domain/vehicle-publication";
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const [vehicles, articles] = await Promise.all([
     getPublicVehicles(),
@@ -20,7 +21,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     "/cookies",
     "/termos",
     ...articles.map((a) => "/blog/" + a.slug),
-    ...vehicles.map((v) => "/estoque/" + v.slug),
+    ...publicVehiclePaths(vehicles),
   ].map((path) => ({
     url: new URL(path || "/", dealership.siteUrl).href,
     changeFrequency: "monthly",

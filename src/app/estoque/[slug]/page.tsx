@@ -16,10 +16,11 @@ import {
 } from "@/data/vehicles";
 import { vehicleOfferAvailability } from "@/domain/vehicle-publication";
 import { whatsappUrl, dealership } from "@/lib/dealership";
-import { pageMetadata } from "@/lib/metadata";
+import { vehicleMetadata } from "@/lib/vehicle-seo";
 import { CTA, SectionHeading } from "@/components/m3/primitives";
 import { VehicleGallery } from "@/components/m3/vehicle-gallery";
 import { VehicleGrid } from "@/components/m3/vehicle-card";
+export const dynamicParams = false;
 export const generateStaticParams = async () =>
   (await getPublicVehicles()).map((v) => ({ slug: v.slug }));
 export async function generateMetadata({
@@ -29,25 +30,7 @@ export async function generateMetadata({
 }) {
   const { slug } = await params;
   const record = await getVehicleBySlug(slug);
-  if (!record || record.status === "sold")
-    return {
-      title: record ? "Veículo indisponível" : "Veículo não encontrado",
-      robots: { index: false, follow: false },
-    };
-  const v = record ? toVehicleView(record) : null;
-  return v
-    ? pageMetadata(
-        vehicleName(v) + " " + v.modelYear + " à venda",
-        v.version +
-          " · " +
-          number(v.mileageKm) +
-          " km · " +
-          money(v.price) +
-          ". Conheça na M3 Auto Premium, Itaim Paulista.",
-        "/estoque/" + slug,
-        v.coverImage,
-      )
-    : { title: "Veículo não encontrado" };
+  return vehicleMetadata(record, slug);
 }
 export default async function Page({
   params,

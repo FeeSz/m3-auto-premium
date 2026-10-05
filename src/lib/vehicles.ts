@@ -1,4 +1,7 @@
-import type { Vehicle as DomainVehicle, VehicleImage } from "@/domain/vehicle";
+import type {
+  Vehicle as DomainVehicle,
+  VehicleImage,
+} from "../domain/vehicle.ts";
 export type Vehicle = Omit<DomainVehicle, "images" | "description"> & {
   images: VehicleImage[];
   modelYear: number;
@@ -31,4 +34,4 @@ export function toVehicleView(vehicle: DomainVehicle): Vehicle {
     demo: false,
   };
 }
-export { money, number, vehicleName } from "./vehicle-format";
+export { money, number, vehicleName } from "./vehicle-format.ts";
