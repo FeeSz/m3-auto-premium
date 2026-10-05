@@ -10,6 +10,10 @@ export type VehicleDiagnostic = {
   message: string;
 };
 export type DiagnosticSink = (diagnostic: VehicleDiagnostic) => void;
+export type VehicleInventoryParseResult = {
+  vehicles: Vehicle[];
+  diagnostics: VehicleDiagnostic[];
+};
 const object = (value: unknown): Record<string, unknown> => {
   if (!value || typeof value !== "object" || Array.isArray(value))
     throw Error("Vehicle input must be an object");
@@ -47,7 +51,8 @@ export function validIso(value: unknown): value is string {
       value,
     ) &&
     Number.isFinite(Date.parse(value)) &&
-    new Date(value.slice(0, 10)).toISOString().slice(0, 10) === value.slice(0, 10)
+    new Date(value.slice(0, 10)).toISOString().slice(0, 10) ===
+      value.slice(0, 10)
   );
 }
 const categories = new Set([
@@ -111,13 +116,25 @@ export function parseVehicle(
   if (price <= 0 || !Number.isInteger(year) || year < 1886 || year > 2100)
     throw Error(`Vehicle ${id}: invalid price/year`);
   const status = row.status ?? "available";
-  if (typeof status !== 'string' || !["available", "reserved", "sold"].includes(status))
+  if (
+    typeof status !== "string" ||
+    !["available", "reserved", "sold"].includes(status)
+  )
     throw Error(`Vehicle ${id}: invalid status`);
   if (row.status === undefined) warn("status", "Missing; default available");
   const listedAt = validIso(row.listedAt) ? row.listedAt : null;
   if (!listedAt) warn("listedAt", "Unknown store entry date; left null");
-  for (const field of ['version','bodyType','transmission','fuel','color','doors','description'] as const) {
-    if (row[field] === undefined || row[field] === null || row[field] === '') warn(field, 'Not provided by source; left absent');
+  for (const field of [
+    "version",
+    "bodyType",
+    "transmission",
+    "fuel",
+    "color",
+    "doors",
+    "description",
+  ] as const) {
+    if (row[field] === undefined || row[field] === null || row[field] === "")
+      warn(field, "Not provided by source; left absent");
   }
   if (row.soldAt !== undefined && !validIso(row.soldAt))
     throw Error(`Vehicle ${id}: invalid soldAt`);
@@ -256,4 +273,66 @@ export function parseVehicles(
     if (new Set(rows.map((row) => row[key])).size !== rows.length)
       throw Error(`Duplicate vehicle ${key}`);
   return rows;
+}
+
+/**
+ * Parses an inventory snapshot without allowing one bad record to make every
+ * valid vehicle unavailable. A malformed root remains fatal because there is
+ * no trustworthy inventory collection to recover in that case.
+ */
+export function parseVehicleInventory(
+  input: unknown,
+): VehicleInventoryParseResult {
+  if (!Array.isArray(input)) throw Error("Inventory must be an array");
+
+  const diagnostics: VehicleDiagnostic[] = [];
+  const vehicles: Vehicle[] = [];
+  const ids = new Set<string>();
+  const slugs = new Set<string>();
+
+  input.forEach((candidate, index) => {
+    const recordDiagnostics: VehicleDiagnostic[] = [];
+    let vehicle: Vehicle;
+
+    try {
+      vehicle = parseVehicle(candidate, (diagnostic) =>
+        recordDiagnostics.push(diagnostic),
+      );
+    } catch (error) {
+      const candidateId =
+        candidate &&
+        typeof candidate === "object" &&
+        !Array.isArray(candidate) &&
+        typeof (candidate as Record<string, unknown>).id === "string"
+          ? (candidate as Record<string, string>).id
+          : `record-${index + 1}`;
+      diagnostics.push({
+        vehicleId: candidateId,
+        field: "record",
+        message: `Rejected invalid inventory record: ${error instanceof Error ? error.message : "unknown parser error"}`,
+      });
+      return;
+    }
+
+    const duplicateField = ids.has(vehicle.id)
+      ? "id"
+      : slugs.has(vehicle.slug)
+        ? "slug"
+        : null;
+    if (duplicateField) {
+      diagnostics.push({
+        vehicleId: vehicle.id,
+        field: duplicateField,
+        message: `Rejected duplicate vehicle ${duplicateField}`,
+      });
+      return;
+    }
+
+    ids.add(vehicle.id);
+    slugs.add(vehicle.slug);
+    vehicles.push(vehicle);
+    diagnostics.push(...recordDiagnostics);
+  });
+
+  return { vehicles, diagnostics };
 }

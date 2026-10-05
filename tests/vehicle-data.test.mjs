@@ -3,6 +3,7 @@ import assert from "node:assert/strict";
 import { readFile } from "node:fs/promises";
 import {
   parseVehicle,
+  parseVehicleInventory,
   parseVehicles,
   parseVehicleNumber,
   validIso,
@@ -93,8 +94,52 @@ test("Parser converts legacy BRL/km and rejects malformed critical data", () => 
   assert.throws(() => parseVehicle({ ...sample, slug: "unsafe slug" }));
   assert.throws(() => parseVehicles([sample, sample]));
   assert.equal(validIso("2026-02-30"), false);
-  assert.equal(validIso('2026-09-21T23:30:00-03:00'),true);
-  assert.throws(()=>parseVehicle({...sample,status:{toString:()=> 'available'}}));
+  assert.equal(validIso("2026-09-21T23:30:00-03:00"), true);
+  assert.throws(() =>
+    parseVehicle({ ...sample, status: { toString: () => "available" } }),
+  );
+});
+test("Inventory boundary isolates malformed and duplicate records", () => {
+  const valid = { ...sample };
+  const invalid = { ...sample, id: "broken", price: -1 };
+  const duplicateId = { ...sample, slug: "different-slug" };
+  const duplicateSlug = { ...sample, id: "different-id" };
+  const result = parseVehicleInventory([
+    valid,
+    invalid,
+    duplicateId,
+    duplicateSlug,
+    null,
+  ]);
+
+  assert.deepEqual(
+    result.vehicles.map((vehicle) => vehicle.id),
+    [sample.id],
+  );
+  assert.ok(
+    result.diagnostics.some(
+      (diagnostic) =>
+        diagnostic.vehicleId === "broken" && diagnostic.field === "record",
+    ),
+  );
+  assert.ok(
+    result.diagnostics.some(
+      (diagnostic) =>
+        diagnostic.field === "id" && /duplicate/.test(diagnostic.message),
+    ),
+  );
+  assert.ok(
+    result.diagnostics.some(
+      (diagnostic) =>
+        diagnostic.field === "slug" && /duplicate/.test(diagnostic.message),
+    ),
+  );
+  assert.ok(
+    result.diagnostics.some(
+      (diagnostic) => diagnostic.vehicleId === "record-5",
+    ),
+  );
+  assert.throws(() => parseVehicleInventory({ vehicles: [valid] }));
 });
 test("Provided metadata survives normalization without technical inference", () => {
   const row = parseVehicle({

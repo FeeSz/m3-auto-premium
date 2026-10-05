@@ -1,11 +1,12 @@
 import snapshot from "./vehicles.generated.json" with { type: "json" };
 import {
-  parseVehicles,
+  parseVehicleInventory,
   type VehicleDiagnostic,
 } from "../domain/vehicle-parser.ts";
 import type { Vehicle } from "../domain/vehicle.ts";
-const diagnostics: VehicleDiagnostic[] = [];
-const normalized = parseVehicles(snapshot.vehicles, (d) => diagnostics.push(d));
+const { vehicles: normalized, diagnostics } = parseVehicleInventory(
+  snapshot.vehicles,
+);
 if (process.env.NODE_ENV === "development")
   for (const diagnostic of diagnostics)
     console.warn(
