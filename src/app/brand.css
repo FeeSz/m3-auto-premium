@@ -1436,6 +1436,10 @@ main {
   pointer-events: none;
   user-select: none;
 }
+.location-map[data-enabled="false"] {
+  pointer-events: auto;
+  user-select: auto;
+}
 .location-map-frame {
   position: absolute;
   z-index: 1;
@@ -1454,6 +1458,64 @@ main {
     rgb(242, 242, 242) 100%
   );
   pointer-events: auto;
+}
+.location-map[data-enabled="false"]::after {
+  display: none;
+}
+.location-map-consent {
+  position: absolute;
+  z-index: 4;
+  inset: 0;
+  display: grid;
+  place-content: center;
+  justify-items: center;
+  gap: 10px;
+  padding: 32px;
+  background:
+    radial-gradient(
+      circle at 50% 42%,
+      rgba(255, 255, 255, 0.96),
+      rgba(242, 242, 242, 0.94) 58%,
+      rgb(232, 234, 238)
+    ),
+    rgb(242, 242, 242);
+  color: var(--brand-graphite);
+  text-align: center;
+}
+.location-map-consent > svg {
+  color: var(--brand-blue);
+}
+.location-map-consent > div {
+  display: grid;
+  gap: 2px;
+}
+.location-map-consent strong {
+  font-size: 16px;
+}
+.location-map-consent span,
+.location-map-consent small,
+.location-map-consent a {
+  color: var(--brand-metal);
+  font-size: 12px;
+}
+.location-map-consent button {
+  min-height: 42px;
+  padding: 0 20px;
+  border: 1px solid var(--brand-blue);
+  border-radius: 999px;
+  background: var(--brand-blue);
+  color: white;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.location-map-consent button:hover {
+  background: color-mix(in srgb, var(--brand-blue) 82%, black);
+}
+.location-map-consent a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 .location-map-pin {
   position: absolute;

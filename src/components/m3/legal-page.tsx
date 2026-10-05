@@ -54,12 +54,12 @@ export function LegalPage({ kind }: { kind: "privacy" | "cookies" | "terms" }) {
             </p>
             <h2>4. Serviços de terceiros</h2>
             <p>
-              O mapa exibido na página inicial é fornecido pelo Google Maps e
-              pode conectar seu navegador ao Google quando essa área entra em
-              carregamento. O Google pode receber dados técnicos de conexão. Os
-              links para Google e WhatsApp levam a serviços com suas próprias
-              políticas. As fontes são locais. Fotografias de anúncios podem ser
-              obtidas do fornecedor Usadosbr pelo servidor de imagens.
+              O mapa só é carregado quando você escolhe “Carregar Google Maps”.
+              Essa ação conecta seu navegador ao Google, que pode receber dados
+              técnicos de conexão. Os links para Google e WhatsApp levam a
+              serviços com suas próprias políticas. As fontes são locais.
+              Fotografias de anúncios podem ser obtidas do fornecedor Usadosbr
+              pelo servidor de imagens.
             </p>
             <h2>5. Armazenamento</h2>
             <p>
@@ -115,17 +115,17 @@ export function LegalPage({ kind }: { kind: "privacy" | "cookies" | "terms" }) {
             </p>
             <h2>3. Conteúdo externo</h2>
             <p>
-              A página inicial incorpora o Google Maps. Ao carregar essa área,
-              seu navegador pode se conectar ao Google e utilizar tecnologias
-              definidas por esse serviço. Os links de WhatsApp e Google Maps
-              também podem abrir serviços externos, sob suas próprias políticas.
+              O Google Maps é opcional e depende de uma ação sua para carregar.
+              Ao ativá-lo, você se conecta ao Google. Os links de WhatsApp e
+              Google Maps também podem abrir serviços externos que usam
+              tecnologias próprias, sob suas políticas.
             </p>
             <h2>4. Suas escolhas</h2>
             <p>
-              O endereço também permanece disponível em texto e o atendimento
-              pode ser realizado por telefone. Para gerenciar cookies e
-              conteúdos de terceiros, consulte os controles de privacidade do
-              seu navegador e as opções do serviço correspondente.
+              Você pode navegar sem carregar o mapa. O endereço permanece
+              disponível em texto e o atendimento pode ser realizado por
+              telefone. Para gerenciar cookies de terceiros, consulte os
+              controles do seu navegador e as opções do serviço correspondente.
             </p>
             <h2>5. Mudanças futuras</h2>
             <p>
