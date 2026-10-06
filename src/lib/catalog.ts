@@ -63,7 +63,7 @@ export const normalizeCatalogBody = (value: string) => {
   const normalized = normalizeCatalogText(value);
   return normalized === "seda" ? "sedan" : normalized;
 };
-export const isAutomatic = (value: string | undefined) =>
+const isAutomatic = (value: string | undefined) =>
   ["automatico", "automatic", "cvt", "automatizado"].includes(
     compact(value || ""),
   );

@@ -136,10 +136,3 @@ export function updateVehicleMileage(
     throw Error("Invalid mileage");
   return replace(rows, id, (v) => ({ ...v, mileage }));
 }
-/** Future authenticated server adapter; deliberately no implementation/endpoints in Block 1. */
-export interface VehicleSnapshotWriter {
-  save(
-    vehicles: readonly Vehicle[],
-    expectedRevision: string,
-  ): Promise<{ revision: string }>;
-}

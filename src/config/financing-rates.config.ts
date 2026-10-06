@@ -1,6 +1,6 @@
-export type FinancingTariffPayment = "financed" | "upfront";
+type FinancingTariffPayment = "financed" | "upfront";
 
-export type FinancingTariff = {
+type FinancingTariff = {
   label: string;
   amount: number;
   payment: FinancingTariffPayment;
@@ -73,4 +73,3 @@ export const financingRatesConfig = {
     } satisfies Record<string, FinancingTariff>,
   },
 } as const;
-

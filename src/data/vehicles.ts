@@ -37,4 +37,3 @@ export async function getPublicVehicleBySlug(
 export function getVehicleDataDiagnostics(): VehicleDiagnostic[] {
   return structuredClone(diagnostics);
 }
-export const inventoryRetrievedAt = snapshot.lastUpdatedAt;

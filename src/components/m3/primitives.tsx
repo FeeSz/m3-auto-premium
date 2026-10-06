@@ -27,7 +27,7 @@ export function CTA({
     </Link>
   );
 }
-export function Metric({
+function Metric({
   value,
   label,
   second = false,
@@ -48,7 +48,7 @@ export function Metric({
     </div>
   );
 }
-export function Metrics() {
+function Metrics() {
   return (
     <div className="metrics">
       <Metric value="M3" label="Auto Premium" />

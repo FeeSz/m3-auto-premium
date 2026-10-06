@@ -1,4 +1,4 @@
-export const formatPrice = (value: number) =>
+export const money = (value: number) =>
   new Intl.NumberFormat("pt-BR", {
     style: "currency",
     currency: "BRL",
@@ -11,6 +11,4 @@ export const vehicleName = (v: { make: string; model: string }) =>
 
 export const formatMileage = (value: number) => formatNumber(value) + " km";
 export const formatYear = (value: number) => String(value);
-// Existing call sites retain the exact same rendered output.
-export const money = formatPrice;
 export const number = formatNumber;

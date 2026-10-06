@@ -1,7 +1,7 @@
 export const DEFAULT_ENTRY_PERCENT = 20;
 export const DEFAULT_MONTHLY_RATE = 1.99;
 export const FINANCE_TERMS = [12, 24, 36, 48, 60] as const;
-export const ENTRY_PRESET_TOLERANCE = 0.01;
+const ENTRY_PRESET_TOLERANCE = 0.01;
 
 export function entryFromPercent(price: number, percent: number) {
   if (!Number.isFinite(price) || !Number.isFinite(percent)) return 0;
@@ -9,7 +9,8 @@ export function entryFromPercent(price: number, percent: number) {
 }
 
 export function entryPercentFromValues(price: number, entry: number) {
-  if (!Number.isFinite(price) || price <= 0 || !Number.isFinite(entry)) return 0;
+  if (!Number.isFinite(price) || price <= 0 || !Number.isFinite(entry))
+    return 0;
   return (Math.max(0, entry) / price) * 100;
 }
 
@@ -20,8 +21,7 @@ export function matchingEntryPreset(
   if (!Number.isFinite(entryPercent)) return null;
   return (
     presets.find(
-      (preset) =>
-        Math.abs(entryPercent - preset) < ENTRY_PRESET_TOLERANCE,
+      (preset) => Math.abs(entryPercent - preset) < ENTRY_PRESET_TOLERANCE,
     ) ?? null
   );
 }

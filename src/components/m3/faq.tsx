@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
 import { Plus, Minus } from "lucide-react";
-export const faqItems = [
+const faqItems = [
   [
     "Como funciona o financiamento?",
     "Converse com a M3 sobre o veículo e a entrada que você pretende oferecer. As condições dependem da análise da instituição financeira. Solicite a proposta completa e o Custo Efetivo Total antes de contratar.",
@@ -26,7 +26,13 @@ export const faqItems = [
 export function FAQ({
   items = faqItems,
   eyebrow = "DÚVIDAS FREQUENTES",
-  title = <>O que você<br />precisa saber.</>,
+  title = (
+    <>
+      O que você
+      <br />
+      precisa saber.
+    </>
+  ),
   description = "Compra, avaliação, financiamento e atendimento. Encontre aqui os próximos passos para escolher com confiança.",
 }: {
   items?: readonly (readonly [string, string])[];

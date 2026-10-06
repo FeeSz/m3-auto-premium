@@ -3,7 +3,7 @@ import { ArrowRight, CameraOff } from "lucide-react";
 import type { Vehicle } from "@/lib/vehicles";
 import { money, number, vehicleName } from "@/lib/vehicle-format";
 import { Photo } from "./primitives";
-export function VehicleCard({ vehicle: v }: { vehicle: Vehicle }) {
+function VehicleCard({ vehicle: v }: { vehicle: Vehicle }) {
   return (
     <Link className="vehicle-card" href={"/estoque/" + v.slug}>
       <div className="card-image">

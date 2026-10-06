@@ -840,34 +840,6 @@
 .showroom-section h2 {
   max-width: 480px;
 }
-.showroom-map {
-  height: 400px;
-  border-radius: 16px;
-  overflow: hidden;
-  background: #e8e8e8;
-}
-.showroom-map iframe {
-  width: 100%;
-  height: 100%;
-  border: 0;
-}
-.map-placeholder {
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 16px;
-  text-align: center;
-  padding: 24px;
-}
-.map-placeholder p {
-  max-width: 340px;
-}
-.map-placeholder a {
-  font-size: 14px;
-  text-decoration: underline;
-}
 .showroom-section address {
   font-style: normal;
   color: var(--muted);
@@ -1392,9 +1364,6 @@
     grid-template-columns: 1fr;
     gap: 48px;
   }
-  .showroom-map {
-    height: 380px;
-  }
   .mission-grid {
     grid-template-columns: 1fr;
     gap: 32px;
@@ -1458,12 +1427,24 @@
   animation: gallery-panorama-previous 520ms cubic-bezier(0.22, 1, 0.36, 1) both;
 }
 @keyframes gallery-panorama-next {
-  from { opacity: 0.72; transform: translateX(18px); }
-  to { opacity: 1; transform: translateX(0); }
+  from {
+    opacity: 0.72;
+    transform: translateX(18px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
 }
 @keyframes gallery-panorama-previous {
-  from { opacity: 0.72; transform: translateX(-18px); }
-  to { opacity: 1; transform: translateX(0); }
+  from {
+    opacity: 0.72;
+    transform: translateX(-18px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
 }
 .gallery-panorama-current {
   position: relative;
@@ -1486,7 +1467,9 @@
   opacity: 0;
   transform: translateY(5px);
   backdrop-filter: blur(12px);
-  transition: opacity 180ms ease, transform 180ms ease;
+  transition:
+    opacity 180ms ease,
+    transform 180ms ease;
 }
 .gallery-panorama-current:hover .gallery-expand-hint,
 .gallery-panorama-current:focus-visible .gallery-expand-hint {
@@ -1505,8 +1488,12 @@
   animation: gallery-viewer-in 220ms ease both;
 }
 @keyframes gallery-viewer-in {
-  from { opacity: 0; }
-  to { opacity: 1; }
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
 .gallery-viewer-frame {
   position: relative;
@@ -1518,8 +1505,14 @@
   animation: gallery-viewer-frame-in 320ms cubic-bezier(0.22, 1, 0.36, 1) both;
 }
 @keyframes gallery-viewer-frame-in {
-  from { opacity: 0; transform: translateY(16px) scale(0.985); }
-  to { opacity: 1; transform: translateY(0) scale(1); }
+  from {
+    opacity: 0;
+    transform: translateY(16px) scale(0.985);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
 }
 .gallery-viewer-toolbar {
   position: absolute;
@@ -1568,7 +1561,9 @@
   background: rgba(255, 255, 255, 0.1);
   color: #fff;
   backdrop-filter: blur(12px);
-  transition: background 180ms ease, transform 180ms ease;
+  transition:
+    background 180ms ease,
+    transform 180ms ease;
 }
 .gallery-viewer-toolbar button {
   width: 42px;
@@ -1597,8 +1592,14 @@
   object-fit: contain;
 }
 @keyframes gallery-viewer-photo-in {
-  from { opacity: 0.35; transform: scale(0.992); }
-  to { opacity: 1; transform: scale(1); }
+  from {
+    opacity: 0.35;
+    transform: scale(0.992);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
 }
 .gallery-viewer-image > button {
   position: absolute;
@@ -1611,16 +1612,24 @@
 .gallery-viewer-image > button:hover {
   transform: translateY(-50%) scale(1.04);
 }
-.gallery-viewer-prev { left: 18px; }
-.gallery-viewer-next { right: 18px; }
+.gallery-viewer-prev {
+  left: 18px;
+}
+.gallery-viewer-next {
+  right: 18px;
+}
 .gallery-viewer-image > button:disabled {
   opacity: 0.45;
   cursor: default;
 }
 
 @media (max-width: 809px) {
-  .gallery-mobile-stage { cursor: zoom-in; }
-  .gallery-viewer { padding: 0; }
+  .gallery-mobile-stage {
+    cursor: zoom-in;
+  }
+  .gallery-viewer {
+    padding: 0;
+  }
   .gallery-viewer-frame {
     width: 100%;
     height: 100%;
@@ -1634,8 +1643,12 @@
     width: 42px;
     height: 42px;
   }
-  .gallery-viewer-prev { left: 12px; }
-  .gallery-viewer-next { right: 12px; }
+  .gallery-viewer-prev {
+    left: 12px;
+  }
+  .gallery-viewer-next {
+    right: 12px;
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -1972,7 +1985,9 @@
   font-size: 13px;
   font-weight: 680;
   white-space: nowrap;
-  transition: transform 180ms ease, background-color 180ms ease;
+  transition:
+    transform 180ms ease,
+    background-color 180ms ease;
 }
 .vehicle-gallery-empty > a:hover {
   background: var(--brand-blue);

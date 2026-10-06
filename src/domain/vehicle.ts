@@ -31,7 +31,7 @@ export type VehicleImage = {
   width?: number;
   height?: number;
 };
-export type VehicleSource = {
+type VehicleSource = {
   provider: string;
   sourceUrl: string;
   externalId: string;
